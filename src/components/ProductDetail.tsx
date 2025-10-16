@@ -4,7 +4,7 @@ import { ShoppingCart, Heart, Star, ArrowLeft, Truck, Shield, RotateCcw } from '
 import { useCart } from '../context/CartContext';
 import { products } from '../data/products';
 import { ChatWidget } from '@un360/web-sdk';
-
+  
 const ProductDetail: React.FC = () => {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -39,17 +39,11 @@ const ProductDetail: React.FC = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <ChatWidget
-        apiKey="demo_key_12345"
-        productId="product-123"
-        apiBaseUrl="https://api.golupetstore.com"
-        position="bottom-right"
-        theme={{
-          primaryColor: '#1976d2',
-          secondaryColor: '#fff ',
-        }}
-        greetingMessage="Hi! How can I help you with this product?"
-        placeholder="Ask me anything..."
-      />
+    apiKey="demo_key_12345"
+    clientId="client_store_id_FOR_TESTING" // <-- YOU MUST PROVIDE THIS
+    apiBaseUrl="https://sdk-backend-teaa.onrender.com"
+    position="bottom-right"
+/>
       {/* Breadcrumb */}
       <nav className="flex items-center space-x-2 text-sm text-gray-600 mb-6">
         <Link to="/" className="hover:text-blue-600">Home</Link>

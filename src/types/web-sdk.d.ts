@@ -1,7 +1,7 @@
 declare module '@un360/web-sdk' {
   export const ChatWidget: React.ComponentType<{
     apiKey: string;
-    productId: string;
+    clientId: string;
     apiBaseUrl: string;
     position?: 'bottom-left' | 'bottom-right' | 'top-left' | 'top-right';
     theme?: {
