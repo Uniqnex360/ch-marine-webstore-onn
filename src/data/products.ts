@@ -228,8 +228,8 @@ export const products: Product[] = [
       { name: 'Series', value: 'MC Pro' },
       { name: 'Application', value: 'Air Conditioning' }
     ]
-  },
-  {
+  }
+  ,{
   "id": "13",
   "sku": "H3WPS496TAM6-80",
   "name": "Hoover H-Wash 350 9KG 1400RPM Freestanding Washing Machine - White | H3WPS496TAM6-80",
@@ -243,396 +243,206 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Hoover"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hoover\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "9KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Variable Spin Speed",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9KG\""
+      "name": "Child Safety Lock",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "Large Porthole",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "End of Programme Indication",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
+      "name": "Time Remaining",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Programmes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Child Safety Lock\","
+      "name": "No. of Programmes",
+      "value": "16"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "Quick Wash Time",
+      "value": "14min"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Large Porthole\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"End of Programme Indication\","
+      "name": "Annual Water Consumption (l)",
+      "value": "9200"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Water Consumption (l)",
+      "value": "46"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Time Remaining\","
+      "name": "Energy Consumption (kWh)",
+      "value": "0.445"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level dB (spin)",
+      "value": "76"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Programmes\","
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "Depth (mm)",
+      "value": "520"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "65"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14min\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Add Laundry Feature",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Control Type",
+      "value": "Dials"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Temperature Control",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Delay Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Water Consumption (l)\","
+      "name": "Built-in Water Heater",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9200\""
+      "name": "Stackable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Water Supply",
+      "value": "Cold"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Product Category Group",
+      "value": "White Goods"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Display Screen Type",
+      "value": "Digital"
     },
     {
-      "name": "\"value\"",
-      "value": "\"46\""
+      "name": "Weighted Energy Consumption [100 Cycles, Eco 40-60]",
+      "value": "49"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Programme Duration Rated Capacity",
+      "value": "3:48"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Airborn Acoustical Noise Emission Class",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh)\","
+      "name": "Energy Efficiency Index (EEIw)",
+      "value": "46.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.445\""
+      "name": "Rinsing Effectiveness (G/Kg)",
+      "value": "4.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level dB (spin)\","
+      "name": "Maximum Temperature Inside The Treated Textile Rated Capacity (°C)",
+      "value": "32"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76\""
+      "name": "Weighted Remaining Moisture Content(A) (%)",
+      "value": "53.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"520\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"850\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Add Laundry Feature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dials\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperature Control\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Delay Timer\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Built-in Water Heater\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stackable\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Supply\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Cold\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Product Category Group\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"White Goods\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Screen Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Digital\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weighted Energy Consumption [100 Cycles, Eco 40-60]\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"49\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programme Duration Rated Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3:48\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Airborn Acoustical Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"B\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index (EEIw)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"46.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rinsing Effectiveness (G/Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Temperature Inside The Treated Textile Rated Capacity (°C)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"32\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weighted Remaining Moisture Content(A) (%)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"53.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Spin Speed Rated Capacity (Rpm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1351\""
+      "name": "Spin Speed Rated Capacity (Rpm)",
+      "value": "1351"
     }
   ]
 },
@@ -650,368 +460,193 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Bosch"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bosch\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "9KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Variable Spin Speed",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Number of T-shirts per wash load",
+      "value": "45"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9KG\""
+      "name": "Child Safety Lock",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
+      "name": "Half Load Function",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "Time Remaining",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Cycle Pause",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Programmes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Child Safety Lock\","
+      "name": "No. of Programmes",
+      "value": "15"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Half Load Function\","
+      "name": "Quick Wash Time",
+      "value": "15min, 30min"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "Washer Programmes",
+      "value": "Drain / Spin, easy ironing steam assisted, Mixed Load, Night Wash, Outdoor, Prewash, Ready in, Shirts, Single Rinse, SpeedPerfect, Spin speed reduction, start/pause with reload function, Super Quick 15/30, Temperature selection"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Time Remaining\","
+      "name": "Water Consumption (l)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "49"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cycle Pause\","
+      "name": "Noise Level dB (spin)",
+      "value": "72"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Programmes\","
+      "name": "Depth (mm)",
+      "value": "630"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15\""
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Weight (kg)",
+      "value": "70.3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "EAN Code",
+      "value": "4242005422203"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15min, 30min\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
+      "name": "Airborne Acoustical Noise Emission Class",
+      "value": "A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Drain / Spin, easy ironing steam assisted, Mixed Load, Night Wash, Outdoor, Prewash, Ready in, Shirts, Single Rinse, SpeedPerfect, Spin speed reduction, start/pause with reload function, Super Quick 15/30, Temperature selection\""
+      "name": "Energy Efficiency Index For The Washing Cycle",
+      "value": "51.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Washing Efficiency Index Eco 40-60 Programme",
+      "value": "1.031"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Door Hinge",
+      "value": "Left"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Reload Function",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Digital Countdown Indicator",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Waterperfectplus",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Self Adjusting Water Level To Load",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Cottons Programme",
+      "value": "Standard Cold - 90°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Easy-Care Programme",
+      "value": "Standard Cold - 60°C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"49\""
+      "name": "Fuse protection",
+      "value": "10 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level dB (spin)\","
+      "name": "Voltage",
+      "value": "220 - 240 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"72\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"630\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"850\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"70.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4242005422203\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Airborne Acoustical Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index For The Washing Cycle\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"51.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Washing Efficiency Index Eco 40-60 Programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.031\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Hinge\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Left\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Reload Function\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Countdown Indicator\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Waterperfectplus\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Self Adjusting Water Level To Load\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cottons Programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Standard Cold - 90°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Easy-Care Programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Standard Cold - 60°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fuse protection\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220 - 240 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy consumption in kWh per kg per cycle of eco 40-60 programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.489 kWh\""
+      "name": "Energy consumption in kWh per kg per cycle of eco 40-60 programme",
+      "value": "0.489 kWh"
     }
   ]
 },
@@ -1029,544 +664,281 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Bosch"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bosch\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "10KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Variable Spin Speed",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10KG\""
+      "name": "Child Safety Lock",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "End of Programme Indication",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Cycle Pause",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
+      "name": "Programmes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Number of Programmes",
+      "value": "14"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Child Safety Lock\","
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Quick Wash Time",
+      "value": "15min, 30min"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Washer Programmes",
+      "value": "Iron Assist, Cottons, Hygiene Plus, Eco 40-60, Sportswear, Easy Care, Super Quick 15/30, Delicates/Silk, Easy Care Plus, Wool, Drum Clean, Mixed Load, Spin/Drain, Rinse"
     },
     {
-      "name": "\"name\"",
-      "value": "\"End of Programme Indication\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Water Consumption (l)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cycle Pause\","
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "51"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level (dBa)",
+      "value": "74"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Programmes\","
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14\""
+      "name": "Depth (mm)",
+      "value": "630"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "72.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15min, 30min\""
+      "name": "EAN Code",
+      "value": "4242005513116"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Iron Assist, Cottons, Hygiene Plus, Eco 40-60, Sportswear, Easy Care, Super Quick 15/30, Delicates/Silk, Easy Care Plus, Wool, Drum Clean, Mixed Load, Spin/Drain, Rinse\""
+      "name": "Noise Emission Class",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Wash Optimization",
+      "value": "Easy ironing steam assisted, Drain / Spin, Mixed Load, SportsWear, Single Rinse, Super Quick 15/30, Reduced Ironing option, Ready in, stain selection, start/pause with reload function, Temperature selection, SpeedPerfect, Prewash, Spin speed reduction"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Water Protection System",
+      "value": "Multiple water protection"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Energy Efficiency Index for the Washing Cycle",
+      "value": "51.7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Washing Efficiency Index Eco 40-60 Programme",
+      "value": "1.035"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Drum Volume (l)",
+      "value": "70"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Length Electrical Supply Cord (mm)",
+      "value": "2100"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Maximum Adjustability Feet",
+      "value": "12 mm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Reload Function",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"51\""
+      "name": "Loading Sensor",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Digital Countdown Indicator",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"74\""
+      "name": "Drying Progress Indicator",
+      "value": "LED-display, LED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Water Plus",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Start Delay Options",
+      "value": "Continuous"
     },
     {
-      "name": "\"value\"",
-      "value": "\"600\""
+      "name": "Self Adjusting Water Level to Load",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Wave Drum",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"630\""
+      "name": "Interior Light",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Ecosilence Drive - Efficient and Extra Silent",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"850\""
+      "name": "Super15",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Super Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"72.5\""
+      "name": "SpeedPerfect",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Automatic Stain Removal System",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Cold Wash Option",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4242005513116\""
+      "name": "Pre-wash",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Cottons Programme",
+      "value": "Standard cold - 90°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
+      "name": "Easy-care Programme",
+      "value": "Standard cold - 60°C, Easy-care plus"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Separate Temperature Control Options",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Water Plus",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Emission Class\","
+      "name": "Balance Control",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Foam Control",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wash Optimization\","
+      "name": "Water Protection System",
+      "value": "Multiple Water Protection"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Easy ironing steam assisted, Drain / Spin, Mixed Load, SportsWear, Single Rinse, Super Quick 15/30, Reduced Ironing option, Ready in, stain selection, start/pause with reload function, Temperature selection, SpeedPerfect, Prewash, Spin speed reduction\""
+      "name": "Door Hinge",
+      "value": "Left"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Protection System\","
+      "name": "Connection rating",
+      "value": "2300 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Multiple water protection\""
+      "name": "Fuse protection",
+      "value": "10 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index for the Washing Cycle\","
+      "name": "Voltage",
+      "value": "220-240 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"51.7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Washing Efficiency Index Eco 40-60 Programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.035\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drum Volume (l)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"70\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Length Electrical Supply Cord (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2100\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Adjustability Feet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"12 mm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Reload Function\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Loading Sensor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Countdown Indicator\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drying Progress Indicator\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LED-display, LED\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Plus\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Start Delay Options\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Continuous\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Self Adjusting Water Level to Load\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wave Drum\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Interior Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ecosilence Drive - Efficient and Extra Silent\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Super15\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Super Quick Wash\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SpeedPerfect\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Automatic Stain Removal System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cold Wash Option\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pre-wash\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cottons Programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Standard cold - 90°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Easy-care Programme\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Standard cold - 60°C, Easy-care plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Separate Temperature Control Options\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Plus\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Balance Control\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Foam Control\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Protection System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Multiple Water Protection\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Hinge\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Left\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connection rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2300 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fuse protection\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50 Hz\""
+      "name": "Frequency",
+      "value": "50 Hz"
     }
   ]
 },
@@ -1584,248 +956,133 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Hoover"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hoover\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "14KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Brushless Motor",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Number of T-shirts per wash load",
+      "value": "70"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14KG\""
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Max. Delay Timer Length (hrs)",
+      "value": "24"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brushless Motor\","
+      "name": "Programmes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"70\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Water Consumption (l)",
+      "value": "56"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max. Delay Timer Length (hrs)\","
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "56"
     },
     {
-      "name": "\"value\"",
-      "value": "\"24\""
+      "name": "Noise Level (dBa)",
+      "value": "80"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Depth (mm)",
+      "value": "680"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "EAN Code",
+      "value": "8059019094861"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Connectivity",
+      "value": "Advanced remote control and extra content (Wi-Fi + Bluetooth)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "IoT App",
+      "value": "hOn"
     },
     {
-      "name": "\"value\"",
-      "value": "\"56\""
+      "name": "Acoustical Noise Emission",
+      "value": "C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Drum Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"56\""
+      "name": "Motor Type",
+      "value": "Inverter BPM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"80\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"680\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"850\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8059019094861\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Advanced remote control and extra content (Wi-Fi + Bluetooth)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"IoT App\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"hOn\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Acoustical Noise Emission\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drum Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Inverter BPM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240 V\""
+      "name": "Voltage",
+      "value": "220-240 V"
     }
   ]
 },
@@ -1843,364 +1100,192 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Hoover"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hoover\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "9KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Half Load Function",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9KG\""
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Max. Delay Timer Length (hrs)",
+      "value": "24"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "Removable Top",
+      "value": "No"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Large Porthole",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Half Load Function\","
+      "name": "Time Remaining",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Programmes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "No. of Programmes",
+      "value": "16"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max. Delay Timer Length (hrs)\","
+      "name": "Energy Rating",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"24\""
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Top\","
+      "name": "Water Consumption (l)",
+      "value": "46"
     },
     {
-      "name": "\"value\"",
-      "value": "\"No\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "57"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Large Porthole\","
+      "name": "Energy Consumption (kWh)",
+      "value": "0.570"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level dB (spin)",
+      "value": "79"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Time Remaining\","
+      "name": "Depth (mm)",
+      "value": "530"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Weight (kg)",
+      "value": "65"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Programmes\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "EAN Code",
+      "value": "8059019067452"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Connectivity",
+      "value": "Extra content and proximity control (NFC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "IoT App",
+      "value": "Wizard"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Motor Type",
+      "value": "AC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"46\""
+      "name": "Drum Volume",
+      "value": "58"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Drum Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"57\""
+      "name": "Plug Type",
+      "value": "UK"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh)\","
+      "name": "Voltage (V)",
+      "value": "220-240"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.570\""
+      "name": "Mix Power System",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level dB (spin)\","
+      "name": "Programme Duration Rated Capacity",
+      "value": "0.158333333333333"
     },
     {
-      "name": "\"value\"",
-      "value": "\"79\""
+      "name": "Airborn Acoustical Noise Emission Class",
+      "value": "C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Cabinet Depth (without pipes and door)",
+      "value": "470"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Energy Efficiency Index(a) (EEIW)",
+      "value": "59.9"
     },
     {
-      "name": "\"value\"",
-      "value": "\"600\""
+      "name": "Washing Efficiency"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Index(a)",
+      "value": "1.031"
     },
     {
-      "name": "\"value\"",
-      "value": "\"530\""
+      "name": "Rinsing Effectiveness (g/kg)(a)",
+      "value": "4.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"850\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8059019067452\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Extra content and proximity control (NFC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"IoT App\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wizard\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drum Volume\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"58\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drum Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Plug Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UK\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Mix Power System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programme Duration Rated Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.158333333333333\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Airborn Acoustical Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cabinet Depth (without pipes and door)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"470\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index(a) (EEIW)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"59.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Washing Efficiency\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Index(a)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.031\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rinsing Effectiveness (g/kg)(a)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weighted Remaining Moisture Content(a) (%)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"53.9\""
+      "name": "Weighted Remaining Moisture Content(a) (%)",
+      "value": "53.9"
     }
   ]
 },
@@ -2218,328 +1303,173 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Electrolux"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Electrolux\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "10KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1351 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Variable Spin Speed",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10KG\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Cycle Pause",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1351 RPM\""
+      "name": "Programmes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Number of Programmes",
+      "value": "14"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
+      "name": "Quick Wash Time",
+      "value": "20min"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Washer Programmes",
+      "value": "Cottons, Synthetics, Delicates, Wool, Rapid 20 Min, Rinse, Spin/Drain, Jeans, Sport, Silk, Duvet, Outdoor, Hygiene, Eco 40-60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cycle Pause\","
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Water Consumption (l)",
+      "value": "52"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "51"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Programmes\","
+      "name": "Noise Level (dBa)",
+      "value": "76"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Width (mm)",
+      "value": "597"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "636"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "Height (mm)",
+      "value": "847"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20min\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
+      "name": "EAN Code",
+      "value": "7333394059266"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cottons, Synthetics, Delicates, Wool, Rapid 20 Min, Rinse, Spin/Drain, Jeans, Sport, Silk, Duvet, Outdoor, Hygiene, Eco 40-60\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Drum Volume (L)",
+      "value": "68.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Motor System",
+      "value": "Permanent Magnet"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Drawer Compartments",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Eco 40-60 Programme Duration (H",
+      "value": "Min): 3:50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"52\""
+      "name": "Frequency (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Wheels/Feet",
+      "value": "4 Adjustable Feet"
     },
     {
-      "name": "\"value\"",
-      "value": "\"51\""
+      "name": "Cord Length (m)",
+      "value": "1.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Inlet Hose Length (cm)",
+      "value": "130"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76\""
+      "name": "Outlet Hose Length (cm)",
+      "value": "145"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Total Electricity Loading (W)",
+      "value": "2100"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Required Fuse (A)",
+      "value": "13"
     },
     {
-      "name": "\"value\"",
-      "value": "\"597\""
+      "name": "Porthole Type",
+      "value": "E Full White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Woolmark",
+      "value": "Woolmark Blue"
     },
     {
-      "name": "\"value\"",
-      "value": "\"636\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"847\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7333394059266\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drum Volume (L)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"68.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Permanent Magnet\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drawer Compartments\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Eco 40-60 Programme Duration (H\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Min): 3:50\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wheels/Feet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4 Adjustable Feet\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Inlet Hose Length (cm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"130\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Outlet Hose Length (cm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"145\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Total Electricity Loading (W)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2100\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Required Fuse (A)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"13\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Porthole Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"E Full White\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Woolmark\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Woolmark Blue\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weighted Remaining Moisture Content (%)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"53.5\""
+      "name": "Weighted Remaining Moisture Content (%)",
+      "value": "53.5"
     }
   ]
 },
@@ -2557,460 +1487,238 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Thor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Thor\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "8KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1200 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Brushless Motor",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Number of T-shirts per wash load",
+      "value": "40"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8KG\""
+      "name": "Variable Spin Speed",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Child Safety Lock",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1200 RPM\""
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brushless Motor\","
+      "name": "Max. Delay Timer Length (hrs)",
+      "value": "18"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Cycle Pause",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40\""
+      "name": "Programmes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
+      "name": "Number of Programmes",
+      "value": "16"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Child Safety Lock\","
+      "name": "Quick Wash Time",
+      "value": "15min"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "Washer Programmes",
+      "value": "Cotton, Eco40-60, Sports, Duvet, Delicate, Baby Care, Storm Wash, Steam, Mix, Quick 15, Rapid 42, 20℃, Wool, Rinse + Spin, Spin Only, Tub Clean"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max. Delay Timer Length (hrs)\","
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18\""
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Water Consumption (l)",
+      "value": "40"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "47"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cycle Pause\","
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "174"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level (dBa)",
+      "value": "76"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Programmes\","
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "Depth (mm)",
+      "value": "480"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "53"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15min\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Drum Volume (l)",
+      "value": "43"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
+      "name": "Intelligent Washing System",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cotton, Eco40-60, Sports, Duvet, Delicate, Baby Care, Storm Wash, Steam, Mix, Quick 15, Rapid 42, 20℃, Wool, Rinse + Spin, Spin Only, Tub Clean\""
+      "name": "Auto Balance & Load Detect",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Foam Sensing & Removal",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Variable Spin Speed",
+      "value": "1200/800/400/No spin"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Variable Temperature",
+      "value": "Cold/20/40/60/90°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Hot & Cold Water Option",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Auto Restart",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Manual/Auto Door",
+      "value": "Both options available"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40\""
+      "name": "LED Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Door Size",
+      "value": "439 mm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"47\""
+      "name": "Performance",
+      "value": "CTN 60(40)+Max rpm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Operating Voltage",
+      "value": "AC 220-240V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"174\""
+      "name": "Rated Frequency",
+      "value": "50Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Rated Heating Input Power",
+      "value": "1600W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76\""
+      "name": "Maximum Input Power",
+      "value": "1700W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Washing Input Power",
+      "value": "200W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Spinning Input Power",
+      "value": "500W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"600\""
+      "name": "Energy Consumption (per cycle)",
+      "value": "79 kWh"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Washing Efficiency Index",
+      "value": "03"
     },
     {
-      "name": "\"value\"",
-      "value": "\"480\""
+      "name": "Waterproof Class",
+      "value": "IPX4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Noise Level – Wash",
+      "value": "60 dBA"
     },
     {
-      "name": "\"value\"",
-      "value": "\"850\""
+      "name": "Water Pressure",
+      "value": "03-1 MPa"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Additional Options",
+      "value": "Prewash, Pre Delay / Time Delay, Tub Clean, Spin Only, Temperature Selection, Speed Adjustment"
     },
     {
-      "name": "\"value\"",
-      "value": "\"53\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Drum Volume (l)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"43\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Intelligent Washing System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Auto Balance & Load Detect\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Foam Sensing & Removal\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1200/800/400/No spin\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Variable Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Cold/20/40/60/90°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hot & Cold Water Option\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Auto Restart\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Manual/Auto Door\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Both options available\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"LED Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"439 mm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Performance\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"CTN 60(40)+Max rpm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC 220-240V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Heating Input Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1600W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Input Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1700W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Washing Input Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"200W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Spinning Input Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"500W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (per cycle)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"79 kWh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Washing Efficiency Index\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"03\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Waterproof Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"IPX4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Level – Wash\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60 dBA\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Pressure\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"03-1 MPa\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Additional Options\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Prewash, Pre Delay / Time Delay, Tub Clean, Spin Only, Temperature Selection, Speed Adjustment\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Loading Quantity (40HQ)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"252 Units\""
+      "name": "Loading Quantity (40HQ)",
+      "value": "252 Units"
     }
   ]
 },
@@ -3028,288 +1736,153 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Whirlpool"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Whirlpool\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "9KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1351 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Variable Spin Speed",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9KG\""
+      "name": "Delay Option",
+      "value": "Delay Start"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1351 RPM\""
+      "name": "Cycle Pause",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Programmes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Number of Programmes",
+      "value": "14"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Spin Speed\","
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Quick Wash Time",
+      "value": "30 Mins"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Delay Option\","
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Delay Start\""
+      "name": "Washer Programmes",
+      "value": "Cotton 40, Cotton 60, Mixed/Magic 40, Synthetics 30, Wool, Rapid 30"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cycle Pause\","
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Water Consumption (l)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "49"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Programmes\","
+      "name": "Noise Level (dBa)",
+      "value": "78"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Width (mm)",
+      "value": "595"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "630"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "Height (mm)",
+      "value": "845"
     },
     {
-      "name": "\"value\"",
-      "value": "\"30 Mins\""
+      "name": "Weight (kg)",
+      "value": "71"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "8003437059353"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cotton 40, Cotton 60, Mixed/Magic 40, Synthetics 30, Wool, Rapid 30', Big Items/Duvet, Delicates, Sport/Outdoor, Rinse & Spin, Drain & spin, Eco 40-60, 20°C\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Adjustable Feet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Connection Rating (W)",
+      "value": "1850"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Length of Electrical Supply Cord (cm)",
+      "value": "120"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Type of Display",
+      "value": "Big Digit"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Current (A)",
+      "value": "13"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"49\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"78\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"595\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"630\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"845\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"71\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8003437059353\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Adjustable Feet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connection Rating (W)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1850\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Length of Electrical Supply Cord (cm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Type of Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Big Digit\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Current (A)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"13\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Separate Temperature Control Options\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Steps\""
+      "name": "Separate Temperature Control Options",
+      "value": "Steps"
     }
   ]
 },
@@ -3327,384 +1900,201 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Miele"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Miele\""
+      "name": "Colour",
+      "value": "Lotus White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lotus White\""
+      "name": "Load Capacity",
+      "value": "10KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Half Load Function",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10KG\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Programmes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "No. of Programmes",
+      "value": "12"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Washer Programmes",
+      "value": "ECO 40-60, Cottons, Minimum iron, Delicates, Woollens, Dark Garments/Denim, MobileStart, QuickPowerWash, Express 20, Shirts, Proofing, Drain/Spin"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Half Load Function\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Water Consumption (l)",
+      "value": "53"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "52"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Programmes\","
+      "name": "Energy Consumption (kWh)",
+      "value": "0.514"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "Noise Level dB (spin)",
+      "value": "71"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
+      "name": "Depth (mm)",
+      "value": "640"
     },
     {
-      "name": "\"value\"",
-      "value": "\"ECO 40-60, Cottons, Minimum iron, Delicates, Woollens, Dark Garments/Denim, MobileStart, QuickPowerWash, Express 20, Shirts, Proofing, Drain/Spin\""
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "EAN Code",
+      "value": "4002516789192"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
+      "name": "Control Panel Colour",
+      "value": "Lotus White"
     },
     {
-      "name": "\"value\"",
-      "value": "\"53\""
+      "name": "Door Design",
+      "value": "Chrome"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
+      "name": "Rotary Selector Colour",
+      "value": "Lotus White / Chrome Ring"
     },
     {
-      "name": "\"value\"",
-      "value": "\"52\""
+      "name": "Control Panel Version",
+      "value": "Straight"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh)\","
+      "name": "Control Type",
+      "value": "Rotary Control"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.514\""
+      "name": "Display",
+      "value": "DirectSensor White, 7 Segment"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level dB (spin)\","
+      "name": "Energy Efficiency Index (EEI)",
+      "value": "52"
     },
     {
-      "name": "\"value\"",
-      "value": "\"71\""
+      "name": "Washing Efficiency Index",
+      "value": "1.031"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Rinsing Effectiveness (g/kg)",
+      "value": "5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Maximum Temperature Inside The Treated Textile (°C) (Rated Capacity)",
+      "value": "42"
     },
     {
-      "name": "\"value\"",
-      "value": "\"600\""
+      "name": "Maximum Temperature Inside The Treated Textile (°C) (Half)",
+      "value": "33"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Maximum Temperature Inside The Treated Textile (°C) (Quarter)",
+      "value": "26"
     },
     {
-      "name": "\"value\"",
-      "value": "\"640\""
+      "name": "Weighted Remaining Moisture Content (%)",
+      "value": "52"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Spin Speed (RPM) (Half)",
+      "value": "1400"
     },
     {
-      "name": "\"value\"",
-      "value": "\"850\""
+      "name": "Spin Speed (RPM) (Quarter)",
+      "value": "1400"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Programme Duration (h",
+      "value": "min) (Rated Capacity): 3:59"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Programme Duration (h",
+      "value": "min) (Half): 2:59"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4002516789192\""
+      "name": "Programme Duration (h",
+      "value": "min) (Quarter): 2:59"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Airborne Acoustical Noise Emission Class (Spinning Phase)",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
+      "name": "Off-mode (W) (If Applicable)",
+      "value": "0.40"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Delay Start (W) (If Applicable)",
+      "value": "3.60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Panel Colour\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lotus White\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Design\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Chrome\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rotary Selector Colour\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lotus White / Chrome Ring\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Panel Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Straight\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Rotary Control\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DirectSensor White, 7 Segment\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index (EEI)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"52\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Washing Efficiency Index\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.031\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rinsing Effectiveness (g/kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Temperature Inside The Treated Textile (°C) (Rated Capacity)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"42\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Temperature Inside The Treated Textile (°C) (Half)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"33\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Temperature Inside The Treated Textile (°C) (Quarter)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"26\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weighted Remaining Moisture Content (%)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"52\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Spin Speed (RPM) (Half)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Spin Speed (RPM) (Quarter)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programme Duration (h\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"min) (Rated Capacity): 3:59\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programme Duration (h\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"min) (Half): 2:59\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programme Duration (h\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"min) (Quarter): 2:59\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Airborne Acoustical Noise Emission Class (Spinning Phase)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Off-mode (W) (If Applicable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.40\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Delay Start (W) (If Applicable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3.60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Networked Standby (W) (If Applicable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.80\""
+      "name": "Networked Standby (W) (If Applicable)",
+      "value": "0.80"
     }
   ]
 },
@@ -3722,228 +2112,122 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Thor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Thor\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Load Capacity",
+      "value": "12KG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Spin Speed",
+      "value": "1400 RPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of T-shirts per wash load",
+      "value": "60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Load Capacity\","
+      "name": "Child Safety Lock",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12KG\""
+      "name": "Large Porthole",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Spin Speed\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1400 RPM\""
+      "name": "Cycle Pause",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of T-shirts per wash load\","
+      "name": "Programmes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"60\""
+      "name": "Number of Programmes",
+      "value": "14"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Child Safety Lock\","
+      "name": "Quick Wash",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Quick Wash Time",
+      "value": "15min"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Large Porthole\","
+      "name": "Steam Option",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Washer Programmes",
+      "value": "Cotton, Eco 40-60, Sports, Duvet, Baby Care, Steam, Mix, Quick 15"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cycle Pause\","
+      "name": "Spin Performance",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Water Consumption (l)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Programmes\""
+      "name": "Energy Consumption (kWh/100 cycle)",
+      "value": "48"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Programmes\","
+      "name": "Noise Level (dBa)",
+      "value": "76"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash\","
+      "name": "Width (mm)",
+      "value": "600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "640"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Quick Wash Time\","
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15min\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Steam Option\","
+      "name": "EAN Code",
+      "value": "5391503420811"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Washer Programmes\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Cotton, Eco 40-60, Sports, Duvet, Baby Care, Steam, Mix, Quick 15', 20°C, Wool, Rinse & Spin, Spin Only\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Spin Performance\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"B\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Consumption (l)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/100 cycle)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"48\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"76\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"640\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"850\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5391503420811\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -3961,192 +2245,103 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Tower"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tower\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Power",
+      "value": "1700W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Food Capacity (kg)",
+      "value": "7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1700W\""
+      "name": "Control Type",
+      "value": "Touch Control"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (kg)\","
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7\""
+      "name": "Auto Shut-off",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Adjustable Thermostat",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Touch Control\""
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Width (mm)",
+      "value": "427"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "319"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Height (mm)",
+      "value": "387"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Shut-off\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Thermostat\","
+      "name": "Steam Cooking Function",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Water Tank Capacity (ml)",
+      "value": "1400"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
+      "name": "Number of Cooking Modes",
+      "value": "7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Timer (min)",
+      "value": "60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Temperature",
+      "value": "80-200°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"427\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"319\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"387\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Steam Cooking Function\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (ml)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Cooking Modes\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Timer (min)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"80-200°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Non-Slip Feet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Non-Slip Feet",
+      "value": "Yes"
     }
   ]
 },
@@ -4164,156 +2359,86 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Power",
+      "value": "2470W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Food Capacity (kg)",
+      "value": "9.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Control Type",
+      "value": "Knob"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2470W\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (kg)\","
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9.5\""
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Knob\""
+      "name": "Features",
+      "value": "Independent cooking zones, Extra-large capacity, Easy-to-use, Variable temperature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Width (mm)",
+      "value": "415"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "270"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Height (mm)",
+      "value": "325"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "8.8000"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "0622356245265"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Independent cooking zones, Extra-large capacity, Easy-to-use, Variable temperature\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"415\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"270\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"325\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.8000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0622356245265\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -4331,172 +2456,94 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Food Capacity (l)",
+      "value": "4.7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Control Type",
+      "value": "Button"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (l)\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4.7\""
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Button\""
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Width (mm)",
+      "value": "285"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "360"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Height (mm)",
+      "value": "265"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "4.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "0622356282949"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Temperature Range",
+      "value": "40°C to 240°C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"285\""
+      "name": "Pre-Set Functions",
+      "value": "Air Fry, Roast, Reheat, Dehydrate"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"360\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"265\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0622356282949\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperature Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"40°C to 240°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pre-Set Functions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Air Fry, Roast, Reheat, Dehydrate\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.8\""
+      "name": "Cord Length (m)",
+      "value": "0.8"
     }
   ]
 },
@@ -4514,156 +2561,86 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Power",
+      "value": "2470W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2470W\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Width (mm)",
+      "value": "280"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "420"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Height (mm)",
+      "value": "380"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "9.76"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "622356297837"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"280\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Programmes",
+      "value": "Max Crisp, Air Fry, Roast, Reheat, Dehydrate, Bake"
     },
     {
-      "name": "\"value\"",
-      "value": "\"420\""
+      "name": "Material",
+      "value": "Main Housing - Plastic Crisper Plates - Nano Ceramic Coated Aluminium/Rubber"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"380\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9.76\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"622356297837\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programmes\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max Crisp, Air Fry, Roast, Reheat, Dehydrate, Bake\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Main Housing - Plastic Crisper Plates - Nano Ceramic Coated Aluminium/Rubber\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.885\""
+      "name": "Cord Length (m)",
+      "value": "0.885"
     }
   ]
 },
@@ -4681,164 +2658,90 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Power",
+      "value": "2470W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Food Capacity (L)",
+      "value": "9.5 (4.75 per Drawer)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2470W\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (L)\","
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9.5 (4.75 per Drawer)\""
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Width (mm)",
+      "value": "280"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "470"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Height (mm)",
+      "value": "385"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "10.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "0622356280815"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Cord Length (m)",
+      "value": "0.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"280\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"470\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"385\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0622356280815\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Non-Slip Feet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Non-Slip Feet",
+      "value": "Yes"
     }
   ]
 },
@@ -4856,184 +2759,99 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Tefal"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tefal\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Power (W)",
+      "value": "2700"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power (W)\","
+      "name": "Food Capacity (kg)",
+      "value": "8.3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2700\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (kg)\","
+      "name": "Auto Shut-off",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8.3\""
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Width (mm)",
+      "value": "420"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "400"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Height (mm)",
+      "value": "306"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Shut-off\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
+      "name": "Dual Zone",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Number of Drawers",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Number of Functions",
+      "value": "8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Number of Portions",
+      "value": "6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"420\""
+      "name": "Non-Stick",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Material",
+      "value": "Plastic"
     },
     {
-      "name": "\"value\"",
-      "value": "\"400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"306\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dual Zone\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Drawers\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Functions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Portions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Non-Stick\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Plastic\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220\""
+      "name": "Voltage (V)",
+      "value": "220"
     }
   ]
 },
@@ -5051,184 +2869,101 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Power",
+      "value": "2470W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Food Capacity (kg)",
+      "value": "10.4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2470W\""
+      "name": "Control Type",
+      "value": "Knob & Button"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (kg)\","
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10.4\""
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Knob & Button\""
+      "name": "Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Features",
+      "value": "DualZone to MegaZone"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "415"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Depth (mm)",
+      "value": "290"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "325"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Weight (kg)",
+      "value": "9.4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\""
+      "name": "EAN Code",
+      "value": "0622356269568"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DualZone to MegaZone\""
+      "name": "Non-Slip Feet",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"415\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"290\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"325\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0622356269568\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Non-Slip Feet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pre-Set Functions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max Crisp, Air Fry, Roast, Reheat, Dehydrate, Bake, Prove\""
+      "name": "Pre-Set Functions",
+      "value": "Max Crisp, Air Fry, Roast, Reheat, Dehydrate, Bake, Prove"
     }
   ]
 },
@@ -5246,156 +2981,86 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Cyber Space Blue"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Power",
+      "value": "1700W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cyber Space Blue\""
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Food Capacity (L)",
+      "value": "1.4 & 3.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1700W\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (L)\","
+      "name": "Adjustable Thermostat",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.4 & 3.8\""
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Width (mm)",
+      "value": "304"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "340"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "Height (mm)",
+      "value": "345"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Thermostat\","
+      "name": "EAN Code",
+      "value": "622356307727"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Pre-Set Functions",
+      "value": "Air Fry, ReCrisp, Roast, Keep Warm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"304\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"340\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"345\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"622356307727\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pre-Set Functions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Air Fry, ReCrisp, Roast, Keep Warm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.9\""
+      "name": "Cord Length (mm)",
+      "value": "8.9"
     }
   ]
 },
@@ -5413,172 +3078,94 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Fryer Type",
+      "value": "Air Fryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Power",
+      "value": "2400W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fryer Type\","
+      "name": "Food Capacity (kg)",
+      "value": "7.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Fryer\""
+      "name": "Control Type",
+      "value": "Touch"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2400W\""
+      "name": "Features",
+      "value": "Max Crisp, 6 cooking functions, Non-slip feet"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Food Capacity (kg)\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7.6\""
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Timer",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Touch\""
+      "name": "Dishwasher Safe",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\""
+      "name": "Adjustable Thermostat",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\","
+      "name": "Removable Basket",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Max Crisp, 6 cooking functions, Non-slip feet\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Width (mm)",
+      "value": "375"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Depth (mm)",
+      "value": "350"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "315"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Timer\","
+      "name": "Weight (kg)",
+      "value": "8.2000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dishwasher Safe\","
+      "name": "EAN Code",
+      "value": "0622356236133"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Thermostat\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Basket\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"375\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"350\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"315\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.2000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0622356236133\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -5596,128 +3183,71 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Oven Type",
+      "value": "Single"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Fuel Type",
+      "value": "Electric"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Oven Type\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Single\""
+      "name": "Width (mm)",
+      "value": "420"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fuel Type\","
+      "name": "Depth (mm)",
+      "value": "590"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Electric\""
+      "name": "Height (mm)",
+      "value": "320"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Weight (kg)",
+      "value": "11.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"420\""
+      "name": "EAN Code",
+      "value": "622356320566"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"590\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"320\""
+      "name": "Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Cord Length",
+      "value": "1.5 m"
     },
     {
-      "name": "\"value\"",
-      "value": "\"11.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"622356320566\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.5 m\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wattage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1760 W\""
+      "name": "Wattage",
+      "value": "1760 W"
     }
   ]
 },
@@ -5735,572 +3265,298 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "U7000F"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Design",
+      "value": "Metal Stream"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"U7000F\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Design\","
+      "name": "Refresh Rate (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Metal Stream\""
+      "name": "Operating System",
+      "value": "Tizen"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Screen Type",
+      "value": "LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Screen Size",
+      "value": "75\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Dynamic Contrast",
+      "value": "HDR, HDR 10+, Mega Contrast"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tizen\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Motion Enhancement",
+      "value": "Motion Xcelerator"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Viewing Angle (right/left)",
+      "value": "178°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (up/down)",
+      "value": "178°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Picture Mode Settings",
+      "value": "Filmmaker Mode"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Power Output",
+      "value": "20W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LED\""
+      "name": "Energy Rating",
+      "value": "G"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Energy Consumption per Year",
+      "value": "191 kWh"
     },
     {
-      "name": "\"value\"",
-      "value": "\"75\\\"\""
+      "name": "Energy Consumption kWh/1000h",
+      "value": "138"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dynamic Contrast\","
+      "name": "Power Consumption - On Mode",
+      "value": "199 kWh/1000h"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HDR, HDR 10+, Mega Contrast\""
+      "name": "Power Consumption (standby)",
+      "value": "0.5 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Auto Power Off",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Motion Enhancement\","
+      "name": "HDMI Ports",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Motion Xcelerator\""
+      "name": "USB ports",
+      "value": "1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "HDMI",
+      "value": "4K 60Hz (for HDMI 1/2/3)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "USB",
+      "value": "USB-A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Wireless LAN Built-In",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Mode Settings\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Filmmaker Mode\""
+      "name": "Width (mm)",
+      "value": "1668.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Depth (mm)",
+      "value": "77"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Height (mm)",
+      "value": "957.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20W\""
+      "name": "Weight (kg)",
+      "value": "22.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "EAN Code",
+      "value": "8806097277804"
     },
     {
-      "name": "\"value\"",
-      "value": "\"G\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption per Year\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"191 kWh\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "Resolution",
+      "value": "4K (3840 x 2160)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"138\""
+      "name": "Upscaling",
+      "value": "4K Upscaling"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Micro Dimming",
+      "value": "UHD Dimming"
     },
     {
-      "name": "\"value\"",
-      "value": "\"199 kWh/1000h\""
+      "name": "Color Booster",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "Speaker Type",
+      "value": "2CH"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.5 W\""
+      "name": "Bixby",
+      "value": "Yes (Voice Ready)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Power Off\","
+      "name": "Works with AI Speaker",
+      "value": "Alexa, Google Assistant"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Multi Device Experience",
+      "value": "Mobile to TV, Sound Mirroring, Wireless TV On"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Digital Broadcasting",
+      "value": "DVB-T2C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "Wi-Fi",
+      "value": "Wi-Fi 5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Bluetooth",
+      "value": "Yes(5.3)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "HDMI Audio Return Channel",
+      "value": "eARC/ARC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1\""
+      "name": "RF In (Terrestrial / Cable input)",
+      "value": "1/1(Common Use for Terrestrial)/0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "CI Slot",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K 60Hz (for HDMI 1/2/3)\""
+      "name": "Bezel Type",
+      "value": "3 Bezel-less"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Stand Type",
+      "value": "Basic Feet"
     },
     {
-      "name": "\"value\"",
-      "value": "\"USB-A\""
+      "name": "Stand Color",
+      "value": "Titan Gray"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
+      "name": "Motor Impaired Support",
+      "value": "Slow Button Repeat, Remote Control App"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Hearing Impaired Support",
+      "value": "Closed Caption (Subtitle), Multi-output Audio, Sign Language Zoom"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wireless LAN Built-In\","
+      "name": "Low Vision Support",
+      "value": "Audio Description, Zoom Menu and Text, High Contrast, SeeColors, Color Inversion, Grayscale, Auto Picture Off"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Power Supply",
+      "value": "AC220-240V~ 50/60Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Power Consumption (Max)",
+      "value": "220 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Stand (Basic) (WxD) (mm)",
+      "value": "1250 x 280"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1668.1\""
+      "name": "Stand (Minimum) (WxD) (mm)",
+      "value": "793 x 280"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Set Size with Stand (WxHxD) (mm)",
+      "value": "1668.1 x 1005.9 x 280"
     },
     {
-      "name": "\"value\"",
-      "value": "\"77\""
+      "name": "VESA Spec (mm)",
+      "value": "400 x 300"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Set Weight with Stand (Kg)",
+      "value": "22.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"957.8\""
+      "name": "Zigbee / Thread Module",
+      "value": "Dongle Support"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"22.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8806097277804\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K (3840 x 2160)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Upscaling\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K Upscaling\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Micro Dimming\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD Dimming\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Booster\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2CH\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bixby\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Voice Ready)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Works with AI Speaker\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Alexa, Google Assistant\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Multi Device Experience\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Mobile to TV, Sound Mirroring, Wireless TV On\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Broadcasting\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DVB-T2C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes(5.3)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Audio Return Channel\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eARC/ARC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RF In (Terrestrial / Cable input)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1/1(Common Use for Terrestrial)/0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CI Slot\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bezel Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Bezel-less\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Basic Feet\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Color\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Titan Gray\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor Impaired Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Slow Button Repeat, Remote Control App\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hearing Impaired Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Closed Caption (Subtitle), Multi-output Audio, Sign Language Zoom\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Low Vision Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Audio Description, Zoom Menu and Text, High Contrast, SeeColors, Color Inversion, Grayscale, Auto Picture Off\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Supply\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC220-240V~ 50/60Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (Max)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand (Basic) (WxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1250 x 280\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand (Minimum) (WxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"793 x 280\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Set Size with Stand (WxHxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1668.1 x 1005.9 x 280\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Spec (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"400 x 300\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Set Weight with Stand (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"22.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Zigbee / Thread Module\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dongle Support\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Update Period (At least 5 years)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31 December 2030\""
+      "name": "Security Update Period (At least 5 years)",
+      "value": "31 December 2030"
     }
   ]
 },
@@ -6318,512 +3574,267 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "LG"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LG\""
+      "name": "Series",
+      "value": "G5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"G5\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Refresh Rate (Hz)",
+      "value": "120Hz Native (VRR 165Hz)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating System",
+      "value": "webOS 25"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"120Hz Native (VRR 165Hz)\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Screen Type",
+      "value": "OLED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"webOS 25\""
+      "name": "Screen Size",
+      "value": "65\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Viewing Angle (right/left)",
+      "value": "178°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (up/down)",
+      "value": "178°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Motion Enhancement",
+      "value": "OLED Motion"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Energy Consumption kWh/1000h",
+      "value": "85"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED\""
+      "name": "Power Consumption - On Mode",
+      "value": "222 kWh/1000h"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Power Consumption (standby)",
+      "value": "0.5W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"65\\\"\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "HDMI Ports",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "USB ports",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "HDMI",
+      "value": "4K 120Hz, eARC, VRR, ALLM, QMS, QFT"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "USB",
+      "value": "Version 2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Digital Audio Out (optical)",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Motion Enhancement\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED Motion\""
+      "name": "Width (mm)",
+      "value": "1441"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Depth (mm)",
+      "value": "24.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Height (mm)",
+      "value": "826"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Weight (kg)",
+      "value": "22"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"85\""
+      "name": "EAN Code",
+      "value": "8806096398418"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"222 kWh/1000h\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.5W\""
+      "name": "Display Resolution",
+      "value": "4K Ultra HD (3,840 x 2,160)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Wide Colour Gamut",
+      "value": "OLED Colour"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "AI Genre Selection",
+      "value": "Yes (SDR/HDR)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Picture Processor",
+      "value": "α11 AI Processor 4K Gen2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "HDR (High Dynamic Range)",
+      "value": "Dolby Vision / HDR10 / HLG"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "AI Upscaling",
+      "value": "α11 AI Super Upscaling 4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "HFR (High Frame Rate)",
+      "value": "4K 120 fps (HDMI, RF, USB)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K 120Hz, eARC, VRR, ALLM, QMS, QFT\""
+      "name": "Picture Mode",
+      "value": "10 modes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Dimming Technology",
+      "value": "Pixel Dimming"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Version 2.0\""
+      "name": "VRR (Variable Refresh Rate)",
+      "value": "Yes (Up to 165Hz)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
+      "name": "Response Time",
+      "value": "Less than 0.1ms"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "The security update is supported until",
+      "value": "31/12/2029"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Audio Out (optical)\","
+      "name": "WiSA Ready",
+      "value": "Yes (Up to 2.1 Channel)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bluetooth Surround Ready",
+      "value": "Yes (2 Way Playback)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "AI Sound",
+      "value": "α11 AI Sound Pro (Virtual 11.1.2 Up-mix)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Audio Codec",
+      "value": "AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X (Refer to manual)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1441\""
+      "name": "Speaker Direction",
+      "value": "Down Firing"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Speaker System",
+      "value": "4.2 channel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"24.3\""
+      "name": "HDMI Audio Return Channel",
+      "value": "eARC (HDMI 2)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Bluetooth Support",
+      "value": "Yes (v 5.3)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"826\""
+      "name": "RF Input (Antenna/Cable)",
+      "value": "x2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Wi-Fi",
+      "value": "Yes (Wi-Fi 6)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"22\""
+      "name": "TV Dimensions with Stand (WxHxD) (mm)",
+      "value": "1441 x 865/910 x 263"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "TV Stand (WxD) (mm)",
+      "value": "485 x 263"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "TV Weight with Stand (kg)",
+      "value": "26.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8806096398418\""
+      "name": "VESA Mounting (WxH)",
+      "value": "300 x 300"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Power Supply (Voltage, Hz)",
+      "value": "AC 100~240V 50-60Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
+      "name": "Analog TV Reception",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K Ultra HD (3,840 x 2,160)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wide Colour Gamut\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"OLED Colour\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Genre Selection\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (SDR/HDR)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Picture Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"α11 AI Processor 4K Gen2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDR (High Dynamic Range)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dolby Vision / HDR10 / HLG\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Upscaling\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"α11 AI Super Upscaling 4K\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HFR (High Frame Rate)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K 120 fps (HDMI, RF, USB)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Picture Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10 modes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimming Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pixel Dimming\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VRR (Variable Refresh Rate)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Up to 165Hz)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Response Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Less than 0.1ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"The security update is supported until\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31/12/2029\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WiSA Ready\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Up to 2.1 Channel)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Surround Ready\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (2 Way Playback)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Sound\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"α11 AI Sound Pro (Virtual 11.1.2 Up-mix)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Codec\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X (Refer to manual)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Direction\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Down Firing\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4.2 channel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Audio Return Channel\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eARC (HDMI 2)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (v 5.3)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RF Input (Antenna/Cable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"x2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Wi-Fi 6)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Dimensions with Stand (WxHxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1441 x 865/910 x 263\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Stand (WxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"485 x 263\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Weight with Stand (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"26.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Mounting (WxH)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"300 x 300\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Supply (Voltage, Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC 100~240V 50-60Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Analog TV Reception\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital TV Reception\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DVB-T2/T (Terrestrial), DVB-C (Cable), DVB-S2/S (Satellite)\""
+      "name": "Digital TV Reception",
+      "value": "DVB-T2/T (Terrestrial), DVB-C (Cable), DVB-S2/S (Satellite)"
     }
   ]
 },
@@ -6841,336 +3852,179 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "LG"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LG\""
+      "name": "Colour",
+      "value": "Charcoal Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "UA75"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Charcoal Black\""
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"UA75\""
+      "name": "Refresh Rate (Hz)",
+      "value": "60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Operating System",
+      "value": "webOS 25"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Smart TV"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"60\""
+      "name": "Screen Type",
+      "value": "LED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Screen Size",
+      "value": "50\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"webOS 25\""
+      "name": "Dynamic Contrast",
+      "value": "Dynamic Tone Mapping"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Picture Enhancement",
+      "value": "4K Super Upscaling"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (right/left)",
+      "value": "178°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Viewing Angle (up/down)",
+      "value": "178°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Picture Mode Settings",
+      "value": "Vivid, Standard, Cinema, Sports, Game, Filmmaker, (ISF)Expert(Bright Room), (ISF)Expert(Dark Room)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Power Output",
+      "value": "20 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LED\""
+      "name": "Speakers",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Sound Mode Settings",
+      "value": "AI Sound Pro (Virtual 9.1.2 Up-mix)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\\\"\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dynamic Contrast\","
+      "name": "Energy Rating",
+      "value": "F"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dynamic Tone Mapping\""
+      "name": "Energy Consumption kWh/1000h",
+      "value": "65"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Power Consumption - On Mode",
+      "value": "99 kWh/1000h"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Power Consumption (standby)",
+      "value": "0.5 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Enhancement\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K Super Upscaling\""
+      "name": "HDMI Ports",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "USB ports",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "HDMI",
+      "value": "HDMI 2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "USB",
+      "value": "USB 2.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Mode Settings\","
+      "name": "Wireless LAN Built-In",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vivid, Standard, Cinema, Sports, Game, Filmmaker, (ISF)Expert(Bright Room), (ISF)Expert(Dark Room)\""
+      "name": "Digital Audio Out (optical)",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Width (mm)",
+      "value": "1122"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20 W\""
+      "name": "Depth (mm)",
+      "value": "67.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speakers\","
+      "name": "Height (mm)",
+      "value": "654"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Weight (kg)",
+      "value": "9.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound Mode Settings\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AI Sound Pro (Virtual 9.1.2 Up-mix)\""
+      "name": "EAN Code",
+      "value": "8806096353028"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"99 kWh/1000h\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.5 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"HDMI 2.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB 2.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wireless LAN Built-In\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Audio Out (optical)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1122\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"67.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"654\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8806096353028\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -7188,564 +4042,294 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "U7000F"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Design",
+      "value": "Metal Stream"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"U7000F\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Design\","
+      "name": "Refresh Rate (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Metal Stream\""
+      "name": "Operating System",
+      "value": "Tizen"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Screen Type",
+      "value": "LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Screen Size",
+      "value": "65\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Dynamic Contrast",
+      "value": "HDR, HDR 10+, Mega Contrast"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tizen\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Motion Enhancement",
+      "value": "Motion Xcelerator"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Viewing Angle (right/left)",
+      "value": "178°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (up/down)",
+      "value": "178°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Picture Mode Settings",
+      "value": "Filmmaker Mode"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Power Output",
+      "value": "20W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LED\""
+      "name": "Energy Rating",
+      "value": "G"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Energy Consumption per Year",
+      "value": "151 kWh"
     },
     {
-      "name": "\"value\"",
-      "value": "\"65\\\"\""
+      "name": "Energy Consumption kWh/1000h",
+      "value": "109"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dynamic Contrast\","
+      "name": "Power Consumption - On Mode",
+      "value": "161 kWh/1000h"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HDR, HDR 10+, Mega Contrast\""
+      "name": "Power Consumption (standby)",
+      "value": "0.5 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Auto Power Off",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Motion Enhancement\","
+      "name": "HDMI Ports",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Motion Xcelerator\""
+      "name": "USB ports",
+      "value": "1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "HDMI",
+      "value": "4K 60Hz (for HDMI 1/2/3)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "USB",
+      "value": "USB-A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Wireless LAN Built-In",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Mode Settings\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Filmmaker Mode\""
+      "name": "Width (mm)",
+      "value": "1444.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Depth (mm)",
+      "value": "76.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Height (mm)",
+      "value": "831.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20W\""
+      "name": "Weight (kg)",
+      "value": "14.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "EAN Code",
+      "value": "8806097277750"
     },
     {
-      "name": "\"value\"",
-      "value": "\"G\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption per Year\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"151 kWh\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "Resolution",
+      "value": "4K (3840 x 2160)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"109\""
+      "name": "Upscaling",
+      "value": "4K Upscaling"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Micro Dimming",
+      "value": "UHD Dimming"
     },
     {
-      "name": "\"value\"",
-      "value": "\"161 kWh/1000h\""
+      "name": "Color Booster",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "Speaker Type",
+      "value": "2CH"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.5 W\""
+      "name": "Bixby",
+      "value": "Yes (Voice Ready)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Power Off\","
+      "name": "Works with AI Speaker",
+      "value": "Alexa, Google Assistant"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Multi Device Experience",
+      "value": "Mobile to TV, Sound Mirroring, Wireless TV On"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Digital Broadcasting",
+      "value": "DVB-T2C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "Wi-Fi",
+      "value": "Wi-Fi 5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Bluetooth",
+      "value": "Yes(5.3)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "HDMI Audio Return Channel",
+      "value": "eARC/ARC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1\""
+      "name": "RF In (Terrestrial / Cable input)",
+      "value": "1/1(Common Use for Terrestrial)/0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "CI Slot",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K 60Hz (for HDMI 1/2/3)\""
+      "name": "Bezel Type",
+      "value": "3 Bezel-less"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Stand Type",
+      "value": "Basic Feet"
     },
     {
-      "name": "\"value\"",
-      "value": "\"USB-A\""
+      "name": "Stand Color",
+      "value": "Titan Gray"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
+      "name": "Motor Impaired Support",
+      "value": "Slow Button Repeat, Remote Control App"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Hearing Impaired Support",
+      "value": "Closed Caption (Subtitle), Multi-output Audio, Sign Language Zoom"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wireless LAN Built-In\","
+      "name": "Low Vision Support",
+      "value": "Audio Description, Zoom Menu and Text, High Contrast, SeeColors, Color Inversion, Grayscale, Auto Picture Off"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Power Supply",
+      "value": "AC220-240V~ 50/60Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Power Consumption (Max)",
+      "value": "170 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Stand (Basic) (WxD) (mm)",
+      "value": "1004.6 x 222"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1444.1\""
+      "name": "Set Size with Stand (WxHxD) (mm)",
+      "value": "1444.1 x 882.2 x 222"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "VESA Spec (mm)",
+      "value": "200 x 200"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76.8\""
+      "name": "Set Weight with Stand (Kg)",
+      "value": "14.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Zigbee / Thread Module",
+      "value": "Dongle Support"
     },
     {
-      "name": "\"value\"",
-      "value": "\"831.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8806097277750\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K (3840 x 2160)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Upscaling\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K Upscaling\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Micro Dimming\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD Dimming\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Booster\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2CH\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bixby\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Voice Ready)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Works with AI Speaker\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Alexa, Google Assistant\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Multi Device Experience\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Mobile to TV, Sound Mirroring, Wireless TV On\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Broadcasting\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DVB-T2C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes(5.3)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Audio Return Channel\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eARC/ARC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RF In (Terrestrial / Cable input)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1/1(Common Use for Terrestrial)/0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CI Slot\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bezel Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Bezel-less\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Basic Feet\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Color\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Titan Gray\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor Impaired Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Slow Button Repeat, Remote Control App\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hearing Impaired Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Closed Caption (Subtitle), Multi-output Audio, Sign Language Zoom\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Low Vision Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Audio Description, Zoom Menu and Text, High Contrast, SeeColors, Color Inversion, Grayscale, Auto Picture Off\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Supply\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC220-240V~ 50/60Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (Max)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"170 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand (Basic) (WxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1004.6 x 222\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Set Size with Stand (WxHxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1444.1 x 882.2 x 222\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Spec (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"200 x 200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Set Weight with Stand (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Zigbee / Thread Module\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dongle Support\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Update Period (At least 5 years)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31 December 2030\""
+      "name": "Security Update Period (At least 5 years)",
+      "value": "31 December 2030"
     }
   ]
 },
@@ -7763,288 +4347,155 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "LG"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LG\""
+      "name": "Series",
+      "value": "Evo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Design",
+      "value": "Ultra Slim"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Evo\""
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Design\","
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ultra Slim\""
+      "name": "Refresh Rate (Hz)",
+      "value": "120"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Operating System",
+      "value": "webOS 24"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Smart TV"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"120\""
+      "name": "Screen Type",
+      "value": "OLED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Screen Size",
+      "value": "65\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"webOS 24\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Connectivity",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "HDMI Ports",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "USB ports",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "HDMI",
+      "value": "supports 4K 120Hz, eARC, VRR, ALLM, QMS (4 port)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "USB",
+      "value": "Version 2.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED\""
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "PC in",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"65\\\"\""
+      "name": "Digital Audio Out (optical)",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Width (mm)",
+      "value": "1441"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Depth (mm)",
+      "value": "45.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\","
+      "name": "Height (mm)",
+      "value": "826"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Weight (kg)",
+      "value": "16.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "TV Dimensions with Stand (WxHxD)",
+      "value": "1441 x 880 x 230"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "TV Stand (WxD)",
+      "value": "470 x 230"
     },
     {
-      "name": "\"value\"",
-      "value": "\"supports 4K 120Hz, eARC, VRR, ALLM, QMS (4 port)\""
+      "name": "Speaker Direction",
+      "value": "Down Firing"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Picture Processor",
+      "value": "α9 AI Processor 4K Gen8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Version 2.0\""
+      "name": "Wide Colour Gamut",
+      "value": "OLED Colour"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"PC in\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Audio Out (optical)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1441\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"826\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Dimensions with Stand (WxHxD)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1441 x 880 x 230\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Stand (WxD)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"470 x 230\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Direction\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Down Firing\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Picture Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"α9 AI Processor 4K Gen8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wide Colour Gamut\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"OLED Colour\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K Ultra HD (3,840 x 2,160)\""
+      "name": "Display Resolution",
+      "value": "4K Ultra HD (3,840 x 2,160)"
     }
   ]
 },
@@ -8062,620 +4513,322 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "U7000F"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Design",
+      "value": "Metal Stream"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"U7000F\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Design\","
+      "name": "Refresh Rate (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Metal Stream\""
+      "name": "Operating System",
+      "value": "Tizen"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Screen Type",
+      "value": "LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Screen Size",
+      "value": "50\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Native Contrast",
+      "value": "High Contrast"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tizen\""
+      "name": "Dynamic Contrast",
+      "value": "HDR, HDR 10+"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Motion Enhancement",
+      "value": "Motion Xcelerator"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (right/left)",
+      "value": "178°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Viewing Angle (up/down)",
+      "value": "178°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Picture Mode Settings",
+      "value": "Filmmaker Mode"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Power Output",
+      "value": "20 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LED\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Energy Rating",
+      "value": "G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\\\"\""
+      "name": "Energy Consumption per Year",
+      "value": "96 kWh"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Native Contrast\","
+      "name": "Energy Consumption kWh/1000h",
+      "value": "69"
     },
     {
-      "name": "\"value\"",
-      "value": "\"High Contrast\""
+      "name": "Power Consumption - On Mode",
+      "value": "112 kWh/1000h"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dynamic Contrast\","
+      "name": "Power Consumption (standby)",
+      "value": "0.5 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HDR, HDR 10+\""
+      "name": "Auto Power Off",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "HDMI Ports",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Motion Enhancement\","
+      "name": "USB ports",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Motion Xcelerator\""
+      "name": "USB",
+      "value": "USB-A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Wireless LAN Built-In",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Width (mm)",
+      "value": "1110.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Mode Settings\","
+      "name": "Depth (mm)",
+      "value": "76.4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Filmmaker Mode\""
+      "name": "Height (mm)",
+      "value": "643.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Weight (kg)",
+      "value": "8.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20 W\""
+      "name": "EAN Code",
+      "value": "8806097277576"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"G\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption per Year\","
+      "name": "Resolution",
+      "value": "3840 x 2160"
     },
     {
-      "name": "\"value\"",
-      "value": "\"96 kWh\""
+      "name": "Processor",
+      "value": "Crystal Processor 4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "Micro Dimming",
+      "value": "UHD Dimming"
     },
     {
-      "name": "\"value\"",
-      "value": "\"69\""
+      "name": "Contrast Enhancer",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Upscaling",
+      "value": "4K Upscaling"
     },
     {
-      "name": "\"value\"",
-      "value": "\"112 kWh/1000h\""
+      "name": "Color Booster",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "Object Tracking Sound",
+      "value": "OTS Lite"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.5 W\""
+      "name": "Speaker Type",
+      "value": "2CH"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Power Off\","
+      "name": "Bixby",
+      "value": "Yes (Voice Ready)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Works with AI Speaker",
+      "value": "Alexa"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "SmartThings Hub / Matter Hub / IoT-Sensor Functionality / Quick Remote",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "Multi Device Experience",
+      "value": "Mobile to TV, Sound Mirroring, Wireless TV On"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Digital Broadcasting",
+      "value": "DVB-T2C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "CI (Common Interface)",
+      "value": "CI+(1.4)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1\""
+      "name": "Wi-Fi",
+      "value": "Wi-Fi 5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Bluetooth",
+      "value": "Yes(5.3)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"USB-A\""
+      "name": "HDMI (High Frame Rate)",
+      "value": "4K 60Hz (for HDMI 1/2/3)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
+      "name": "HDMI Audio Return Channel",
+      "value": "eARC/ARC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "RF In (Terrestrial / Cable input)",
+      "value": "1/1(Common Use for Terrestrial)/0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wireless LAN Built-In\","
+      "name": "CI Slot",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bezel Type",
+      "value": "3 Bezel-less"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Stand Type",
+      "value": "Basic Feet"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Stand Colour",
+      "value": "Titan Gray"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1110.8\""
+      "name": "Low Vision Support",
+      "value": "Audio Description, Zoom Menu and Text, High Contrast, SeeColors, Color Inversion, Grayscale"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Hearing Impaired Support",
+      "value": "Closed Caption (Subtitle), Multi-output Audio, Sign Language Zoom"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76.4\""
+      "name": "Motor Impaired Support",
+      "value": "Slow Button Repeat, Remote Control App"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Contrast",
+      "value": "Mega Contrast"
     },
     {
-      "name": "\"value\"",
-      "value": "\"643.8\""
+      "name": "Power Supply",
+      "value": "AC220-240V~ 50/60Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Power Consumption (Max)",
+      "value": "120 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8.3\""
+      "name": "Stand (Basic) (WxD) (mm)",
+      "value": "747 x 199"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "VESA Spec (mm)",
+      "value": "200 x 200"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Set Size with Stand (WxHxD) (mm)",
+      "value": "1110.8 x 695.1 x 199"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8806097277576\""
+      "name": "Set Weight with Stand (kg)",
+      "value": "8.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Security Update Period (At least 5 years from launch of product)",
+      "value": "31 December 2030"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3840 x 2160\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Crystal Processor 4K\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Micro Dimming\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD Dimming\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Contrast Enhancer\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Upscaling\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K Upscaling\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Booster\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Object Tracking Sound\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"OTS Lite\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2CH\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bixby\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Voice Ready)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Works with AI Speaker\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Alexa\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SmartThings Hub / Matter Hub / IoT-Sensor Functionality / Quick Remote\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Multi Device Experience\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Mobile to TV, Sound Mirroring, Wireless TV On\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Broadcasting\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DVB-T2C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CI (Common Interface)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"CI+(1.4)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes(5.3)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI (High Frame Rate)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K 60Hz (for HDMI 1/2/3)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Audio Return Channel\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eARC/ARC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RF In (Terrestrial / Cable input)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1/1(Common Use for Terrestrial)/0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CI Slot\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bezel Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Bezel-less\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Basic Feet\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Colour\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Titan Gray\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Low Vision Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Audio Description, Zoom Menu and Text, High Contrast, SeeColors, Color Inversion, Grayscale\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hearing Impaired Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Closed Caption (Subtitle), Multi-output Audio, Sign Language Zoom\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor Impaired Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Slow Button Repeat, Remote Control App\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Contrast\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Mega Contrast\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Supply\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC220-240V~ 50/60Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (Max)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand (Basic) (WxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"747 x 199\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Spec (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"200 x 200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Set Size with Stand (WxHxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1110.8 x 695.1 x 199\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Set Weight with Stand (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Update Period (At least 5 years from launch of product)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31 December 2030\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Zigbee / Thread Module\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dongle Support\""
+      "name": "Zigbee / Thread Module",
+      "value": "Dongle Support"
     }
   ]
 },
@@ -8693,288 +4846,153 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Nordmende"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nordmende\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Refresh Rate (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating System",
+      "value": "Tivo Smart Tv"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Screen Type",
+      "value": "Flat LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tivo Smart Tv\""
+      "name": "Screen Size",
+      "value": "32\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Resolution",
+      "value": "HD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Energy Consumption kWh/1000h",
+      "value": "26"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Power Consumption - On Mode",
+      "value": "26W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Power Consumption (standby)",
+      "value": "0.5W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Flat LED\""
+      "name": "HDMI Ports",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "USB",
+      "value": "Play and Record"
     },
     {
-      "name": "\"value\"",
-      "value": "\"32\\\"\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HD\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Energy Efficiency Class for High Dynamic Range (HDR)",
+      "value": "G"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "On Mode Power Demand in HDR",
+      "value": "45W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Networked Standby Mode Power Demand",
+      "value": "2W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "Size Ratio",
+      "value": "16 : 9"
     },
     {
-      "name": "\"value\"",
-      "value": "\"26\""
+      "name": "Screen Resolution (pixels)",
+      "value": "1366 x 768"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Audio",
+      "value": "Dolby Atmos"
     },
     {
-      "name": "\"value\"",
-      "value": "\"26W\""
+      "name": "Tv Bracket Size (vesa)(mm)",
+      "value": "75 x 75"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "Satellite Tuner",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.5W\""
+      "name": "Model Year",
+      "value": "2024"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Wireless Mirroring Display",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "Hotel Mode",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "HDR10",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Panel Technology",
+      "value": "LCD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Play and Record\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Class for High Dynamic Range (HDR)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"G\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"On Mode Power Demand in HDR\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Networked Standby Mode Power Demand\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Size Ratio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16 : 9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution (pixels)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1366 x 768\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dolby Atmos\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Tv Bracket Size (vesa)(mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"75 x 75\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Satellite Tuner\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Model Year\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2024\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wireless Mirroring Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hotel Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDR10\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Panel Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LCD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Supply Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Internal\""
+      "name": "Power Supply Type",
+      "value": "Internal"
     }
   ]
 },
@@ -8992,248 +5010,133 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "NordMende"
     },
     {
-      "name": "\"value\"",
-      "value": "\"NordMende\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Refresh Rate (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating System",
+      "value": "Tivo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Screen Type",
+      "value": "Flat LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tivo\""
+      "name": "Screen Size",
+      "value": "65\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Resolution",
+      "value": "4K HDR"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Dynamic Contrast",
+      "value": "HDR 10+"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (right/left)",
+      "value": "178 degrees"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Viewing Angle (up/down)",
+      "value": "178 degrees"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Energy Rating",
+      "value": "F"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Energy Consumption kWh/1000h",
+      "value": "77"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Flat LED\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "HDMI Ports",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"65\\\"\""
+      "name": "USB ports",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K HDR\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dynamic Contrast\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HDR 10+\""
+      "name": "Satellite Tuner",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "RTE Player",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178 degrees\""
+      "name": "VESA Size (mm)",
+      "value": "200 x 200"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Memc Micro-Dimming",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178 degrees\""
+      "name": "Hotel Mode",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "USB Recording",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Wireless Mirroring Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"F\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"77\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Satellite Tuner\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RTE Player\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Size (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"200 x 200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memc Micro-Dimming\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hotel Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Recording\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wireless Mirroring Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"PVR Ready\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "PVR Ready",
+      "value": "Yes"
     }
   ]
 },
@@ -9251,556 +5154,290 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "LG"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LG\""
+      "name": "Series",
+      "value": "C54"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C54\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Refresh Rate (Hz)",
+      "value": "120 Native (VRR 144)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating System",
+      "value": "webOS 25"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"120 Native (VRR 144)\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Screen Type",
+      "value": "OLED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"webOS 25\""
+      "name": "Screen Size",
+      "value": "48\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Picture Enhancement",
+      "value": "α9 AI Processor 4K Gen8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Motion Enhancement",
+      "value": "OLED Motion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Viewing Angle (right/left)",
+      "value": "178°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Viewing Angle (up/down)",
+      "value": "178°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Picture Mode Settings",
+      "value": "Filmmaker Mode"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Sound"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED\""
+      "name": "Power Output",
+      "value": "40W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48\\\"\""
+      "name": "Energy Rating",
+      "value": "G"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Energy Consumption kWh/1000h",
+      "value": "64"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Power Consumption - On Mode",
+      "value": "115 kWh/1000h"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Enhancement\","
+      "name": "Power Consumption (standby)",
+      "value": "Under 0.5W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"α9 AI Processor 4K Gen8\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Motion Enhancement\","
+      "name": "HDMI Ports",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED Motion\""
+      "name": "USB ports",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "HDMI",
+      "value": "4ea (supports 4K 120Hz, eARC, VRR, ALLM, QMS)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "USB",
+      "value": "USB 2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178°\""
+      "name": "Digital Audio Out (optical)",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Mode Settings\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Filmmaker Mode\""
+      "name": "Width (mm)",
+      "value": "1071"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Depth (mm)",
+      "value": "46.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Height (mm)",
+      "value": "618"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40W\""
+      "name": "Weight (kg)",
+      "value": "14.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "EAN Code",
+      "value": "8806096353868"
     },
     {
-      "name": "\"value\"",
-      "value": "\"G\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"64\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Display Resolution",
+      "value": "4K Ultra HD (3,840 x 2,160)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"115 kWh/1000h\""
+      "name": "Wide Colour Gamut",
+      "value": "OLED Colour"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "TV Dimensions with Stand (WxHxD) (mm)",
+      "value": "1071 x 675 x 230"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Under 0.5W\""
+      "name": "TV Stand (WxD) (mm)",
+      "value": "470 x 230"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "TV Weight with Stand (kg)",
+      "value": "16.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "VESA Mounting (WxH) (mm)",
+      "value": "300 x 200"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Response Time",
+      "value": "Less than 0.1ms"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "AI Genre Selection",
+      "value": "Yes (SDR/HDR)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "HDR (High Dynamic Range)",
+      "value": "Dolby Vision / HDR10 / HLG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "AI Upscaling",
+      "value": "α9 AI Super Upscaling 4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4ea (supports 4K 120Hz, eARC, VRR, ALLM, QMS)\""
+      "name": "HFR (High Frame Rate)",
+      "value": "4K 120 fps (HDMI, RF, USB)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Dynamic Tone Mapping",
+      "value": "Yes (OLED Dynamic Tone Mapping Pro)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"USB 2.0\""
+      "name": "Picture Mode",
+      "value": "10 modes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
+      "name": "Dimming Technology",
+      "value": "Pixel Dimming"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "LG Sound Sync",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Audio Out (optical)\","
+      "name": "Sound Mode Share",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bluetooth Surround Ready",
+      "value": "Yes (2 Way Playback)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "AI Sound",
+      "value": "α9 AI Sound Pro (Virtual 11.1.2 Up-mix)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Clear Voice Pro",
+      "value": "Yes (AI Voice Remastering)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1071\""
+      "name": "Speaker System",
+      "value": "2.2 channel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Speaker Direction",
+      "value": "Down Firing"
     },
     {
-      "name": "\"value\"",
-      "value": "\"46.9\""
+      "name": "AI Acoustic Tuning",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Audio Codec",
+      "value": "AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X (Refer to manual)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"618\""
+      "name": "WOW Orchestra",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Analog TV Reception",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14.9\""
+      "name": "Digital TV Reception",
+      "value": "DVB-T2/T (Terrestrial), DVB-C (Cable), DVB-S2/S (Satellite)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "HDMI Audio Return Channel",
+      "value": "eARC (HDMI 2)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Bluetooth Support",
+      "value": "Yes (v 5.3)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8806096353868\""
+      "name": "Wi-Fi",
+      "value": "Yes (Wi-Fi 6)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "RF Input (Antenna/Cable)",
+      "value": "x2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K Ultra HD (3,840 x 2,160)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wide Colour Gamut\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"OLED Colour\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Dimensions with Stand (WxHxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1071 x 675 x 230\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Stand (WxD) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"470 x 230\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV Weight with Stand (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Mounting (WxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"300 x 200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Response Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Less than 0.1ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Genre Selection\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (SDR/HDR)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDR (High Dynamic Range)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dolby Vision / HDR10 / HLG\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Upscaling\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"α9 AI Super Upscaling 4K\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HFR (High Frame Rate)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4K 120 fps (HDMI, RF, USB)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dynamic Tone Mapping\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (OLED Dynamic Tone Mapping Pro)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Picture Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10 modes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimming Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pixel Dimming\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"LG Sound Sync\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sound Mode Share\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Surround Ready\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (2 Way Playback)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Sound\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"α9 AI Sound Pro (Virtual 11.1.2 Up-mix)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Clear Voice Pro\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (AI Voice Remastering)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.2 channel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Direction\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Down Firing\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AI Acoustic Tuning\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Codec\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X (Refer to manual)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WOW Orchestra\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Analog TV Reception\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital TV Reception\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DVB-T2/T (Terrestrial), DVB-C (Cable), DVB-S2/S (Satellite)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI Audio Return Channel\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eARC (HDMI 2)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (v 5.3)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes (Wi-Fi 6)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RF Input (Antenna/Cable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"x2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Supply (Voltage, Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AC 100~240V 50-60Hz\""
+      "name": "Power Supply (Voltage, Hz)",
+      "value": "AC 100~240V 50-60Hz"
     }
   ]
 },
@@ -9818,540 +5455,282 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Sony"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Sony\""
+      "name": "Colour",
+      "value": "Dark Silver"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "Bravia 8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dark Silver\""
+      "name": "Design",
+      "value": "Seamless Edge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Saorview Approved",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bravia 8\""
+      "name": "Irish Digital Ready",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Design\","
+      "name": "Refresh Rate (Hz)",
+      "value": "120"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Seamless Edge\""
+      "name": "Operating System",
+      "value": "Android TV"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Saorview Approved\","
+      "name": "Smart TV"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Is Smart TV?",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Irish Digital Ready\","
+      "name": "Has Wifi?",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
+      "name": "Screen Type",
+      "value": "OLED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"120\""
+      "name": "Screen Size",
+      "value": "65\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android TV\""
+      "name": "Viewing Angle (right/left)",
+      "value": "178 Degrees"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Smart TV\""
+      "name": "Viewing Angle (up/down)",
+      "value": "178 Degrees"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Is Smart TV?\","
+      "name": "Picture Mode Settings",
+      "value": "Vivid, Standard, Cinema, Professional, Calm, Photo, IMAX Enhanced, Dolby Vision (Vivid/Bright/Dark/Game), FPS game, RTS game"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Has Wifi?\","
+      "name": "Power Output",
+      "value": "50W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Speakers",
+      "value": "5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED\""
+      "name": "Energy Consumption kWh/1000h",
+      "value": "83"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Power Consumption - On Mode",
+      "value": "110 kWh/1000h"
     },
     {
-      "name": "\"value\"",
-      "value": "\"65\\\"\""
+      "name": "Power Consumption (standby)",
+      "value": "0.5W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "HDMI Ports",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (right/left)\","
+      "name": "USB ports",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178 Degrees\""
+      "name": "HDMI",
+      "value": "4K120/eARC/VRR/ALLM/SBTM(Source-Based Tone Mapping)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Viewing Angle (up/down)\","
+      "name": "Ethernet",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"178 Degrees\""
+      "name": "PC in",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Picture Mode Settings\","
+      "name": "Digital Audio Out (optical)",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vivid, Standard, Cinema, Professional, Calm, Photo, IMAX Enhanced, Dolby Vision (Vivid/Bright/Dark/Game), FPS game, RTS game\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Width (mm)",
+      "value": "1442"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Depth (mm)",
+      "value": "37"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50W\""
+      "name": "Height (mm)",
+      "value": "829"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speakers\","
+      "name": "Weight (kg)",
+      "value": "22.3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "EAN Code",
+      "value": "4548736164840"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption kWh/1000h\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"83\""
+      "name": "Dimension of TV With Stand (Narrow Position) (W X H X D)",
+      "value": "144.2 × 85.5 × 24.8 cm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption - On Mode\","
+      "name": "Dimension of TV With Stand (Soundbar Position) (W X H X D)",
+      "value": "144.2 × 90.9 x 24.8 cm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"110 kWh/1000h\""
+      "name": "Stand Width (Standard Position) (mm)",
+      "value": "1244"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (standby)\","
+      "name": "Stand Width (Soundbar Position) (mm)",
+      "value": "1244"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.5W\""
+      "name": "Vesa Hole Pitch (W X H)",
+      "value": "300 x 300"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Weight of TV With Stand (Kg)",
+      "value": "23.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI Ports\","
+      "name": "Wi-Fi Standard",
+      "value": "Wi-Fi Certified 802.11a/b/g/n/ac/ax"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Wi-Fi Frequency",
+      "value": "2.4GHz/5GHz/6GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB ports\","
+      "name": "Rf Input (Terrestrial/Cable)",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "IF Input (Satellite)",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "HDCP",
+      "value": "HDCP2.3(for HDMI1/2/3/4)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K120/eARC/VRR/ALLM/SBTM(Source-Based Tone Mapping)\""
+      "name": "Display Resolution",
+      "value": "3840 x 2160"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ethernet\","
+      "name": "Picture Processor",
+      "value": "XR Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Contrast Enhancement",
+      "value": "XR Contrast Booster 15, Dynamic Contrast Enhancer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"PC in\","
+      "name": "Colour Enhancement",
+      "value": "XR TRILUMINOS PRO, Live Colour Technology"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Speaker Type",
+      "value": "Acoustic Surface Audio+, Sound Positioning Tweeter"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Audio Out (optical)\","
+      "name": "Speaker Configuration",
+      "value": "2 x Actuator, 2 x Tweeter, 1 x Subwoofer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Camera Function",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Smart TV",
+      "value": "Google TV"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "On-Board Storage (GB)",
+      "value": "32GB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1442\""
+      "name": "Power Consumption (Networked Standby Mode)",
+      "value": "2.00W(Wi-Fi) / 2.00W(LAN) / 0.50W(CEC)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Power Requirements (Voltage/Frequency)",
+      "value": "50 Hz, 220 V - 240 V AC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"37\""
+      "name": "Power Saving Mode / Back Light Off Mode",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Stand Position",
+      "value": "4way position(Outside/Inside/Ouside for Soundbar/Inside for Soundbar)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"829\""
+      "name": "Number of Tuners (Terrestrial/Cable)",
+      "value": "2(Digital)/1(Analog)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Number of Tuners (Sat)",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"22.3\""
+      "name": "TV System (Analog)",
+      "value": "B/G,D/K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4548736164840\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimension of TV With Stand (Narrow Position) (W X H X D)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"144.2 × 85.5 × 24.8 cm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimension of TV With Stand (Soundbar Position) (W X H X D)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"144.2 × 90.9 x 24.8 cm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Width (Standard Position) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1244\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Width (Soundbar Position) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1244\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Vesa Hole Pitch (W X H)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"300 x 300\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight of TV With Stand (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"23.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Standard\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi Certified 802.11a/b/g/n/ac/ax\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4GHz/5GHz/6GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rf Input (Terrestrial/Cable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"IF Input (Satellite)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDCP\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"HDCP2.3(for HDMI1/2/3/4)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3840 x 2160\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Picture Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"XR Processor\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Contrast Enhancement\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"XR Contrast Booster 15, Dynamic Contrast Enhancer\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Colour Enhancement\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"XR TRILUMINOS PRO, Live Colour Technology\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Acoustic Surface Audio+, Sound Positioning Tweeter\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Configuration\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 x Actuator, 2 x Tweeter, 1 x Subwoofer\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Camera Function\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Smart TV\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Google TV\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"On-Board Storage (GB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"32GB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Consumption (Networked Standby Mode)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.00W(Wi-Fi) / 2.00W(LAN) / 0.50W(CEC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Requirements (Voltage/Frequency)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50 Hz, 220 V - 240 V AC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Saving Mode / Back Light Off Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stand Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4way position(Outside/Inside/Ouside for Soundbar/Inside for Soundbar)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Tuners (Terrestrial/Cable)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2(Digital)/1(Analog)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Tuners (Sat)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TV System (Analog)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"B/G,D/K\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CI+\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "CI+",
+      "value": "Yes"
     }
   ]
 },
@@ -10369,316 +5748,168 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Asus"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Asus\""
+      "name": "Colour",
+      "value": "Cool Silver"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "15.6\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cool Silver\""
+      "name": "Screen Type",
+      "value": "FHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "1920 x 1080"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.6\\\"\""
+      "name": "Operating System",
+      "value": "Windows 11 Pro"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "1x HDMI 1.4, 1x 3.5mm Combo Audio Jack, 1x DC-in"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FHD\""
+      "name": "Built in Camera & Microphone",
+      "value": "720p HD Camera with Privacy Shutter, Array Microphone"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1920 x 1080\""
+      "name": "Processor Brand",
+      "value": "Intel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "Intel Core i3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Pro\""
+      "name": "Processor Type",
+      "value": "Intel Core i3-N305"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Clock Speed (GHz)",
+      "value": "1.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1x HDMI 1.4, 1x 3.5mm Combo Audio Jack, 1x DC-in\""
+      "name": "3rd Level Cache (MB)",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "Memory"
     },
     {
-      "name": "\"value\"",
-      "value": "\"720p HD Camera with Privacy Shutter, Array Microphone\""
+      "name": "RAM (GB)",
+      "value": "8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Hard Drive (GB)",
+      "value": "128"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel\""
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Graphics Type",
+      "value": "Intel UHD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3\""
+      "name": "Type",
+      "value": "integrated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3-N305\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.8\""
+      "name": "HDMI",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3rd Level Cache (MB)\","
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "USB",
+      "value": "1x USB 2.0 Type-A, 1x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 1 Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Width (mm)",
+      "value": "360.3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Depth (mm)",
+      "value": "232.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Height (mm)",
+      "value": "17.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Weight (kg)",
+      "value": "1.63"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Storage",
+      "value": "UFS 2.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
+      "name": "Memory",
+      "value": "DDR4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel UHD\""
+      "name": "Aspect Ratio",
+      "value": "16:9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Cortana Voice-Recognition",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"integrated\""
+      "name": "Network and Communication",
+      "value": "Wi-Fi 6E(802.11ax) (Dual band) 1*1, Bluetooth 5.3 Wireless Card"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "Built-in Apps",
+      "value": "MyASUS, ScreenXpert, GlideX"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Military Grade",
+      "value": "US MIL-STD 810H military-grade standard"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Ecolabels & Compliances",
+      "value": "RoHS, REACH"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1x USB 2.0 Type-A, 1x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 1 Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"360.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"232.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.63\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UFS 2.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DDR4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Aspect Ratio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16:9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cortana Voice-Recognition\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Network and Communication\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 6E(802.11ax) (Dual band) 1*1, Bluetooth 5.3 Wireless Card\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Built-in Apps\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MyASUS, ScreenXpert, GlideX\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Military Grade\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"US MIL-STD 810H military-grade standard\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ecolabels & Compliances\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"RoHS, REACH\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Trusted Platform Module (Firmware TPM), McAfee\""
+      "name": "Security",
+      "value": "Trusted Platform Module (Firmware TPM), McAfee"
     }
   ]
 },
@@ -10696,624 +5927,325 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Asus"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Asus\""
+      "name": "Colour",
+      "value": "Scandinavian White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "16\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Scandinavian White\""
+      "name": "Screen Type",
+      "value": "OLED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "2880 x 1800"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\\\"\""
+      "name": "Operating System",
+      "value": "Windows 11 Home"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "1 x HDMI 2.1 TMDS, 1 x 3.5mm Combo Audio Jack, SD 4.0 card reader"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED\""
+      "name": "Built in Camera & Microphone",
+      "value": "FHD Camera with IR Function to Support Windows Hello and Array Microphone"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2880 x 1800\""
+      "name": "Processor Brand",
+      "value": "AMD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "AMD Ryzen AI 9"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Home\""
+      "name": "Processor Type",
+      "value": "AMD Ryzen AI 9 365"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Clock Speed (GHz)",
+      "value": "2.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x HDMI 2.1 TMDS, 1 x 3.5mm Combo Audio Jack, SD 4.0 card reader\""
+      "name": "Memory"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "RAM (GB)",
+      "value": "24"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FHD Camera with IR Function to Support Windows Hello and Array Microphone\""
+      "name": "No. of Memory Slots",
+      "value": "1x M.2 2280 PCIe 4.0x4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Hard Drive (GB)",
+      "value": "1 TB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD\""
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Graphics Type",
+      "value": "AMD Radeon 880M"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen AI 9\""
+      "name": "Type",
+      "value": "Intergrated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen AI 9 365\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.0\""
+      "name": "HDMI",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "USB",
+      "value": "1 x USB 3.2 Gen 2 Type-A (data speed up to 10Gbps), 2 x USB 4.0 Gen 3 Type-C with support for display / power delivery (data speed up to 40Gbps)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"24\""
+      "name": "Multi-Card Reader",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Memory Slots\","
+      "name": "Compatible Memory Card",
+      "value": "SD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1x M.2 2280 PCIe 4.0x4\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Battery Type",
+      "value": "4-cell Li-ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 TB\""
+      "name": "Width (mm)",
+      "value": "353.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Depth (mm)",
+      "value": "11.9 ~ 12.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
+      "name": "Height (mm)",
+      "value": "243.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD Radeon 880M\""
+      "name": "Weight (kg)",
+      "value": "1.50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intergrated\""
+      "name": "EAN Code",
+      "value": "4711387615355"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "LCD Cover-material",
+      "value": "Aluminum"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "LCD Cover-color",
+      "value": "Scandinavian White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Top Case-material",
+      "value": "Aluminum"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Top Case-color",
+      "value": "Scandinavian White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "Keyboard Color",
+      "value": "White"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bottom Case-material",
+      "value": "Aluminum"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Bottom Case-color",
+      "value": "Scandinavian White"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Military Grade",
+      "value": "US MIL-STD 810H military-grade standard"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Touch Panel",
+      "value": "Touch Screen"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x USB 3.2 Gen 2 Type-A (data speed up to 10Gbps), 2 x USB 4.0 Gen 3 Type-C with support for display / power delivery (data speed up to 40Gbps)\""
+      "name": "Resolution",
+      "value": "3K (2880 x 1800) OLED 16:10 aspect ratio"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Multi-Card Reader\","
+      "name": "Response Time",
+      "value": "0.2ms response time"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Refresh Rate",
+      "value": "120 Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Compatible Memory Card\","
+      "name": "Brightness",
+      "value": "400nits"
     },
     {
-      "name": "\"value\"",
-      "value": "\"SD\""
+      "name": "Peak Brightness",
+      "value": "500nits HDR peak brightness"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Color Gamut",
+      "value": "100% DCI-P3 color gamut"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Gamut Mapping",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4-cell Li-ion\""
+      "name": "Contrast Ratio",
+      "value": "1,000,000:1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "VESA Certified",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Color depth",
+      "value": "1.07 Billion Colors"
     },
     {
-      "name": "\"value\"",
-      "value": "\"353.6\""
+      "name": "Pantone",
+      "value": "Pantone Validated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Glare",
+      "value": "Glossy Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"11.9 ~ 12.9\""
+      "name": "Low Blue Light",
+      "value": "70% Less Harmful Blue Light"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "TÜV Rheinland-certified",
+      "value": "TÜV Rheinland-certified"
     },
     {
-      "name": "\"value\"",
-      "value": "\"243.0\""
+      "name": "SGS Eye Care Display",
+      "value": "SGS Eye Care Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Screen-to-body Ratio",
+      "value": "90%"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.50\""
+      "name": "Stylus Support",
+      "value": "With stylus support"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Processor",
+      "value": "AMD Ryzen AI 9 365 Processor 2.0GHz (34MB Cache, up to 5.0GHz, 10 cores, 20 Threads), AMD XDNA NPU up to 50TOPS"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Display HDR",
+      "value": "True Black 500"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4711387615355\""
+      "name": "Discrete/Share",
+      "value": "Share"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Neural Processor",
+      "value": "AMD XDNA NPU up to 50TOPS"
     },
     {
-      "name": "\"name\"",
-      "value": "\"LCD Cover-material\","
+      "name": "On Board Memory",
+      "value": "24GB LPDDR5X on board"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Aluminum\""
+      "name": "Storage",
+      "value": "1TB M.2 NVMe PCIe 4.0 SSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"LCD Cover-color\","
+      "name": "On Board Wireless",
+      "value": "Wi-Fi 7(802.11be) (Tri-band)2*2 + Bluetooth 5.4 Wireless Card"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Scandinavian White\""
+      "name": "Keyboard Type",
+      "value": "Backlit Chiclet Keyboard"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Top Case-material\","
+      "name": "With Copilot key"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Aluminum\""
+      "name": "Touchpad",
+      "value": "Precision Touchpad"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Top Case-color\","
+      "name": "Power",
+      "value": "TYPE-C, 65W AC Adapter, Output: 20V DC, 3.25A, 65W, Input: 100-240V AC 50/60GHz universal"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Scandinavian White\""
+      "name": "Battery",
+      "value": "78WHrs, 2S2P, 4-cell Li-ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Keyboard Color\","
+      "name": "Security",
+      "value": "IR webcam with Windows Hello support, Microsoft Pluton security processor, Trusted Platform Module (Firmware TPM)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "MyASUS feature",
+      "value": "System diagnosis, Battery health charging, Fan Profile, Splendid, Function key lock, WiFi SmartConnect , Link to MyASUS, TaskFirst, Live update, ASUS OLED Care, AI Noise Canceling"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bottom Case-material\","
+      "name": "Built-in Apps",
+      "value": "StoryCube, MyASUS, ScreenXpert, GlideX"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Aluminum\""
+      "name": "Ecolabels & Compliances",
+      "value": "EPEAT Gold, Energy star 8.0, RoHS, REACH"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bottom Case-color\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Scandinavian White\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Military Grade\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"US MIL-STD 810H military-grade standard\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Touch Panel\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Touch Screen\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3K (2880 x 1800) OLED 16:10 aspect ratio\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Response Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.2ms response time\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Brightness\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"400nits\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Peak Brightness\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"500nits HDR peak brightness\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Gamut\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100% DCI-P3 color gamut\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Gamut Mapping\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Contrast Ratio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1,000,000:1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"VESA Certified\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color depth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.07 Billion Colors\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pantone\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pantone Validated\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Glare\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Glossy Display\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Low Blue Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"70% Less Harmful Blue Light\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"TÜV Rheinland-certified\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"TÜV Rheinland-certified\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SGS Eye Care Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SGS Eye Care Display\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Screen-to-body Ratio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"90%\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stylus Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"With stylus support\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen AI 9 365 Processor 2.0GHz (34MB Cache, up to 5.0GHz, 10 cores, 20 Threads), AMD XDNA NPU up to 50TOPS\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display HDR\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"True Black 500\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Discrete/Share\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Share\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Neural Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AMD XDNA NPU up to 50TOPS\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"On Board Memory\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"24GB LPDDR5X on board\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1TB M.2 NVMe PCIe 4.0 SSD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"On Board Wireless\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 7(802.11be) (Tri-band)2*2 + Bluetooth 5.4 Wireless Card\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Keyboard Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Backlit Chiclet Keyboard\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"With Copilot key\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Touchpad\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Precision Touchpad\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"TYPE-C, 65W AC Adapter, Output: 20V DC, 3.25A, 65W, Input: 100-240V AC 50/60GHz universal\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"78WHrs, 2S2P, 4-cell Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"IR webcam with Windows Hello support, Microsoft Pluton security processor, Trusted Platform Module (Firmware TPM)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"MyASUS feature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"System diagnosis, Battery health charging, Fan Profile, Splendid, Function key lock, WiFi SmartConnect , Link to MyASUS, TaskFirst, Live update, ASUS OLED Care, AI Noise Canceling\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Built-in Apps\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"StoryCube, MyASUS, ScreenXpert, GlideX\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ecolabels & Compliances\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"EPEAT Gold, Energy star 8.0, RoHS, REACH\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (without Battery) (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.20\""
+      "name": "Weight (without Battery) (kg)",
+      "value": "1.20"
     }
   ]
 },
@@ -11331,400 +6263,213 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Lenovo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lenovo\""
+      "name": "Colour",
+      "value": "Arctic Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "15.6\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Arctic Grey\""
+      "name": "Screen Type",
+      "value": "FHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "1920 x 1080"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.6\\\"\""
+      "name": "Operating System",
+      "value": "Windows 11 Home in S mode 64"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "1 x HDMI 1.4, 1 x Combo of 3.5mm Stereo Headphone Output, 1 x SD Card Reader, DC-in Jack (Round)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FHD\""
+      "name": "Built in Camera & Microphone",
+      "value": "1080p FHD with webcam privacy shutter, Dual-array mic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1920 x 1080\""
+      "name": "Processor Brand",
+      "value": "Intel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "Intel Core i3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Home in S mode 64\""
+      "name": "Processor Type",
+      "value": "Intel Core i3-N305"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Clock Speed (GHz)",
+      "value": "1.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x HDMI 1.4, 1 x Combo of 3.5mm Stereo Headphone Output, 1 x SD Card Reader, DC-in Jack (Round)\""
+      "name": "Memory"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "RAM (GB)",
+      "value": "8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1080p FHD with webcam privacy shutter, Dual-array mic\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Hard Drive (GB)",
+      "value": "128"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel\""
+      "name": "Graphics Type",
+      "value": "Intel UHD Graphics"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3\""
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3-N305\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "HDMI",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.8\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "USB",
+      "value": "2 x USB-A 3.2 Gen 1, 1 x USB-C 3.2 Gen 1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Multi-Card Reader",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Compatible Memory Card",
+      "value": "SD Card Reader"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Battery Type",
+      "value": "Polymer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "Dimension"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Width (mm)",
+      "value": "359.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
+      "name": "Depth (mm)",
+      "value": "236"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel UHD Graphics\""
+      "name": "Height (mm)",
+      "value": "17.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Weight (kg)",
+      "value": "1.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "EAN Code",
+      "value": "198153998418"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Type",
+      "value": "LPDDR5-4800MT/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "Storage Type",
+      "value": "UFS 3.1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "15.6\" FHD (1920 x 1080), IPS, Anti-Glare, Non-Touch, 45%NTSC, 300 nits, 60Hz, Narrow Bezel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "AC Adapter / Power Supply",
+      "value": "65 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Pointing Device",
+      "value": "ClickPad"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Keyboard",
+      "value": "Grey - English (UK)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 x USB-A 3.2 Gen 1, 1 x USB-C 3.2 Gen 1\""
+      "name": "WIFI",
+      "value": "Wi-Fi 6 2x2 AX & Bluetooth 5.1 or above"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Multi-Card Reader\","
+      "name": "Battery",
+      "value": "47WHr polymer, Supports rapid-charging technology (15 minutes = 2 hours’ runtime)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Audio",
+      "value": "Dolby Audio, 2 x 1.5W Front-facing speakers"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Compatible Memory Card\","
+      "name": "WiFi",
+      "value": "Up to WiFi 6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"SD Card Reader\""
+      "name": "Bluetooth",
+      "value": "5.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Certifications / Registries",
+      "value": "ENERGY STAR 8.0, EPEAT Silver where applicable"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Security",
+      "value": "Optional: Fingerprint reader integrated with power button, Self-healing BIOS, Natural File Guard password protection for hard drive"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Polymer\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimension\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"359.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"236\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"198153998418\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LPDDR5-4800MT/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UFS 3.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"15.6\\\" FHD (1920 x 1080), IPS, Anti-Glare, Non-Touch, 45%NTSC, 300 nits, 60Hz, Narrow Bezel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"AC Adapter / Power Supply\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pointing Device\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ClickPad\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Keyboard\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Grey - English (UK)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WIFI\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 6 2x2 AX & Bluetooth 5.1 or above\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"47WHr polymer, Supports rapid-charging technology (15 minutes = 2 hours’ runtime)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dolby Audio, 2 x 1.5W Front-facing speakers\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WiFi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Up to WiFi 6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Certifications / Registries\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ENERGY STAR 8.0, EPEAT Silver where applicable\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Optional: Fingerprint reader integrated with power button, Self-healing BIOS, Natural File Guard password protection for hard drive\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Preloaded Software\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Alexa, Lenovo Utility, Lenovo Vantage, McAfee LiveSafe, Microsoft Office 365 (trial), Windows 11 Home, Windows 11 Pro\""
+      "name": "Preloaded Software",
+      "value": "Alexa, Lenovo Utility, Lenovo Vantage, McAfee LiveSafe, Microsoft Office 365 (trial), Windows 11 Home, Windows 11 Pro"
     }
   ]
 },
@@ -11742,584 +6487,303 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "T1A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"T1A\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "13.3\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Operating System",
+      "value": "Windows 11 Pro"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Ports, Slots & Chassis",
+      "value": "1 x HDMI 2.0, 2 x Thunderbolt 4, 1 x Combo Headphone/mic"
     },
     {
-      "name": "\"value\"",
-      "value": "\"13.3\\\"\""
+      "name": "Built in Camera & Microphone",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Pro\""
+      "name": "Processor Brand",
+      "value": "Intel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Processor",
+      "value": "Intel Core i5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x HDMI 2.0, 2 x Thunderbolt 4, 1 x Combo Headphone/mic\""
+      "name": "Processor Type",
+      "value": "Intel Core i5 10310U"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "Clock Speed (GHz)",
+      "value": "1.7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "RAM (GB)",
+      "value": "16"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Hard Disk"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel\""
+      "name": "Hard Drive (GB)",
+      "value": "256"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i5\""
+      "name": "Graphics Type",
+      "value": "Intel UHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i5 10310U\""
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.7\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "HDMI",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "USB",
+      "value": "2 x USB 3.2 Gen 1 (3.1 Gen 1) Type-A, 1 x USB Sleep-and-Charge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Battery Type",
+      "value": "Lithium Polymer (LiPo)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Width (mm)",
+      "value": "305"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
+      "name": "Depth (mm)",
+      "value": "213.9"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel UHD\""
+      "name": "Height (mm)",
+      "value": "15.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Weight (kg)",
+      "value": "1.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "Touchscreen",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Panel type",
+      "value": "IPS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "LED Backlight",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Native aspect ratio",
+      "value": "16:10"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "RGB colour space",
+      "value": "sRGB"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "Colour gamut",
+      "value": "100%"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Processor Cores",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Processor Threads",
+      "value": "8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Processor Boost Frequency",
+      "value": "4.4 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Processor Cache",
+      "value": "6 MB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 x USB 3.2 Gen 1 (3.1 Gen 1) Type-A, 1 x USB Sleep-and-Charge\""
+      "name": "Processor Cache Type",
+      "value": "Smart Cache"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Internal Memory Type",
+      "value": "LPDDR4x-SDRAM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Memory Clock Speed",
+      "value": "4266 MHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium Polymer (LiPo)\""
+      "name": "Memory Channels",
+      "value": "Dual-channel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Storage Media",
+      "value": "SSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Number of SSDs installed",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"305\""
+      "name": "Audio Chip",
+      "value": "Realtek ALC3286"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Audio System",
+      "value": "Dolby Audio"
     },
     {
-      "name": "\"value\"",
-      "value": "\"213.9\""
+      "name": "Number of Built-in Speakers",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Speaker Power",
+      "value": "2 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.4\""
+      "name": "Number of Microphones",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Wi-Fi standards",
+      "value": "Wi-Fi 6 (802.11ax)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.2\""
+      "name": "Intel Thunderbolt 4",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "USB Type-C Display Port Alternate Mode",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Touchscreen\","
+      "name": "Sensor",
+      "value": "Accelerometer, Proximity Sensor, Gyroscope"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Pointing Device",
+      "value": "ThinkPad UltraNav"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Panel type\","
+      "name": "Keyboard Backlit",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"IPS\""
+      "name": "Spill-resistant Keyboard",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"LED Backlight\","
+      "name": "Keyboard Layout",
+      "value": "QWERTY"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Keyboard Language",
+      "value": "UK English"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Native aspect ratio\","
+      "name": "Operating System Architecture",
+      "value": "64-bit"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16:10\""
+      "name": "USB Type-C Charging Port",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RGB colour space\","
+      "name": "USB Power Delivery (USB PD)",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"sRGB\""
+      "name": "Cable Lock Slot Type",
+      "value": "Kensington"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour gamut\","
+      "name": "Trusted Platform Module (TPM) Version",
+      "value": "2.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100%\""
+      "name": "Password Protection Type",
+      "value": "Power on, Supervisor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Cores\","
+      "name": "Operating Temperature (T-T)",
+      "value": "5 - 35 °C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Storage Temperature (T-T)",
+      "value": "5 - 43 °C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Threads\","
+      "name": "Operating Relative Humidity (H-H)",
+      "value": "8 - 95%"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Storage Relative Humidity (H-H)",
+      "value": "5 - 95%"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Boost Frequency\","
+      "name": "Maximum Shipping Altitude",
+      "value": "3048 m"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4.4 GHz\""
+      "name": "Certification",
+      "value": "ENERGY STAR 8.0, TCO, EPEAT, Gold, RoHS, Intel Evo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Cache\","
+      "name": "Certification",
+      "value": "MIL-STD-810G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6 MB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor Cache Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Smart Cache\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Internal Memory Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LPDDR4x-SDRAM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory Clock Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4266 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory Channels\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dual-channel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Media\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SSD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of SSDs installed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Chip\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Realtek ALC3286\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dolby Audio\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Built-in Speakers\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Microphones\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi standards\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 6 (802.11ax)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Intel Thunderbolt 4\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Type-C Display Port Alternate Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Accelerometer, Proximity Sensor, Gyroscope\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pointing Device\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ThinkPad UltraNav\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Keyboard Backlit\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Spill-resistant Keyboard\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Keyboard Layout\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"QWERTY\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Keyboard Language\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UK English\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating System Architecture\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"64-bit\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Type-C Charging Port\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Power Delivery (USB PD)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cable Lock Slot Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Kensington\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Trusted Platform Module (TPM) Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Password Protection Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Power on, Supervisor\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature (T-T)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 - 35 °C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Temperature (T-T)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 - 43 °C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Relative Humidity (H-H)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8 - 95%\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Relative Humidity (H-H)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 - 95%\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Shipping Altitude\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3048 m\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Certification\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ENERGY STAR 8.0, TCO, EPEAT, Gold, RoHS, Intel Evo\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Certification\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MIL-STD-810G\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sustainability Certificates\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ENERGY STAR, EPEAT Gold, TCO\""
+      "name": "Sustainability Certificates",
+      "value": "ENERGY STAR, EPEAT Gold, TCO"
     }
   ]
 },
@@ -12337,276 +6801,150 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Colour",
+      "value": "Midnight"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "15.3\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Midnight\""
+      "name": "Screen Type",
+      "value": "Liquid Retina"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "2880 x 1864"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.3\\\"\""
+      "name": "Operating System",
+      "value": "macOS"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "MagSafe 3 Charging Port"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Liquid Retina\""
+      "name": "Built in Camera & Microphone",
+      "value": "12MP Center Stage camera, Three-mic array with directional beamforming"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2880 x 1864\""
+      "name": "Processor Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "M4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"macOS\""
+      "name": "Memory"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "RAM (GB)",
+      "value": "16"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MagSafe 3 Charging Port\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "Hard Drive (GB)",
+      "value": "256"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP Center Stage camera, Three-mic array with directional beamforming\""
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"M4\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "USB",
+      "value": "2 x Thunderbolt 4 (USB-C)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "Battery Type",
+      "value": "Lithium‑Polymer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Battery (up to)",
+      "value": "18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "Width (mm)",
+      "value": "340.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Depth (mm)",
+      "value": "11.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Height (mm)",
+      "value": "237.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
+      "name": "Weight (kg)",
+      "value": "1.51"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "USB-C Ports Support for",
+      "value": "Charging, DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Video Playback",
+      "value": "HEVC, H.264, AV1, ProRes, HDR with Dolby Vision, HDR10+/HDR10, HLG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Audio Playback",
+      "value": "AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Wi‑Fi",
+      "value": "Wi‑Fi 6E (802.11ax)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 x Thunderbolt 4 (USB-C)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lithium‑Polymer\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery (up to)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"18\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"340.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"11.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"237.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.51\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-C Ports Support for\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Charging, DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playback\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"HEVC, H.264, AV1, ProRes, HDR with Dolby Vision, HDR10+/HDR10, HLG\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Playback\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi‑Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi‑Fi 6E (802.11ax)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"V5.3\""
+      "name": "Bluetooth",
+      "value": "V5.3"
     }
   ]
 },
@@ -12624,212 +6962,116 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "HP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HP\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "15.6\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Screen Type",
+      "value": "FHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "1920 x 1080"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.6\\\"\""
+      "name": "Operating System",
+      "value": "Windows 11 Home"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "USB, HDMI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FHD\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor Brand",
+      "value": "AMD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1920 x 1080\""
+      "name": "Processor",
+      "value": "Ryzen 7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor Type",
+      "value": "AMD Ryzen 7 5825U"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Home\""
+      "name": "Clock Speed (GHz)",
+      "value": "2.00 - 4.50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Memory"
     },
     {
-      "name": "\"value\"",
-      "value": "\"USB, HDMI\""
+      "name": "RAM (GB)",
+      "value": "16"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "No. of Memory Slots",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Hard Disk"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD\""
+      "name": "Hard Drive (GB)",
+      "value": "512"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ryzen 7\""
+      "name": "Graphics Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Type",
+      "value": "AMD Radeon"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen 7 5825U\""
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "HDMI",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.00 - 4.50\""
+      "name": "USB",
+      "value": "3 x USB 3.0, 1 x USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "EAN Code",
+      "value": "0197497366709"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Memory Slots\","
+      "name": "Refresh Rate (Hz)",
+      "value": "60"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "RAM Type",
+      "value": "DDR4 - 3200"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"512\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AMD Radeon\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 x USB 3.0, 1 x USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0197497366709\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RAM Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DDR4 - 3200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"ROM Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SSD\""
+      "name": "ROM Type",
+      "value": "SSD"
     }
   ]
 },
@@ -12847,204 +7089,112 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Asus"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Asus\""
+      "name": "Colour",
+      "value": "Silver"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "16\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Silver\""
+      "name": "Screen Type",
+      "value": "WUXGA"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "1920 x 1200"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\\\"\""
+      "name": "Operating System",
+      "value": "Windows 11 Home"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Built in Camera & Microphone",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"WUXGA\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor Brand",
+      "value": "AMD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1920 x 1200\""
+      "name": "Processor",
+      "value": "AMD Ryzen 7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor Type",
+      "value": "AMD Ryzen 7 7730U"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Home\""
+      "name": "Clock Speed (GHz)",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "Memory"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "RAM (GB)",
+      "value": "16"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Hard Drive (GB)",
+      "value": "512"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD\""
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Graphics Type",
+      "value": "AMD Radeon"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen 7\""
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen 7 7730U\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "EAN Code",
+      "value": "4711387615270"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Processor Type",
+      "value": "AMD Ryzen 7 7730U (16MB Cache, 2GHz)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "Memory Type",
+      "value": "DDR4-SDRAM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Storage Type",
+      "value": "SSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"512\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AMD Radeon\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4711387615270\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AMD Ryzen 7 7730U (16MB Cache, 2GHz)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DDR4-SDRAM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SSD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WLAN\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "WLAN",
+      "value": "Yes"
     }
   ]
 },
@@ -13062,396 +7212,210 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Lenovo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lenovo\""
+      "name": "Colour",
+      "value": "Abyss Blue"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "14\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Abyss Blue\""
+      "name": "Screen Type",
+      "value": "FHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "1920 x 1080"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14\\\"\""
+      "name": "Operating System",
+      "value": "ChromeOS"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "1 x Headphone / microphone combo jack (3.5mm), 1 x microSD card reader"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FHD\""
+      "name": "Built in Camera & Microphone",
+      "value": "FHD 1080p with Privacy Shutter, 2 x Array Microphone"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1920 x 1080\""
+      "name": "Processor Brand",
+      "value": "MediaTek"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "MediaTek Kompanio"
     },
     {
-      "name": "\"value\"",
-      "value": "\"ChromeOS\""
+      "name": "Processor Type",
+      "value": "MediaTek Kompanio 520"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Clock Speed (GHz)",
+      "value": "2.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x Headphone / microphone combo jack (3.5mm), 1 x microSD card reader\""
+      "name": "Memory"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "RAM (GB)",
+      "value": "8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FHD 1080p with Privacy Shutter, 2 x Array Microphone\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Hard Drive (GB)",
+      "value": "128"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MediaTek\""
+      "name": "Graphics Type",
+      "value": "Mali-G52 2EE MC2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MediaTek Kompanio\""
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MediaTek Kompanio 520\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.0\""
+      "name": "USB",
+      "value": "1 x USB 3.2 Gen 1, 1 x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort 1.1a)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "Multi-Card Reader",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Compatible Memory Card",
+      "value": "MicroSD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Width (mm)",
+      "value": "325.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Depth (mm)",
+      "value": "221.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "Height (mm)",
+      "value": "18.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Weight (kg)",
+      "value": "1.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Mali-G52 2EE MC2\""
+      "name": "EAN Code",
+      "value": "0197529702598"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Processor Type",
+      "value": "MediaTek Kompanio 520 (8C, 2x A76 @2.05GHz + 6x A55 @2.0GHz)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Type",
+      "value": "LPDDR4x-3600"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Storage Type",
+      "value": "eMMC 5.1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Audio Chip",
+      "value": "High Definition (HD) Audio"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Speakers",
+      "value": "Stereo speakers, 2W x2, optimized with Waves MaxxAudio"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Battery",
+      "value": "47 Wh"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Power Adapter",
+      "value": "45 W USB-C (3-pin)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x USB 3.2 Gen 1, 1 x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort 1.1a)\""
+      "name": "Display Type",
+      "value": "14\" FHD (1920x1080) TN 250nits Anti-glare, 45% NTSC"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Multi-Card Reader\","
+      "name": "Keyboard",
+      "value": "Non-backlit, English (UK)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Touchpad",
+      "value": "Buttonless Mylar surface multi-touch touchpad, 69 x 104 mm (2.72 x 4.09 inches)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Compatible Memory Card\","
+      "name": "Surface Treatment",
+      "value": "Texture Painting"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MicroSD\""
+      "name": "Case Material",
+      "value": "PC-ABS + 15% Talc (Top), PC-ABS + 15% Talc (Bottom)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "WLAN + Bluetooth",
+      "value": "Wi-Fi 6, 802.11ax 2x2 + BT5.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Security Chip",
+      "value": "Google Security Chip H1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"325.9\""
+      "name": "Physical Locks",
+      "value": "Kensington Nano Security Slot, 2.5 x 6 mm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"221.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"18.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0197529702598\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MediaTek Kompanio 520 (8C, 2x A76 @2.05GHz + 6x A55 @2.0GHz)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LPDDR4x-3600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eMMC 5.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Chip\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"High Definition (HD) Audio\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speakers\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Stereo speakers, 2W x2, optimized with Waves MaxxAudio\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"47 Wh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Adapter\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45 W USB-C (3-pin)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14\\\" FHD (1920x1080) TN 250nits Anti-glare, 45% NTSC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Keyboard\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Non-backlit, English (UK)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Touchpad\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Buttonless Mylar surface multi-touch touchpad, 69 x 104 mm (2.72 x 4.09 inches)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Surface Treatment\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Texture Painting\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Case Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"PC-ABS + 15% Talc (Top), PC-ABS + 15% Talc (Bottom)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WLAN + Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi 6, 802.11ax 2x2 + BT5.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Chip\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Google Security Chip H1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Physical Locks\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Kensington Nano Security Slot, 2.5 x 6 mm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Green Certifications\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ENERGY STAR 8.0, EPEAT Gold Registered, ErP Lot 6/26, RoHS compliant\""
+      "name": "Green Certifications",
+      "value": "ENERGY STAR 8.0, EPEAT Gold Registered, ErP Lot 6/26, RoHS compliant"
     }
   ]
 },
@@ -13469,364 +7433,194 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "15.6\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Screen Type",
+      "value": "LED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "1920 x 1080"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.6\\\"\""
+      "name": "Operating System",
+      "value": "Windows 11 Home"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "1 x Headphone out/Mic-in Combo, 1 x RJ45 (LAN), 1 x HDMI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"LED\""
+      "name": "Built in Camera & Microphone",
+      "value": "720p HD Camera & Internal Dual Array Digital Mic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1920 x 1080\""
+      "name": "Processor Brand",
+      "value": "Intel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "Intel Core i3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Windows 11 Home\""
+      "name": "Processor Type",
+      "value": "Intel Core i3-1315U"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "Clock Speed (GHz)",
+      "value": "1.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 x Headphone out/Mic-in Combo, 1 x RJ45 (LAN), 1 x HDMI\""
+      "name": "3rd Level Cache (MB)",
+      "value": "10"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "Memory"
     },
     {
-      "name": "\"value\"",
-      "value": "\"720p HD Camera & Internal Dual Array Digital Mic\""
+      "name": "RAM (GB)",
+      "value": "8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "No. of Memory Slots",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Hard Disk"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel\""
+      "name": "Hard Drive (GB)",
+      "value": "256"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3\""
+      "name": "Graphics Type",
+      "value": "Intel UHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3-1315U\""
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Clock Speed (GHz)\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.2\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3rd Level Cache (MB)\","
+      "name": "HDMI",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "USB",
+      "value": "2 x USB Type-C, 2 x USB3.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Multi-Card Reader",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Compatible Memory Card",
+      "value": "MicroSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"No. of Memory Slots\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Width (mm)",
+      "value": "356.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Depth (mm)",
+      "value": "229.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Height (mm)",
+      "value": "15.4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "Weight (kg)",
+      "value": "1.55"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Graphics Type\","
+      "name": "EAN Code",
+      "value": "8806095645735"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Intel UHD\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "Processor Type",
+      "value": "Intel Core i3-1315U (1.2 GHz up to 4.5 GHz 10 MB L3 Cache)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Display Type",
+      "value": "15.6\" FHD LED Display (1920 x 1080), Anti-Glare"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Type",
+      "value": "8 GB LPDDR4x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Storage Type",
+      "value": "256 GB NVMe SSD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Multimedia",
+      "value": "Stereo Speakers ( 2 W x 2 ), Dolby Atmos"
     },
     {
-      "name": "\"name\"",
-      "value": "\"HDMI\","
+      "name": "Network",
+      "value": "Bluetooth v5.2, Wi-Fi 6 (Gig+), 802.11 ax 2x2, Gigabit Ethernet [10/100/1000]"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Input",
+      "value": "Pro keyboard with Numeric key, Clickpad"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Security",
+      "value": "Security Slot, TPM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 x USB Type-C, 2 x USB3.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Multi-Card Reader\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatible Memory Card\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MicroSD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"356.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"229.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"15.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.55\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8806095645735\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Intel Core i3-1315U (1.2 GHz up to 4.5 GHz 10 MB L3 Cache)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"15.6\\\" FHD LED Display (1920 x 1080), Anti-Glare\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Memory Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8 GB LPDDR4x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"256 GB NVMe SSD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Multimedia\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Stereo Speakers ( 2 W x 2 ), Dolby Atmos\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Network\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth v5.2, Wi-Fi 6 (Gig+), 802.11 ax 2x2, Gigabit Ethernet [10/100/1000]\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pro keyboard with Numeric key, Clickpad\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Security Slot, TPM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"54 Wh, 45 W USB Type-C Adapter\""
+      "name": "Power",
+      "value": "54 Wh, 45 W USB Type-C Adapter"
     }
   ]
 },
@@ -13844,276 +7638,150 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Colour",
+      "value": "Midnight"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Screen Size",
+      "value": "13.6\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Midnight\""
+      "name": "Screen Type",
+      "value": "Liquid Retina"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Display Resolution",
+      "value": "2560 x 1664"
     },
     {
-      "name": "\"value\"",
-      "value": "\"13.6\\\"\""
+      "name": "Operating System",
+      "value": "macOS"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Type\","
+      "name": "Ports, Slots & Chassis",
+      "value": "MagSafe 3 Charging Port"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Liquid Retina\""
+      "name": "Built in Camera & Microphone",
+      "value": "12MP Center Stage camera, Three-mic array with directional beamforming"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Resolution\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2560 x 1664\""
+      "name": "Processor Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Processor",
+      "value": "M4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"macOS\""
+      "name": "Memory"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Ports, Slots & Chassis\","
+      "name": "RAM (GB)",
+      "value": "16"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MagSafe 3 Charging Port\""
+      "name": "Hard Disk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Built in Camera & Microphone\","
+      "name": "Hard Drive (GB)",
+      "value": "256"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP Center Stage camera, Three-mic array with directional beamforming\""
+      "name": "Optical Drive & Graphics"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Type",
+      "value": "Integrated"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Brand\","
+      "name": "Connectivity & Networking"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"M4\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory\""
+      "name": "USB",
+      "value": "2 x Thunderbolt 4 (USB-C)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16\""
+      "name": "Battery Type",
+      "value": "Lithium‑Polymer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Disk\""
+      "name": "Battery (up to)",
+      "value": "18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hard Drive (GB)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "Width (mm)",
+      "value": "304.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Optical Drive & Graphics\""
+      "name": "Depth (mm)",
+      "value": "11.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Height (mm)",
+      "value": "215"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Integrated\""
+      "name": "Weight (kg)",
+      "value": "1.24"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity & Networking\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "USB-C Ports Support for",
+      "value": "Charging, DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Video Playback",
+      "value": "HEVC, H.264, AV1, ProRes, HDR with Dolby Vision, HDR10+/HDR10, HLG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Audio Playback",
+      "value": "AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Wi‑Fi",
+      "value": "Wi‑Fi 6E (802.11ax)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 x Thunderbolt 4 (USB-C)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lithium‑Polymer\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery (up to)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"18\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"304.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"11.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"215\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.24\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-C Ports Support for\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Charging, DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playback\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"HEVC, H.264, AV1, ProRes, HDR with Dolby Vision, HDR10+/HDR10, HLG\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Playback\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi‑Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi‑Fi 6E (802.11ax)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"V5.3\""
+      "name": "Bluetooth",
+      "value": "V5.3"
     }
   ]
 },
@@ -14131,160 +7799,89 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "JBL"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JBL\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Party Speaker"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Splashproof",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Sound"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Party Speaker\""
+      "name": "Power Output",
+      "value": "160W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Splashproof\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Rechargeable Battery",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"160W\""
+      "name": "Battery Life (up to hrs)",
+      "value": "12"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Width (mm)",
+      "value": "288"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "297"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Height (mm)",
+      "value": "570"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable Battery\","
+      "name": "Weight (kg)",
+      "value": "11.05"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (up to hrs)\","
+      "name": "EAN Code",
+      "value": "1200130009709"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Dynamic Frequency Response Range (Hz)",
+      "value": "40 Hz - 20 kHz (-6dB)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Bluetooth Version",
+      "value": "5.3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"288\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"297\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"570\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"11.05\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1200130009709\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dynamic Frequency Response Range (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"40 Hz - 20 kHz (-6dB)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time (Hrs)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3.5\""
+      "name": "Charging Time (Hrs)",
+      "value": "3.5"
     }
   ]
 },
@@ -14302,268 +7899,142 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "JBL"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JBL\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Portable Speaker"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Splashproof",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Sound"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Portable Speaker\""
+      "name": "Power Output",
+      "value": "30 W + 15 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Splashproof\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "USB",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"30 W + 15 W\""
+      "name": "Battery Type",
+      "value": "Li-ion polymer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Rechargeable Battery",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Battery Life (up to hrs)",
+      "value": "24"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Width (mm)",
+      "value": "228.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "94"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Height (mm)",
+      "value": "98.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Weight (kg)",
+      "value": "0.96"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Li-ion polymer\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable Battery\","
+      "name": "Transducers",
+      "value": "53 mm x 93 mm woofer, 20 mm tweeter"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Speaker Output",
+      "value": "30 W RMS for woofer, 15 W RMS for tweeter"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (up to hrs)\","
+      "name": "Power Input",
+      "value": "5 - 20 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"24\""
+      "name": "Current",
+      "value": "3 A (Max)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Frequency Response",
+      "value": "56 Hz - 20 kHz (-6 dB)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Signal-To-Noise Ratio",
+      "value": "> 80 dB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"228.8\""
+      "name": "Maximum Operation Temperature",
+      "value": "45 °C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Connection Ports",
+      "value": "USB-C (in / out) (USB cable not included)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"94\""
+      "name": "Bluetooth Version",
+      "value": "5.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Bluetooth Profile",
+      "value": "A2DP 1.4, AVRCP 1.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"98.5\""
+      "name": "Bluetooth Transmitter Modulation",
+      "value": "GFSK, p/4 DQPSK, 8DPSK"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Bluetooth Transmitter Frequency Range",
+      "value": "2400 MHz - 2483.5 MHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.96\""
+      "name": "Bluetooth Transmitter Power",
+      "value": "< 15 dBm (EIRP)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Battery Type",
+      "value": "Li-ion polymer 34 Wh (equivalent to 7.2 V /4722 mAh)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Transducers\","
+      "name": "Battery Charge Time",
+      "value": "3 hours (12 - 20 V / 3 A)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"53 mm x 93 mm woofer, 20 mm tweeter\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"30 W RMS for woofer, 15 W RMS for tweeter\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 - 20 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Current\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 A (Max)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency Response\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"56 Hz - 20 kHz (-6 dB)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Signal-To-Noise Ratio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"> 80 dB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Operation Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45 °C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connection Ports\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C (in / out) (USB cable not included)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Profile\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A2DP 1.4, AVRCP 1.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Modulation\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GFSK, p/4 DQPSK, 8DPSK\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Frequency Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2400 MHz - 2483.5 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"< 15 dBm (EIRP)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion polymer 34 Wh (equivalent to 7.2 V /4722 mAh)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charge Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 hours (12 - 20 V / 3 A)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Music Play Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Up to 24 hours of playtime plus 4 hours with Playtime Boost (dependent on volume level and audio content)\""
+      "name": "Music Play Time",
+      "value": "Up to 24 hours of playtime plus 4 hours with Playtime Boost (dependent on volume level and audio content)"
     }
   ]
 },
@@ -14581,148 +8052,82 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Roberts"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Roberts\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Power Source",
+      "value": "Battery & Mains"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\","
+      "name": "Battery Type",
+      "value": "AA"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Source\","
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Battery & Mains\""
+      "name": "USB",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AA\""
+      "name": "Radio Tuner",
+      "value": "FM, LW, MW"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Portable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "174"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Depth (mm)",
+      "value": "60"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "110"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Weight (kg)",
+      "value": "0.393"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Radio Tuner\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FM, LW, MW\""
+      "name": "EAN Code",
+      "value": "5038301311452"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Portable\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"174\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"110\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.393\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5038301311452\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Warranty",
+      "value": "2 Years"
     }
   ]
 },
@@ -14740,208 +8145,113 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Sonos"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Sonos\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Bluetooth"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Splashproof",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Sound"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bluetooth\""
+      "name": "Number of Speakers",
+      "value": "1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Splashproof\","
+      "name": "Power Output",
+      "value": "45W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Speakers\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1\""
+      "name": "AUX",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "USB",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45W\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Rechargeable Battery",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Battery Life (up to hrs)",
+      "value": "24"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Width (mm)",
+      "value": "160"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "127"
     },
     {
-      "name": "\"name\"",
-      "value": "\"AUX\","
+      "name": "Height (mm)",
+      "value": "241"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable Battery\","
+      "name": "Built-in Assistant",
+      "value": "Amazon Alexa"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Built-In Microphone",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (up to hrs)\","
+      "name": "Frequency (Hz)",
+      "value": "50/60"
     },
     {
-      "name": "\"value\"",
-      "value": "\"24\""
+      "name": "Voltage (V)",
+      "value": "100-240"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"160\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"127\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"241\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Built-in Assistant\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Amazon Alexa\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Built-In Microphone\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50/60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100-240\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Source\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Battery\""
+      "name": "Power Source",
+      "value": "Battery"
     }
   ]
 },
@@ -14959,140 +8269,78 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Wireless"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Sound Mode",
+      "value": "Adaptive, Music, Standard"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Sound"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wireless\""
+      "name": "Number of Speakers",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound Mode\","
+      "name": "Power Output",
+      "value": "18W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Adaptive, Music, Standard\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Speakers\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Width (mm)",
+      "value": "353"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18W\""
+      "name": "Depth (mm)",
+      "value": "143.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Height (mm)",
+      "value": "364.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Weight (kg)",
+      "value": "4.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "EAN Code",
+      "value": "8806095465050"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"353\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"143.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"364.8\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8806095465050\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -15110,232 +8358,125 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "JBL"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JBL\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Portable Speaker"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Power Output",
+      "value": "10 W + 25 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Portable Speaker\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 W + 25 W\""
+      "name": "Battery Type",
+      "value": "Li-ion polymer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Rechargeable Battery",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Battery Life (up to hrs)",
+      "value": "14"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Width (mm)",
+      "value": "182.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Depth (mm)",
+      "value": "71.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Li-ion polymer\""
+      "name": "Height (mm)",
+      "value": "69.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable Battery\","
+      "name": "Weight (kg)",
+      "value": "0.56"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (up to hrs)\","
+      "name": "EAN Code",
+      "value": "1200130019272"
     },
     {
-      "name": "\"value\"",
-      "value": "\"14\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Transducers",
+      "value": "45 x 80 mm woofer/1.75 x 3\" , 16 mm tweeter/ 0.6\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Speaker Output",
+      "value": "25 W RMS for woofer, 10 W RMS for tweeter"
     },
     {
-      "name": "\"value\"",
-      "value": "\"182.5\""
+      "name": "Frequency Response",
+      "value": "60 Hz - 20k Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Signal-To-Noise Ratio",
+      "value": "> 80 dB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"71.5\""
+      "name": "Battery Type",
+      "value": "Li-ion polymer 17.28 Wh (equivalent to 3.6V /4800mAh)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Battery Charge Time",
+      "value": "2.5 hours (5V / 3A)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"69.5\""
+      "name": "Maximum Operation Temperature",
+      "value": "45°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Bluetooth Version",
+      "value": "5.4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.56\""
+      "name": "Bluetooth Profile",
+      "value": "A2DP 1.4, AVRCP 1.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Bluetooth Transmitter Frequency Range",
+      "value": "2400 MHz - 2483.5 MHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Bluetooth Transmitter Power",
+      "value": "= 14 dBm (EIRP)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1200130019272\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transducers\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45 x 80 mm woofer/1.75 x 3\\\" , 16 mm tweeter/ 0.6\\\"\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Speaker Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"25 W RMS for woofer, 10 W RMS for tweeter\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency Response\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60 Hz -  20k Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Signal-To-Noise Ratio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"> 80 dB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion polymer 17.28 Wh (equivalent to 3.6V /4800mAh)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charge Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.5 hours (5V / 3A)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Operation Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Profile\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A2DP 1.4, AVRCP 1.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Frequency Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2400 MHz - 2483.5 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"= 14 dBm (EIRP)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Modulation\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GFSK, p/4 DQPSK, 8DPSK\""
+      "name": "Bluetooth Transmitter Modulation",
+      "value": "GFSK, p/4 DQPSK, 8DPSK"
     }
   ]
 },
@@ -15353,124 +8494,70 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Victrola"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Victrola\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Turntable"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Sound Mode",
+      "value": "Stereo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Turntable\""
+      "name": "Features",
+      "value": "Record player with 3-speed belt driven turntable, RCA Aux-in and headphone jack, Built-in stereo speakers"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound Mode\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stereo\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\""
+      "name": "AUX",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Record player with 3-speed belt driven turntable, RCA Aux-in and headphone jack, Built-in stereo speakers\""
+      "name": "Width (mm)",
+      "value": "353.0600"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Depth (mm)",
+      "value": "256.5400"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Height (mm)",
+      "value": "127"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"AUX\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"353.0600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"256.5400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"127\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0816203013842\""
+      "name": "EAN Code",
+      "value": "0816203013842"
     }
   ]
 },
@@ -15488,240 +8575,129 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "JBL"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JBL\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Speaker Type",
+      "value": "Portable Speaker"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Splashproof",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speaker Type\","
+      "name": "Noise Level (db)",
+      "value": ">80"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Portable Speaker\""
+      "name": "Sound"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Splashproof\","
+      "name": "Power Output",
+      "value": "20W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (db)\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\">80\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sound\""
+      "name": "Battery Type",
+      "value": "Lithium ion Polymer"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Output\","
+      "name": "Rechargeable Battery",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20W\""
+      "name": "Battery Life (up to hrs)",
+      "value": "10"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Width (mm)",
+      "value": "175"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "70"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Height (mm)",
+      "value": "68"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Weight (kg)",
+      "value": "0.52"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium ion Polymer\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable Battery\","
+      "name": "EAN Code",
+      "value": "6925281928840"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (up to hrs)\","
+      "name": "Transducer",
+      "value": "44 x 80 mm / 1.73 x 3.15\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"10\""
+      "name": "Frequency Response",
+      "value": "65 Hz - 20 kHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Cable Type",
+      "value": "USB-C Charging Cable"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Cable Length (mm)",
+      "value": "1200"
     },
     {
-      "name": "\"value\"",
-      "value": "\"175\""
+      "name": "Bluetooth Version",
+      "value": "5.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Bluetooth Profiles",
+      "value": "A2DP 1.3, AVRCP 1.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"70\""
+      "name": "Bluetooth Frequency",
+      "value": "2400 MHz - 2483.5 MHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Bluetooth Transmitted Modulation",
+      "value": "GFSK, π/4 DQPSK, 8DPSK"
     },
     {
-      "name": "\"value\"",
-      "value": "\"68\""
+      "name": "Bluetooth Transmitter Power",
+      "value": "≤ 9 dBm (EIRP)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Maximum Operation Temperature",
+      "value": "45 °C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.52\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6925281928840\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transducer\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"44 x 80 mm / 1.73 x 3.15\\\"\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency Response\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65 Hz - 20 kHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cable Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C Charging Cable\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cable Length (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Profiles\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A2DP 1.3, AVRCP 1.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2400 MHz - 2483.5 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitted Modulation\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GFSK, π/4 DQPSK, 8DPSK\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"≤ 9 dBm (EIRP)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Operation Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45 °C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charge Time (Hours)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Battery Charge Time (Hours)",
+      "value": "3"
     }
   ]
 },
@@ -15739,144 +8715,81 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Roberts"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Roberts\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Power Source",
+      "value": "Battery & Mains"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Source\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Battery & Mains\""
+      "name": "Radio Tuner",
+      "value": "FM/AM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Portable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "230"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Depth (mm)",
+      "value": "205"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Radio Tuner\","
+      "name": "Height (mm)",
+      "value": "116"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FM/AM\""
+      "name": "Weight (kg)",
+      "value": "1.320"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Portable\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "05038301312404"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"230\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"205\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"116\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.320\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"05038301312404\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stereo\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Stereo",
+      "value": "Yes"
     }
   ]
 },
@@ -15894,156 +8807,86 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Majority"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Majority\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Power Source",
+      "value": "Battery & Mains"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\","
+      "name": "Battery Type",
+      "value": "4 x AA"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power Source\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Battery & Mains\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4 x AA\""
+      "name": "Radio Tuner",
+      "value": "DAB, DAB+, FM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Alarm Function",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Portable",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
+      "name": "Width (mm)",
+      "value": "130"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "100"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Height (mm)",
+      "value": "170"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Radio Tuner\","
+      "name": "Weight (kg)",
+      "value": "0.76"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DAB, DAB+, FM\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Alarm Function\","
+      "name": "EAN Code",
+      "value": "5060508075523"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Portable\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"130\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"170\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.76\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5060508075523\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Years\""
+      "name": "Warranty",
+      "value": "3 Years"
     }
   ]
 },
@@ -16061,132 +8904,74 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Shark"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Shark\""
+      "name": "Colour",
+      "value": "Stone"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Air Styler & Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stone\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Heat Settings",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Air Styler & Hair Dryer\""
+      "name": "Speed Settings",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Cord Length (m)",
+      "value": "2.44"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Width (mm)",
+      "value": "45.7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "Depth (mm)",
+      "value": "343"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
+      "name": "Height (mm)",
+      "value": "45.7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.44\""
+      "name": "Weight (kg)",
+      "value": "0.700"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "0622356322294"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45.7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"343\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"45.7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.700\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0622356322294\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power (kW)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1650\""
+      "name": "Power (kW)",
+      "value": "1650"
     }
   ]
 },
@@ -16204,180 +8989,100 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Dyson"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dyson\""
+      "name": "Colour",
+      "value": "Ceramic Patina/Topaz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ceramic Patina/Topaz\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Heat Settings",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Maximum Temperature",
+      "value": "100°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Variable Temperature Control",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Speed Settings",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Temperature\","
+      "name": "Watts (w)",
+      "value": "1600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100°C\""
+      "name": "Air Flow (I/s)",
+      "value": "13.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Temperature Control\","
+      "name": "Feature"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Accessories"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Accessories Included",
+      "value": "Wave+Curl Diffuser, Flyaway Attachment, Styling Concentrator, Wide Tooth Comb, Gentle air attachment"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
+      "name": "Width (mm)",
+      "value": "101.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1600\""
+      "name": "Depth (mm)",
+      "value": "78.74"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Air Flow (I/s)\","
+      "name": "Height (mm)",
+      "value": "254"
     },
     {
-      "name": "\"value\"",
-      "value": "\"13.3\""
+      "name": "Weight (kg)",
+      "value": "0.86"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
+      "name": "Warranty",
+      "value": "2 Years Parts and Labor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Accessories\""
+      "name": "Voltage (V)",
+      "value": "120"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Accessories Included\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wave+Curl Diffuser, Flyaway Attachment, Styling Concentrator, Wide Tooth Comb, Gentle air attachment\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"101.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"78.74\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"254\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.86\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years Parts and Labor\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Negative Ions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Help Reduce Static\""
+      "name": "Negative Ions",
+      "value": "Help Reduce Static"
     }
   ]
 },
@@ -16395,112 +9100,63 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Lanaiblo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lanaiblo\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Barrel Material",
+      "value": "Tourmaline - Ceramic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Styler Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Heating Technology",
+      "value": "Ionic and ceramic- tourmaline technology"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Barrel Material\","
+      "name": "Heat Settings",
+      "value": "6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tourmaline - Ceramic\""
+      "name": "Speed Settings",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heating Technology\","
+      "name": "Watts (w)",
+      "value": "2400"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ionic and ceramic- tourmaline technology\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "Ceramic Coated",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Feature\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ceramic Coated\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -16518,112 +9174,63 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Lanaiblo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lanaiblo\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Barrel Material",
+      "value": "Tourmaline - Ceramic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Styler Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Heating Technology",
+      "value": "Ionic Technology"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Barrel Material\","
+      "name": "Heat Settings",
+      "value": "6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tourmaline - Ceramic\""
+      "name": "Speed Settings",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heating Technology\","
+      "name": "Watts (w)",
+      "value": "2400"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ionic Technology\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "Ceramic Coated",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Feature\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ceramic Coated\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -16641,140 +9248,78 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Dyson"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dyson\""
+      "name": "Colour",
+      "value": "Vinca Blue & Topaz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vinca Blue & Topaz\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Speed Settings",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Heat Settings",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Watts (w)",
+      "value": "1600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Width (mm)",
+      "value": "76.97"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
+      "name": "Depth (mm)",
+      "value": "97.84"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1600\""
+      "name": "Height (mm)",
+      "value": "288.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "Weight (kg)",
+      "value": "0.68"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Voltage",
+      "value": "220-240 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Air Flow",
+      "value": "13.3 l/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"76.97\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"97.84\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"288.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.68\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Air Flow\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"13.3 l/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Negative ions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Help reduce static\""
+      "name": "Negative ions",
+      "value": "Help reduce static"
     }
   ]
 },
@@ -16792,160 +9337,89 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Remington"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remington\""
+      "name": "Colour",
+      "value": "Rose Gold"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Rose Gold\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Heating Technology",
+      "value": "OPTI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Heat Settings",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Variable Temperature Control",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heating Technology\","
+      "name": "Speed Settings",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OPTI\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Watts (w)",
+      "value": "2400"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Temperature Control\","
+      "name": "Cord Length (m)",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Removable Air Filter",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Accessories"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Accessories Included",
+      "value": "Concentrators, Diffuser"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
+      "name": "Weight (kg)",
+      "value": "0.5800"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2400\""
+      "name": "Width (mm)",
+      "value": "213"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "Depth (mm)",
+      "value": "93"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
+      "name": "Height (mm)",
+      "value": "290"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Air Filter\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Accessories\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Accessories Included\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Concentrators, Diffuser\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.5800\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"213\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"93\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"290\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 Years\""
+      "name": "Warranty",
+      "value": "5 Years"
     }
   ]
 },
@@ -16963,156 +9437,86 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Shark"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Shark\""
+      "name": "Colour",
+      "value": "Silk"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Silk\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Heat Settings",
+      "value": "3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Maximum Temperature",
+      "value": "110 °C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Speed Settings",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Watts (w)",
+      "value": "1700"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Temperature\","
+      "name": "Feature"
     },
     {
-      "name": "\"value\"",
-      "value": "\"110 °C\""
+      "name": "Cord Length (m)",
+      "value": "2.44"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Width (mm)",
+      "value": "165"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
+      "name": "Depth (mm)",
+      "value": "48"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1700\""
+      "name": "Height (mm)",
+      "value": "201"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
+      "name": "Motor Type",
+      "value": "DC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.44\""
+      "name": "Noise Level",
+      "value": "83 dB"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
+      "name": "Concentrator Nozzle",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"165\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"48\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"201\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Motor Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Level\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"83 dB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Concentrator Nozzle\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Portable\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Portable",
+      "value": "Yes"
     }
   ]
 },
@@ -17130,112 +9534,63 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Lanaiblo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lanaiblo\""
+      "name": "Colour",
+      "value": "Pink"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Pink\""
+      "name": "Barrel Material",
+      "value": "Tourmaline - Ceramic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Styler Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Heating Technology",
+      "value": "Ionic Technology"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Barrel Material\","
+      "name": "Heat Settings",
+      "value": "6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tourmaline - Ceramic\""
+      "name": "Speed Settings",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heating Technology\","
+      "name": "Watts (w)",
+      "value": "2400"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ionic Technology\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "Ceramic Coated",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Feature\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ceramic Coated\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -17253,176 +9608,97 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Remington"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remington\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Heating Technology",
+      "value": "Ceramic Ionic grille"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer\""
+      "name": "Heat Settings",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Variable Temperature Control",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heating Technology\","
+      "name": "Speed Settings",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ceramic Ionic grille\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Watts (w)",
+      "value": "2000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Variable Temperature Control\","
+      "name": "Cord Length (m)",
+      "value": "1.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Removable Air Filter",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Ceramic Coated",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Accessories"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
+      "name": "Accessories Included",
+      "value": "Concentrator"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2000\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "Weight (kg)",
+      "value": "0.6500"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
+      "name": "Width (mm)",
+      "value": "86"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.8\""
+      "name": "Depth (mm)",
+      "value": "187"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Air Filter\","
+      "name": "Height (mm)",
+      "value": "266"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Ceramic Coated\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Accessories\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Accessories Included\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Concentrator\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.6500\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"86\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"187\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"266\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Years\""
+      "name": "Warranty",
+      "value": "3 Years"
     }
   ]
 },
@@ -17440,160 +9716,89 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Dyson"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dyson\""
+      "name": "Colour",
+      "value": "Prussian Blue & Rich Copper"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Product Type",
+      "value": "Hair Dryer & Hair Straightener"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Prussian Blue & Rich Copper\""
+      "name": "Styler Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Product Type\","
+      "name": "Heat Settings",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hair Dryer & Hair Straightener\""
+      "name": "Speed Settings",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Styler Functions\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Heat Settings\","
+      "name": "Watts (w)",
+      "value": "1600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Feature"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Speed Settings\","
+      "name": "Cord Length (m)",
+      "value": "2.62"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3\""
+      "name": "Cold Shot Button",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Watts (w)\","
+      "name": "Width (mm)",
+      "value": "76.97"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1600\""
+      "name": "Depth (mm)",
+      "value": "97.84"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Feature\""
+      "name": "Height (mm)",
+      "value": "288.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Length (m)\","
+      "name": "Weight (kg)",
+      "value": "0.675"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.62\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cold Shot Button\","
+      "name": "EAN Code",
+      "value": "5025155117866"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Air Flow",
+      "value": "13.3 l/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Voltage",
+      "value": "220-240 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76.97\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"97.84\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"288.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.675\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5025155117866\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Air Flow\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"13.3 l/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Negative ions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Help Reduce Static\""
+      "name": "Negative ions",
+      "value": "Help Reduce Static"
     }
   ]
 },
@@ -17611,640 +9816,331 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Shutter Speed (secs)",
+      "value": "Video: 1/8000-1/30 s, Photo: 1/8000-1/10 s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flying Height (m)",
+      "value": "2000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flight Time (mins)",
+      "value": "18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Shutter Speed (secs)\","
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Video: 1/8000-1/30 s, Photo: 1/8000-1/10 s\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Internal Storage (GB)",
+      "value": "22"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Camera Still Resolution (MP)",
+      "value": "12"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2000\""
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18\""
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Image Stabilisation",
+      "value": "Single-Axis Mechanical Gimbal (Tilt)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Lens"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Focal Length",
+      "value": "0.6 m to ∞"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Aperture",
+      "value": "f/2.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"22\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Battery (mAh)",
+      "value": "1435"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Width (mm)",
+      "value": "157"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "Depth (mm)",
+      "value": "130"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "48.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Stabilisation\","
+      "name": "Weight (kg)",
+      "value": "0.135"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Single-Axis Mechanical Gimbal (Tilt)\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
+      "name": "EAN Code",
+      "value": "6941565988362"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Focal Length\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.6 m to ∞\""
+      "name": "Max Flight Time",
+      "value": "Approx. 17 mins with the Propeller Guards"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
+      "name": "Max Hovering Time",
+      "value": "Approx. 18 mins (approx. 17 mins with the Propeller Guards)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"f/2.8\""
+      "name": "Max Flight Distance (Km)",
+      "value": "7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Wind Speed Resistance",
+      "value": "8 m/s (Level 4)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Class",
+      "value": "C0 (EU)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Image Sensor",
+      "value": "1/2\" Image Sensor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "ISO Range",
+      "value": "100-6400 (Auto), 100-6400 (Manual)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1435\""
+      "name": "Still Photography Modes",
+      "value": "Single/Timed Shot"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Video Format",
+      "value": "MP4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Video Bitrate",
+      "value": "75Mbps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Color Mode",
+      "value": "Normal"
     },
     {
-      "name": "\"value\"",
-      "value": "\"157\""
+      "name": "EIS",
+      "value": "Supports RockSteady, HorizonBalancing, and turning stabilization off"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Mechanical Range",
+      "value": "Tilt: -120° to 120°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"130\""
+      "name": "Controllable Range",
+      "value": "Tilt: -90° to 60°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48.5\""
+      "name": "Angular Vibration Range",
+      "value": "±0.01°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Image Roll Correction",
+      "value": "Supports correction of footage recorded on Neo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.135\""
+      "name": "Sensing Type",
+      "value": "Downward visual positioning"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Downward",
+      "value": "Precise Hovering Range: 0.5-10 m"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Operating Environment",
+      "value": "Downward: Non-reflective, discernible surfaces with diffuse reflectivity of >20% (such as walls, trees, or people), Adequate lighting (lux > 15, normal indoor lighting conditions)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565988362\""
+      "name": "Wi-Fi Protocol",
+      "value": "802.11a/b/g/n/ac"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Time\","
+      "name": "Wi-Fi Effective Operating Range",
+      "value": "50 m"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Approx. 17 mins with the Propeller Guards\""
+      "name": "Bluetooth Protocol",
+      "value": "Bluetooth 5.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time\","
+      "name": "Bluetooth Operating Frequency",
+      "value": "2.400-2.4835 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Approx. 18 mins (approx. 17 mins with the Propeller Guards)\""
+      "name": "Bluetooth Transmitter Power (EIRP)",
+      "value": "< 10 dBm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Distance (Km)\","
+      "name": "Battery Weight",
+      "value": "Approx. 45 g"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7\""
+      "name": "Charging Time",
+      "value": "When Using the Two-Way Charging Hub (60W max charging power): Approx. 60 minutes to charge three batteries simultaneously from 0% to 100%; When Directly Charging Neo (15W max charging power): Approx. 50 minutes to charge from 0% to 100%"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Battery Nominal Voltage",
+      "value": "7.3 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8 m/s (Level 4)\""
+      "name": "Max Charging Voltage",
+      "value": "8.6 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Battery Type",
+      "value": "Li-ion"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Battery Energy",
+      "value": "10.5 Wh"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C0 (EU)\""
+      "name": "Recommended Charger",
+      "value": "DJI 65W Portable Charger, USB Power Delivery charger"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Sensor\","
+      "name": "Battery Charging Hub Input",
+      "value": "5 V 3 A, 9 V 3 A, 12 V 3 A, 15 V 3 A, 20 V 3 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1/2\\\" Image Sensor\""
+      "name": "Battery Charging Hub Output (charging)",
+      "value": "5 V, 2 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"ISO Range\","
+      "name": "Charging Type",
+      "value": "3 Batteries Charged Simultaneously"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100-6400 (Auto), 100-6400 (Manual)\""
+      "name": "Compatibility",
+      "value": "DJI Neo Intelligent Flight Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Still Photography Modes\","
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Single/Timed Shot\""
+      "name": "Photo Format",
+      "value": "JPEG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4\""
+      "name": "Live View Quality",
+      "value": "With DJI RC-N3 Remote Controller: Up to 1080p/60fps, With DJI Goggles 3 plus DJI RC Motion 3/DJI FPV Remote Controller 3: Up to 1080p/60fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Video Transmission Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"75Mbps\""
+      "name": "Communication Bandwidth",
+      "value": "Max 40 MHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "Max Video Transmission Distance (unobstructed, free of interference)",
+      "value": "FCC: 10 km, CE: 6 km, SRRC: 6 km, MIC: 6 km"
     },
     {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
+      "name": "Max Video Download Speed",
+      "value": "Wi-Fi: 25 MB/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Color Mode\","
+      "name": "Video",
+      "value": "Lowest Latency: With DJI RC-N3 Remote Controller: Approx. 120 ms"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Normal\""
+      "name": "Video Transmission Max Video Bitrate",
+      "value": "50Mbps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EIS\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supports RockSteady, HorizonBalancing, and turning stabilization off\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -120° to 120°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -90° to 60°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"±0.01°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Image Roll Correction\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supports correction of footage recorded on Neo\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Downward visual positioning\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Downward\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Precise Hovering Range: 0.5-10 m\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Environment\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Downward: Non-reflective, discernible surfaces with diffuse reflectivity of >20% (such as walls, trees, or people), Adequate lighting (lux > 15, normal indoor lighting conditions)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11a/b/g/n/ac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Effective Operating Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50 m\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth 5.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"< 10 dBm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 45 g\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"When Using the Two-Way Charging Hub (60W max charging power): Approx. 60 minutes to charge three batteries simultaneously from 0% to 100%; When Directly Charging Neo (15W max charging power): Approx. 50 minutes to charge from 0% to 100%\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Nominal Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.3 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.6 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Energy\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10.5 Wh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended Charger\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI 65W Portable Charger, USB Power Delivery charger\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V 3 A, 9 V 3 A, 12 V 3 A, 15 V 3 A, 20 V 3 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Output (charging)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V, 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Batteries Charged Simultaneously\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Neo Intelligent Flight Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"JPEG\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"With DJI RC-N3 Remote Controller: Up to 1080p/60fps, With DJI Goggles 3 plus DJI RC Motion 3/DJI FPV Remote Controller 3: Up to 1080p/60fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Communication Bandwidth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max 40 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Video Transmission Distance (unobstructed, free of interference)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 10 km, CE: 6 km, SRRC: 6 km, MIC: 6 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Video Download Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi: 25 MB/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lowest Latency: With DJI RC-N3 Remote Controller: Approx. 120 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Max Video Bitrate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50Mbps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antennas\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Two antennas, 1T2R\""
+      "name": "Antennas",
+      "value": "Two antennas, 1T2R"
     }
   ]
 },
@@ -18262,712 +10158,367 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Shutter Speed (secs)",
+      "value": "Video: 1/8000-1/30 s, Photo: 1/8000-1/10 s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flying Height (m)",
+      "value": "2000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flight Time (mins)",
+      "value": "18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Shutter Speed (secs)\","
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Video: 1/8000-1/30 s, Photo: 1/8000-1/10 s\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Internal Storage (GB)",
+      "value": "22"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Camera Still Resolution (MP)",
+      "value": "12"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2000\""
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18\""
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Image Stabilisation",
+      "value": "Single-Axis Mechanical Gimbal (Tilt)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Lens"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Focal Length",
+      "value": "0.6 m to ∞"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Aperture",
+      "value": "f/2.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"22\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Battery (mAh)",
+      "value": "1435"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Width (mm)",
+      "value": "157"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "Depth (mm)",
+      "value": "130"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "48.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Stabilisation\","
+      "name": "Weight (kg)",
+      "value": "0.135"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Single-Axis Mechanical Gimbal (Tilt)\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
+      "name": "EAN Code",
+      "value": "6941565988294"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Focal Length\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.6 m to ∞\""
+      "name": "Max Flight Time",
+      "value": "Approx. 17 mins with the Propeller Guards"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
+      "name": "Max Hovering Time",
+      "value": "Approx. 18 mins (approx. 17 mins with the Propeller Guards)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"f/2.8\""
+      "name": "Max Flight Distance (Km)",
+      "value": "7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Wind Speed Resistance",
+      "value": "8 m/s (Level 4)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Class",
+      "value": "C0 (EU)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Image Sensor",
+      "value": "1/2\" Image Sensor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "ISO Range",
+      "value": "100-6400 (Auto), 100-6400 (Manual)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1435\""
+      "name": "Still Photography Modes",
+      "value": "Single/Timed Shot"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Video Format",
+      "value": "MP4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Video Bitrate",
+      "value": "75Mbps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Color Mode",
+      "value": "Normal"
     },
     {
-      "name": "\"value\"",
-      "value": "\"157\""
+      "name": "EIS",
+      "value": "Supports RockSteady, HorizonBalancing, and turning stabilization off"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Mechanical Range",
+      "value": "Tilt: -120° to 120°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"130\""
+      "name": "Controllable Range",
+      "value": "Tilt: -90° to 60°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48.5\""
+      "name": "Angular Vibration Range",
+      "value": "±0.01°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Image Roll Correction",
+      "value": "Supports correction of footage recorded on Neo"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.135\""
+      "name": "Sensing Type",
+      "value": "Downward visual positioning"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Downward",
+      "value": "Precise Hovering Range: 0.5-10 m"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Operating Environment",
+      "value": "Downward: Non-reflective, discernible surfaces with diffuse reflectivity of >20% (such as walls, trees, or people), Adequate lighting (lux > 15, normal indoor lighting conditions)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565988294\""
+      "name": "Wi-Fi Protocol",
+      "value": "802.11a/b/g/n/ac"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Time\","
+      "name": "Wi-Fi Effective Operating Range",
+      "value": "50 m"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Approx. 17 mins with the Propeller Guards\""
+      "name": "Bluetooth Protocol",
+      "value": "Bluetooth 5.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time\","
+      "name": "Bluetooth Operating Frequency",
+      "value": "2.400-2.4835 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Approx. 18 mins (approx. 17 mins with the Propeller Guards)\""
+      "name": "Bluetooth Transmitter Power (EIRP)",
+      "value": "< 10 dBm"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Distance (Km)\","
+      "name": "Battery Weight",
+      "value": "Approx. 45 g"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7\""
+      "name": "Charging Time",
+      "value": "When Using the Two-Way Charging Hub (60W max charging power): Approx. 60 minutes to charge three batteries simultaneously from 0% to 100%; When Directly Charging Neo (15W max charging power): Approx. 50 minutes to charge from 0% to 100%"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Battery Nominal Voltage",
+      "value": "7.3 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8 m/s (Level 4)\""
+      "name": "Max Charging Voltage",
+      "value": "8.6 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Battery Type",
+      "value": "Li-ion"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Battery Energy",
+      "value": "10.5 Wh"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C0 (EU)\""
+      "name": "Recommended Charger",
+      "value": "DJI 65W Portable Charger, USB Power Delivery charger"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Sensor\","
+      "name": "Battery Charging Hub Input",
+      "value": "5 V 3 A, 9 V 3 A, 12 V 3 A, 15 V 3 A, 20 V 3 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1/2\\\" Image Sensor\""
+      "name": "Battery Charging Hub Output (charging)",
+      "value": "5 V, 2 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"ISO Range\","
+      "name": "Charging Type",
+      "value": "3 Batteries Charged Simultaneously"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100-6400 (Auto), 100-6400 (Manual)\""
+      "name": "Compatibility",
+      "value": "DJI Neo Intelligent Flight Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Still Photography Modes\","
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Single/Timed Shot\""
+      "name": "Photo Format",
+      "value": "JPEG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4\""
+      "name": "Live View Quality",
+      "value": "With DJI RC-N3 Remote Controller: Up to 1080p/60fps, With DJI Goggles 3 plus DJI RC Motion 3/DJI FPV Remote Controller 3: Up to 1080p/60fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Video Transmission Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"75Mbps\""
+      "name": "Communication Bandwidth",
+      "value": "Max 40 MHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "Max Video Transmission Distance (unobstructed, free of interference)",
+      "value": "FCC: 10 km, CE: 6 km, SRRC: 6 km, MIC: 6 km"
     },
     {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
+      "name": "Max Video Download Speed",
+      "value": "Wi-Fi: 25 MB/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Color Mode\","
+      "name": "Video",
+      "value": "Lowest Latency: With DJI RC-N3 Remote Controller: Approx. 120 ms"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Normal\""
+      "name": "Video Transmission Max Video Bitrate",
+      "value": "50Mbps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EIS\","
+      "name": "Antennas",
+      "value": "Two antennas, 1T2R"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Supports RockSteady, HorizonBalancing, and turning stabilization off\""
+      "name": "RC-N3 Max Operating Time",
+      "value": "Without Charging Any Mobile Device: 3.5 hours, When Charging a Mobile Device: 1.5 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
+      "name": "RC-N3 Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tilt: -120° to 120°\""
+      "name": "RC-N3 Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
+      "name": "RC-N3 Charging Time (Hr)",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tilt: -90° to 60°\""
+      "name": "RC-N3 Charging Type (V, A)",
+      "value": "5, 2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
+      "name": "RC-N3 Battery Capacity (mAh)",
+      "value": "2600"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
+      "name": "RC-N3 Weight (Kg)",
+      "value": "0.320"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
+      "name": "RC-N3 Dimensions (WxDxH) (mm)",
+      "value": "150x104.2x45.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"±0.01°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Image Roll Correction\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supports correction of footage recorded on Neo\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Downward visual positioning\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Downward\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Precise Hovering Range: 0.5-10 m\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Environment\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Downward: Non-reflective, discernible surfaces with diffuse reflectivity of >20% (such as walls, trees, or people), Adequate lighting (lux > 15, normal indoor lighting conditions)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11a/b/g/n/ac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Effective Operating Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50 m\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth 5.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"< 10 dBm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 45 g\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"When Using the Two-Way Charging Hub (60W max charging power): Approx. 60 minutes to charge three batteries simultaneously from 0% to 100%; When Directly Charging Neo (15W max charging power): Approx. 50 minutes to charge from 0% to 100%\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Nominal Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.3 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.6 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Energy\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10.5 Wh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended Charger\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI 65W Portable Charger, USB Power Delivery charger\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V 3 A, 9 V 3 A, 12 V 3 A, 15 V 3 A, 20 V 3 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Output (charging)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V, 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3 Batteries Charged Simultaneously\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Neo Intelligent Flight Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"JPEG\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"With DJI RC-N3 Remote Controller: Up to 1080p/60fps, With DJI Goggles 3 plus DJI RC Motion 3/DJI FPV Remote Controller 3: Up to 1080p/60fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Communication Bandwidth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max 40 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Video Transmission Distance (unobstructed, free of interference)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 10 km, CE: 6 km, SRRC: 6 km, MIC: 6 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Video Download Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi: 25 MB/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lowest Latency: With DJI RC-N3 Remote Controller: Approx. 120 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Max Video Bitrate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50Mbps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antennas\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Two antennas, 1T2R\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Without Charging Any Mobile Device: 3.5 hours, When Charging a Mobile Device: 1.5 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Charging Time (Hr)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Charging Type (V, A)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5, 2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Battery Capacity (mAh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2600\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Weight (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.320\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Dimensions (WxDxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"150x104.2x45.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC-N3 Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
+      "name": "RC-N3 Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     }
   ]
 },
@@ -18985,664 +10536,343 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Shutter Speed (secs)",
+      "value": "12MP Photo: 1/16000-2 s (2.5-8 s for simulated long exposure), 48MP Photo: 1/8000-2 s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flying Height (m)",
+      "value": "4000"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Shutter Speed (secs)\","
+      "name": "Maximum Flight Time (mins)",
+      "value": "34"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP Photo: 1/16000-2 s (2.5-8 s for simulated long exposure), 48MP Photo: 1/8000-2 s\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Camera Still Resolution (MP)",
+      "value": "12, 48"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Internal Storage (GB)",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4000\""
+      "name": "Wide Angle Lens",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"34\""
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Image Stabilisation",
+      "value": "3-Axis Mechanical Gimbal (Tilt, Roll, Pan)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Lens"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12, 48\""
+      "name": "Focal Length",
+      "value": "1 m to ∞"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Aperture",
+      "value": "f/1.7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Memory Card",
+      "value": "microSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wide Angle Lens\","
+      "name": "Battery (mAh)",
+      "value": "2590"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "373"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "Depth (mm)",
+      "value": "298"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "101"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Stabilisation\","
+      "name": "Weight (kg)",
+      "value": "0.249"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3-Axis Mechanical Gimbal (Tilt, Roll, Pan)\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
+      "name": "EAN Code",
+      "value": "6941565969101"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Focal Length\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 m to ∞\""
+      "name": "Folded Dimensions (without propellers) (DxWxH) (mm)",
+      "value": "148x94x64"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
+      "name": "Max Hovering Time",
+      "value": "30 Mins"
     },
     {
-      "name": "\"value\"",
-      "value": "\"f/1.7\""
+      "name": "Max Flight Distance",
+      "value": "18 km (with Intelligent Flight Battery and measured while flying at 40.7 kph in a windless environment at 20 meters above sea level)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Wind Speed Resistance",
+      "value": "10.7 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Max Pitch Angle",
+      "value": "35°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"value\"",
-      "value": "\"microSD\""
+      "name": "Class",
+      "value": "C0 (EU), with the option to apply for C1 (EU) in the DJI Fly app."
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "Max Image Size",
+      "value": "8064×6048"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Photo Format",
+      "value": "JPEG/DNG (RAW)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Video Format",
+      "value": "MP4 (MPEG-4 AVC/H.264, HEVC/H.265)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Max Video Bitrate",
+      "value": "H.264/H.265: 150 Mbps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2590\""
+      "name": "Color Mode and Sampling Method",
+      "value": "Normal: 8-bit 4:2:0 (H.264/H.265)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "HLG/D-Log M",
+      "value": "10-bit 4:2:0 (H.265)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Digital Zoom",
+      "value": "12MP Photo: 1-3x, 4K: 1-3x, FHD: 1-4x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Mechanical Range",
+      "value": "Tilt: -135° to 80°, Roll: -135° to 45°, Pan: -30° to 30°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"373\""
+      "name": "Controllable Range",
+      "value": "Tilt: -90° to 60°, Roll: -90° or 0°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"298\""
+      "name": "Angular Vibration Range",
+      "value": "±0.01°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Sensing Type",
+      "value": "Omnidirectional binocular vision system, supplemented with a 3D infrared sensor at the bottom of the aircraft"
     },
     {
-      "name": "\"value\"",
-      "value": "\"101\""
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Video Transmission Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.249\""
+      "name": "Max Transmission Distance (unobstructed, free of interference)",
+      "value": "FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Lowest Latency",
+      "value": "Aircraft + Remote Controller: approx. 120 ms"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Antenna",
+      "value": "4 antennas, 2T4R"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565969101\""
+      "name": "Compatible Battery",
+      "value": "DJI Mini 4 Pro Intelligent Flight Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Battery Weight",
+      "value": "Approx. 77.9 g"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Folded Dimensions (without propellers) (DxWxH) (mm)\","
+      "name": "Nominal Voltage (V)",
+      "value": "7.32"
     },
     {
-      "name": "\"value\"",
-      "value": "\"148x94x64\""
+      "name": "Max Charging Voltage (V)",
+      "value": "8.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time\","
+      "name": "Battery Type",
+      "value": "Li-ion"
     },
     {
-      "name": "\"value\"",
-      "value": "\"30 Mins\""
+      "name": "Battery Energy (Wh)",
+      "value": "18.96"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Distance\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18 km (with Intelligent Flight Battery and measured while flying at 40.7 kph in a windless environment at 20 meters above sea level)\""
+      "name": "Charging Time",
+      "value": "70 minutes (with the DJI 30W USB-C Charger and the battery mounted to the aircraft), 58 minutes (with the DJI 30W USB-C Charger and the battery inserted into the Two-Way Charging Hub)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Recommended Charger",
+      "value": "DJI 30W USB-C Charger or other USB Power Delivery chargers (30 W)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10.7 m/s\""
+      "name": "Charging Hub Input",
+      "value": "5V 3A, 9V 3A, 12V 3A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Pitch Angle\","
+      "name": "Charging Hub Output",
+      "value": "USB-A: Max Voltage: 5 V; Max Current: 2 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"35°\""
+      "name": "Charging Type",
+      "value": "Three batteries charged in sequence."
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Compatibility",
+      "value": "DJI Mini 4 Pro Intelligent Flight Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Recommended microSD Cards",
+      "value": "SanDisk Extreme PRO 32GB V30 U3 A1 microSDHC, Lexar 1066x 64GB V30 U3 A2 microSDXC, Lexar 1066x 128GB V30 U3 A2 microSDXC, Lexar 1066x 256GB V30 U3 A2 microSDXC, Lexar 1066x 512GB V30 U3 A2 microSDXC, Kingston Canvas GO! Plus 64GB V30 U3 A2 microSDXC, Kingston Canvas GO! Plus 128GB V30 U3 A2 microSDXC, Kingston Canvas React Plus 64GB V90 U3 A1 microSDXC, Kingston Canvas React Plus 128GB V90 U3 A1 microSDXC, Kingston Canvas React Plus 256GB V90 U3 A1 microSDXC, Samsung EVO Plus 512GB V30 U3 A2 microSDXC"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "RC Video Transmission Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
+      "name": "Max Operating Time",
+      "value": "Without charging any mobile device: 6 hours, When charging a mobile device: 3.5 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Max Supported Mobile Device Size",
+      "value": "180×86×10 mm (L×W×H)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C0 (EU), with the option to apply for C1 (EU) in the DJI Fly app.\""
+      "name": "RC Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "RC Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8064×6048\""
+      "name": "RC Charging Time",
+      "value": "2.5 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "RC Charging Type",
+      "value": "It is recommended to use a 5V/2A charger"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG/DNG (RAW)\""
+      "name": "RC Battery Capacity",
+      "value": "18.72 Wh (3.6 V, 2600 mAh × 2)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Supported Mobile Device Port Type",
+      "value": "Lightning, USB-C, Micro-USB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (MPEG-4 AVC/H.264, HEVC/H.265)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"H.264/H.265: 150 Mbps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Mode and Sampling Method\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Normal: 8-bit 4:2:0 (H.264/H.265)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"HLG/D-Log M\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10-bit 4:2:0 (H.265)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Zoom\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"12MP Photo: 1-3x, 4K: 1-3x, FHD: 1-4x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -135° to 80°, Roll: -135° to 45°, Pan: -30° to 30°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -90° to 60°, Roll: -90° or 0°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"±0.01°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Omnidirectional binocular vision system, supplemented with a 3D infrared sensor at the bottom of the aircraft\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Transmission Distance (unobstructed, free of interference)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lowest Latency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Aircraft + Remote Controller: approx. 120 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antenna\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4 antennas, 2T4R\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatible Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Mini 4 Pro Intelligent Flight Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 77.9 g\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Nominal Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.32\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Energy (Wh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"18.96\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"70 minutes (with the DJI 30W USB-C Charger and the battery mounted to the aircraft), 58 minutes (with the DJI 30W USB-C Charger and the battery inserted into the Two-Way Charging Hub)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended Charger\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI 30W USB-C Charger or other USB Power Delivery chargers (30 W)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5V 3A, 9V 3A, 12V 3A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-A: Max Voltage: 5 V; Max Current: 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Three batteries charged in sequence.\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Mini 4 Pro Intelligent Flight Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SanDisk Extreme PRO 32GB V30 U3 A1 microSDHC, Lexar 1066x 64GB V30 U3 A2 microSDXC, Lexar 1066x 128GB V30 U3 A2 microSDXC, Lexar 1066x 256GB V30 U3 A2 microSDXC, Lexar 1066x 512GB V30 U3 A2 microSDXC, Kingston Canvas GO! Plus 64GB V30 U3 A2 microSDXC, Kingston Canvas GO! Plus 128GB V30 U3 A2 microSDXC, Kingston Canvas React Plus 64GB V90 U3 A1 microSDXC, Kingston Canvas React Plus 128GB V90 U3 A1 microSDXC, Kingston Canvas React Plus 256GB V90 U3 A1 microSDXC, Samsung EVO Plus 512GB V30 U3 A2 microSDXC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Video Transmission Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Without charging any mobile device: 6 hours, When charging a mobile device: 3.5 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Supported Mobile Device Size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"180×86×10 mm (L×W×H)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.5 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"It is recommended to use a 5V/2A charger\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Battery Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"18.72 Wh (3.6 V, 2600 mAh × 2)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Supported Mobile Device Port Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lightning, USB-C, Micro-USB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Guaranteed Software Updates Until\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2026/12/31\""
+      "name": "Guaranteed Software Updates Until",
+      "value": "2026/12/31"
     }
   ]
 },
@@ -19660,736 +10890,379 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flying Height (m)",
+      "value": "6000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flight Time (mins)",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Camera Still Resolution (MP)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6000\""
+      "name": "Internal Storage (GB)",
+      "value": "42"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Wide Angle Lens",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Slow Motion Recording",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "USB",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Card",
+      "value": "MicroSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"42\""
+      "name": "Battery (mAh)",
+      "value": "4276"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wide Angle Lens\","
+      "name": "Width (mm)",
+      "value": "266.11"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "325.47"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Height (mm)",
+      "value": "106"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "0.724"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "6941565989949"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Slow Motion Recording\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Ascent Speed",
+      "value": "10 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Descent Speed",
+      "value": "10 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Max Horizontal Speed",
+      "value": "At sea level, in windless conditions: 21 m/s, At sea level, with 6 m/s tailwind, while flying in the same direction as the wind: 27 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Hovering Time (mins)",
+      "value": "41"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Max Wind Speed Resistance",
+      "value": "12 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Pitch Angle",
+      "value": "36°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MicroSD\""
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Hovering Accuracy Range",
+      "value": "Vertical: ±0.1 m (with vision positioning), ±0.5 m (with satellite positioning); Horizontal:±0.3 m (with vision positioning), ±0.5 m (with satellite positioning)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Class",
+      "value": "C1 (EU)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4276\""
+      "name": "Image Sensor",
+      "value": "Wide-Angle Camera: 1-inch CMOS, 50MP Effective Pixels, Medium Tele Camera: 1/1.3-inch CMOS, 48MP Effective Pixels"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Max Image Size",
+      "value": "Wide-Angle Camera: 8192×6144, Medium Tele Camera: 8064×6048"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Photo Format",
+      "value": "JPEG/DNG (RAW)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Video Format",
+      "value": "MP4 (MPEG-4 AVC/H.264, HEVC/H.265)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Max Video Bitrate",
+      "value": "H.264/H.265: 130 Mbps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"266.11\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Digital Zoom",
+      "value": "Wide-Angle Camera: 1-2.9x, Medium Tele Camera: 3-9x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"325.47\""
+      "name": "Stabilization",
+      "value": "3-axis mechanical gimbal (tilt, roll, pan)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Mechanical Range",
+      "value": "Tilt: -135° to 70°, Roll: -50° to 50°, Pan: -27° to 27°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"106\""
+      "name": "Controllable Range",
+      "value": "Tilt: -90° to 60°, Pan: -5° to 5°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.724\""
+      "name": "Angular Vibration Range",
+      "value": "±0.0037°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Sensing Type",
+      "value": "Omnidirectional binocular vision system, supplemented with forward-facing LiDAR and an infrared sensor at the bottom of the aircraft"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565989949\""
+      "name": "Live View Quality",
+      "value": "Remote Controller: 1080p/30fps, 1080p/60fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Ascent Speed\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <30 dBm (SRRC), <14 dBm (CE)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 m/s\""
+      "name": "Max Transmission Distance",
+      "value": "FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Descent Speed\","
+      "name": "Lowest Latency",
+      "value": "Aircraft + Remote Controller: Approx. 120 ms"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 m/s\""
+      "name": "Antenna",
+      "value": "6 antennas, 2T4R"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Horizontal Speed\","
+      "name": "Protocol",
+      "value": "802.11 a/b/g/n/ac"
     },
     {
-      "name": "\"value\"",
-      "value": "\"At sea level, in windless conditions: 21 m/s, At sea level, with 6 m/s tailwind, while flying in the same direction as the wind: 27 m/s\""
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time (mins)\","
+      "name": "Protocol",
+      "value": "Bluetooth 5.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"41\""
+      "name": "Operating Frequency (GHz)",
+      "value": "2.400-2.4835"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "< 10 dBm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12 m/s\""
+      "name": "Capacity (mAh)",
+      "value": "4276"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Pitch Angle\","
+      "name": "Battery Weight (Kg)",
+      "value": "0.247"
     },
     {
-      "name": "\"value\"",
-      "value": "\"36°\""
+      "name": "Nominal Voltage (V)",
+      "value": "14.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Max Charging Voltage (V)",
+      "value": "17.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Type",
+      "value": "Li-ion 4S"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "Energy (Wh)",
+      "value": "62.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hovering Accuracy Range\","
+      "name": "Charging Time",
+      "value": "Approx. 80 minutes (with DJI 65W Portable Charger), Approx. 60 minutes (with DJI 100W USB-C Power Adapter and Battery Charging Hub)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vertical: ±0.1 m (with vision positioning), ±0.5 m (with satellite positioning); Horizontal:±0.3 m (with vision positioning), ±0.5 m (with satellite positioning)\""
+      "name": "Charger Rated Power",
+      "value": "DJI 65W Portable Charger: 65 W, DJI 100W USB-C Power Adapter: 100 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Car Charger Input",
+      "value": "12.7-16 V, 6.5 A, rated voltage 14 V (DC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C1 (EU)\""
+      "name": "Car Charger Output",
+      "value": "USB-C: 5V, 5A 9V, 5A 12V, 5 A; 15V, 4.3 A; 20V, 3.25A; 5-20V, 3.25A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Sensor\","
+      "name": "USB-A",
+      "value": "5V, 2A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 1-inch CMOS, 50MP Effective Pixels, Medium Tele Camera: 1/1.3-inch CMOS, 48MP Effective Pixels\""
+      "name": "Rated Power (W)",
+      "value": "65"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 8192×6144, Medium Tele Camera: 8064×6048\""
+      "name": "More - DJI RC-N3 RC"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "Max Operating Time",
+      "value": "Without Charging Any Mobile Device: 3.5 hours, When Charging a Mobile Device: 1.5 hours"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG/DNG (RAW)\""
+      "name": "Max Supported Mobile Device Size",
+      "value": "180×86×10 mm (L×W×H)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (MPEG-4 AVC/H.264, HEVC/H.265)\""
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Charging Time",
+      "value": "2 hours"
     },
     {
-      "name": "\"value\"",
-      "value": "\"H.264/H.265: 130 Mbps\""
+      "name": "Charging Type",
+      "value": "It is recommended to use a 5V/2A charger."
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "Battery Capacity",
+      "value": "9.36 Wh (3.6 V, 2600 mAh)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
+      "name": "Weight",
+      "value": "Approx. 320 g"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Zoom\","
+      "name": "Dimensions",
+      "value": "104.2×150×45.2 mm (L×W×H)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 1-2.9x, Medium Tele Camera: 3-9x\""
+      "name": "Supported Mobile Device Port Type",
+      "value": "Lightning, USB-C, Micro-USB"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Stabilization\","
+      "name": "Video Transmission Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3-axis mechanical gimbal (tilt, roll, pan)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -135° to 70°, Roll: -50° to 50°, Pan: -27° to 27°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -90° to 60°, Pan: -5° to 5°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"±0.0037°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Omnidirectional binocular vision system, supplemented with forward-facing LiDAR and an infrared sensor at the bottom of the aircraft\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Remote Controller: 1080p/30fps, 1080p/60fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <30 dBm (SRRC), <14 dBm (CE)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Transmission Distance\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lowest Latency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Aircraft + Remote Controller: Approx. 120 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antenna\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6 antennas, 2T4R\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11 a/b/g/n/ac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth 5.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency (GHz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"< 10 dBm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Capacity (mAh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4276\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.247\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Nominal Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion 4S\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy (Wh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"62.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 80 minutes (with DJI 65W Portable Charger), Approx. 60 minutes (with DJI 100W USB-C Power Adapter and Battery Charging Hub)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charger Rated Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI 65W Portable Charger: 65 W, DJI 100W USB-C Power Adapter: 100 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Car Charger Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"12.7-16 V, 6.5 A, rated voltage 14 V (DC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Car Charger Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5V, 5A 9V, 5A 12V, 5 A; 15V, 4.3 A; 20V, 3.25A; 5-20V, 3.25A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-A\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5V, 2A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Power (W)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More - DJI RC-N3 RC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Without Charging Any Mobile Device: 3.5 hours, When Charging a Mobile Device: 1.5 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Supported Mobile Device Size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"180×86×10 mm (L×W×H)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"It is recommended to use a 5V/2A charger.\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9.36 Wh (3.6 V, 2600 mAh)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 320 g\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"104.2×150×45.2 mm (L×W×H)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Supported Mobile Device Port Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lightning, USB-C, Micro-USB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <14 dBm (CE), <30 dBm (SRRC)\""
+      "name": "Video Transmission Transmitter Power (EIRP)",
+      "value": "2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <14 dBm (CE), <30 dBm (SRRC)"
     }
   ]
 },
@@ -20407,688 +11280,355 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flying Height (m)",
+      "value": "6000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flight Time (mins)",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Camera Still Resolution (MP)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6000\""
+      "name": "Internal Storage (GB)",
+      "value": "42"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Wide Angle Lens",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Slow Motion Recording",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "USB",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Card",
+      "value": "MicroSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"42\""
+      "name": "Battery (mAh)",
+      "value": "4276"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wide Angle Lens\","
+      "name": "Width (mm)",
+      "value": "266.11"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "325.47"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Height (mm)",
+      "value": "106"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "0.724"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "6941565989932"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Slow Motion Recording\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Ascent Speed",
+      "value": "10 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Descent Speed",
+      "value": "10 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Max Horizontal Speed",
+      "value": "At sea level, in windless conditions: 21 m/s, At sea level, with 6 m/s tailwind, while flying in the same direction as the wind: 27 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Hovering Time (mins)",
+      "value": "41"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Max Wind Speed Resistance",
+      "value": "12 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Pitch Angle",
+      "value": "36°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MicroSD\""
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Hovering Accuracy Range",
+      "value": "Vertical: ±0.1 m (with vision positioning), ±0.5 m (with satellite positioning); Horizontal:±0.3 m (with vision positioning), ±0.5 m (with satellite positioning)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Class",
+      "value": "C1 (EU)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4276\""
+      "name": "Image Sensor",
+      "value": "Wide-Angle Camera: 1-inch CMOS, 50MP Effective Pixels, Medium Tele Camera: 1/1.3-inch CMOS, 48MP Effective Pixels"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Max Image Size",
+      "value": "Wide-Angle Camera: 8192×6144, Medium Tele Camera: 8064×6048"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Photo Format",
+      "value": "JPEG/DNG (RAW)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Video Format",
+      "value": "MP4 (MPEG-4 AVC/H.264, HEVC/H.265)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Max Video Bitrate",
+      "value": "H.264/H.265: 130 Mbps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"266.11\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Digital Zoom",
+      "value": "Wide-Angle Camera: 1-2.9x, Medium Tele Camera: 3-9x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"325.47\""
+      "name": "Stabilization",
+      "value": "3-axis mechanical gimbal (tilt, roll, pan)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Mechanical Range",
+      "value": "Tilt: -135° to 70°, Roll: -50° to 50°, Pan: -27° to 27°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"106\""
+      "name": "Controllable Range",
+      "value": "Tilt: -90° to 60°, Pan: -5° to 5°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.724\""
+      "name": "Angular Vibration Range",
+      "value": "±0.0037°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Sensing Type",
+      "value": "Omnidirectional binocular vision system, supplemented with forward-facing LiDAR and an infrared sensor at the bottom of the aircraft"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565989932\""
+      "name": "Live View Quality",
+      "value": "Remote Controller: 1080p/30fps, 1080p/60fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Ascent Speed\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <30 dBm (SRRC), <14 dBm (CE)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 m/s\""
+      "name": "Max Transmission Distance",
+      "value": "FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Descent Speed\","
+      "name": "Lowest Latency",
+      "value": "Aircraft + Remote Controller: Approx. 120 ms"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 m/s\""
+      "name": "Antenna",
+      "value": "6 antennas, 2T4R"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Horizontal Speed\","
+      "name": "Protocol",
+      "value": "802.11 a/b/g/n/ac"
     },
     {
-      "name": "\"value\"",
-      "value": "\"At sea level, in windless conditions: 21 m/s, At sea level, with 6 m/s tailwind, while flying in the same direction as the wind: 27 m/s\""
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time (mins)\","
+      "name": "Protocol",
+      "value": "Bluetooth 5.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"41\""
+      "name": "Operating Frequency (GHz)",
+      "value": "2.400-2.4835"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "< 10 dBm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12 m/s\""
+      "name": "Capacity (mAh)",
+      "value": "4276"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Pitch Angle\","
+      "name": "Battery Weight (Kg)",
+      "value": "0.247"
     },
     {
-      "name": "\"value\"",
-      "value": "\"36°\""
+      "name": "Nominal Voltage (V)",
+      "value": "14.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Max Charging Voltage (V)",
+      "value": "17.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Type",
+      "value": "Li-ion 4S"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "Energy (Wh)",
+      "value": "62.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hovering Accuracy Range\","
+      "name": "Charging Time",
+      "value": "Approx. 80 minutes (with DJI 65W Portable Charger), Approx. 60 minutes (with DJI 100W USB-C Power Adapter and Battery Charging Hub)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vertical: ±0.1 m (with vision positioning), ±0.5 m (with satellite positioning); Horizontal:±0.3 m (with vision positioning), ±0.5 m (with satellite positioning)\""
+      "name": "Charger Rated Power",
+      "value": "DJI 65W Portable Charger: 65 W, DJI 100W USB-C Power Adapter: 100 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Car Charger Input",
+      "value": "12.7-16 V, 6.5 A, rated voltage 14 V (DC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C1 (EU)\""
+      "name": "Car Charger Output",
+      "value": "USB-C: 5V, 5A 9V, 5A 12V, 5 A; 15V, 4.3 A; 20V, 3.25A; 5-20V, 3.25A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Sensor\","
+      "name": "USB-A",
+      "value": "5V, 2A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 1-inch CMOS, 50MP Effective Pixels, Medium Tele Camera: 1/1.3-inch CMOS, 48MP Effective Pixels\""
+      "name": "Rated Power (W)",
+      "value": "65"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 8192×6144, Medium Tele Camera: 8064×6048\""
+      "name": "More - Battery Charging Hub"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "Input",
+      "value": "USB-C: 5-20 V, max 5 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG/DNG (RAW)\""
+      "name": "Output (power accumulation)",
+      "value": "Battery Port: 12-17.2 V, 3.5 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Output (charging)",
+      "value": "Battery Port: 12-17.2 V, max 5 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (MPEG-4 AVC/H.264, HEVC/H.265)\""
+      "name": "Output (USB)",
+      "value": "USB-C: 5V, 3A; 9V, 5A; 12V, 5A; 15V, 5A; 20V, 4.1A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Charging Type",
+      "value": "Three batteries charged in sequence"
     },
     {
-      "name": "\"value\"",
-      "value": "\"H.264/H.265: 130 Mbps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Digital Zoom\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 1-2.9x, Medium Tele Camera: 3-9x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stabilization\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3-axis mechanical gimbal (tilt, roll, pan)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -135° to 70°, Roll: -50° to 50°, Pan: -27° to 27°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -90° to 60°, Pan: -5° to 5°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"±0.0037°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Omnidirectional binocular vision system, supplemented with forward-facing LiDAR and an infrared sensor at the bottom of the aircraft\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Remote Controller: 1080p/30fps, 1080p/60fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <30 dBm (SRRC), <14 dBm (CE)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Transmission Distance\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lowest Latency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Aircraft + Remote Controller: Approx. 120 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antenna\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6 antennas, 2T4R\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11 a/b/g/n/ac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth 5.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency (GHz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"< 10 dBm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Capacity (mAh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4276\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.247\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Nominal Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion 4S\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy (Wh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"62.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 80 minutes (with DJI 65W Portable Charger), Approx. 60 minutes (with DJI 100W USB-C Power Adapter and Battery Charging Hub)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charger Rated Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI 65W Portable Charger: 65 W, DJI 100W USB-C Power Adapter: 100 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Car Charger Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"12.7-16 V, 6.5 A, rated voltage 14 V (DC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Car Charger Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5V, 5A 9V, 5A 12V, 5 A; 15V, 4.3 A; 20V, 3.25A; 5-20V, 3.25A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-A\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5V, 2A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Power (W)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More - Battery Charging Hub\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5-20 V, max 5 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Output (power accumulation)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Battery Port: 12-17.2 V, 3.5 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Output (charging)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Battery Port: 12-17.2 V, max 5 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Output (USB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5V, 3A; 9V, 5A; 12V, 5A; 15V, 5A; 20V, 4.1A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Three batteries charged in sequence\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Air 3S Intelligent Flight Battery\""
+      "name": "Compatibility",
+      "value": "DJI Air 3S Intelligent Flight Battery"
     }
   ]
 },
@@ -21106,788 +11646,406 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flying Height (m)",
+      "value": "6000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flight Time (mins)",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Camera Still Resolution (MP)",
+      "value": "50"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6000\""
+      "name": "Internal Storage (GB)",
+      "value": "42"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Wide Angle Lens",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Slow Motion Recording",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "USB",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Card",
+      "value": "MicroSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"42\""
+      "name": "Battery (mAh)",
+      "value": "4276"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wide Angle Lens\","
+      "name": "Width (mm)",
+      "value": "266.11"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "325.47"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Height (mm)",
+      "value": "106"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "0.724"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "6941565989925"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Slow Motion Recording\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Ascent Speed",
+      "value": "10 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Descent Speed",
+      "value": "10 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB\","
+      "name": "Max Horizontal Speed",
+      "value": "At sea level, in windless conditions: 21 m/s, At sea level, with 6 m/s tailwind, while flying in the same direction as the wind: 27 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Hovering Time (mins)",
+      "value": "41"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Max Wind Speed Resistance",
+      "value": "12 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Pitch Angle",
+      "value": "36°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MicroSD\""
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Hovering Accuracy Range",
+      "value": "Vertical: ±0.1 m (with vision positioning), ±0.5 m (with satellite positioning); Horizontal:±0.3 m (with vision positioning), ±0.5 m (with satellite positioning)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Class",
+      "value": "C1 (EU)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4276\""
+      "name": "Image Sensor",
+      "value": "Wide-Angle Camera: 1-inch CMOS, 50MP Effective Pixels, Medium Tele Camera: 1/1.3-inch CMOS, 48MP Effective Pixels"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Max Image Size",
+      "value": "Wide-Angle Camera: 8192×6144, Medium Tele Camera: 8064×6048"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Photo Format",
+      "value": "JPEG/DNG (RAW)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Video Format",
+      "value": "MP4 (MPEG-4 AVC/H.264, HEVC/H.265)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Max Video Bitrate",
+      "value": "H.264/H.265: 130 Mbps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"266.11\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Digital Zoom",
+      "value": "Wide-Angle Camera: 1-2.9x, Medium Tele Camera: 3-9x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"325.47\""
+      "name": "Stabilization",
+      "value": "3-axis mechanical gimbal (tilt, roll, pan)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Mechanical Range",
+      "value": "Tilt: -135° to 70°, Roll: -50° to 50°, Pan: -27° to 27°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"106\""
+      "name": "Controllable Range",
+      "value": "Tilt: -90° to 60°, Pan: -5° to 5°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.724\""
+      "name": "Angular Vibration Range",
+      "value": "±0.0037°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Sensing Type",
+      "value": "Omnidirectional binocular vision system, supplemented with forward-facing LiDAR and an infrared sensor at the bottom of the aircraft"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565989925\""
+      "name": "Live View Quality",
+      "value": "Remote Controller: 1080p/30fps, 1080p/60fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Ascent Speed\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <30 dBm (SRRC), <14 dBm (CE)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 m/s\""
+      "name": "Max Transmission Distance",
+      "value": "FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Descent Speed\","
+      "name": "Lowest Latency",
+      "value": "Aircraft + Remote Controller: Approx. 120 ms"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 m/s\""
+      "name": "Antenna",
+      "value": "6 antennas, 2T4R"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Horizontal Speed\","
+      "name": "Protocol",
+      "value": "802.11 a/b/g/n/ac"
     },
     {
-      "name": "\"value\"",
-      "value": "\"At sea level, in windless conditions: 21 m/s, At sea level, with 6 m/s tailwind, while flying in the same direction as the wind: 27 m/s\""
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time (mins)\","
+      "name": "Protocol",
+      "value": "Bluetooth 5.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"41\""
+      "name": "Operating Frequency (GHz)",
+      "value": "2.400-2.4835"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "< 10 dBm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12 m/s\""
+      "name": "Capacity (mAh)",
+      "value": "4276"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Pitch Angle\","
+      "name": "Battery Weight (Kg)",
+      "value": "0.247"
     },
     {
-      "name": "\"value\"",
-      "value": "\"36°\""
+      "name": "Nominal Voltage (V)",
+      "value": "14.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Max Charging Voltage (V)",
+      "value": "17.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Type",
+      "value": "Li-ion 4S"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "Energy (Wh)",
+      "value": "62.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hovering Accuracy Range\","
+      "name": "Charging Time",
+      "value": "Approx. 80 minutes (with DJI 65W Portable Charger), Approx. 60 minutes (with DJI 100W USB-C Power Adapter and Battery Charging Hub)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vertical: ±0.1 m (with vision positioning), ±0.5 m (with satellite positioning); Horizontal:±0.3 m (with vision positioning), ±0.5 m (with satellite positioning)\""
+      "name": "Charger Rated Power",
+      "value": "DJI 65W Portable Charger: 65 W, DJI 100W USB-C Power Adapter: 100 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Car Charger Input",
+      "value": "12.7-16 V, 6.5 A, rated voltage 14 V (DC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C1 (EU)\""
+      "name": "Car Charger Output",
+      "value": "USB-C: 5V, 5A 9V, 5A 12V, 5 A; 15V, 4.3 A; 20V, 3.25A; 5-20V, 3.25A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Sensor\","
+      "name": "USB-A",
+      "value": "5V, 2A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 1-inch CMOS, 50MP Effective Pixels, Medium Tele Camera: 1/1.3-inch CMOS, 48MP Effective Pixels\""
+      "name": "Rated Power (W)",
+      "value": "65"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 8192×6144, Medium Tele Camera: 8064×6048\""
+      "name": "More - Battery Charging Hub"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "Input",
+      "value": "USB-C: 5-20 V, max 5 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG/DNG (RAW)\""
+      "name": "Output (power accumulation)",
+      "value": "Battery Port: 12-17.2 V, 3.5 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Output (charging)",
+      "value": "Battery Port: 12-17.2 V, max 5 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (MPEG-4 AVC/H.264, HEVC/H.265)\""
+      "name": "Output (USB)",
+      "value": "USB-C: 5V, 3A; 9V, 5A; 12V, 5A; 15V, 5A; 20V, 4.1A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Charging Type",
+      "value": "Three batteries charged in sequence"
     },
     {
-      "name": "\"value\"",
-      "value": "\"H.264/H.265: 130 Mbps\""
+      "name": "Compatibility",
+      "value": "DJI Air 3S Intelligent Flight Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "More - DJI RC-N3 RC"
     },
     {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
+      "name": "Max Operating Time",
+      "value": "Without Charging Any Mobile Device: 3.5 hours, When Charging a Mobile Device: 1.5 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Zoom\","
+      "name": "Max Supported Mobile Device Size",
+      "value": "180×86×10 mm (L×W×H)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Wide-Angle Camera: 1-2.9x, Medium Tele Camera: 3-9x\""
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Stabilization\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3-axis mechanical gimbal (tilt, roll, pan)\""
+      "name": "Charging Time",
+      "value": "2 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
+      "name": "Charging Type",
+      "value": "It is recommended to use a 5V/2A charger."
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tilt: -135° to 70°, Roll: -50° to 50°, Pan: -27° to 27°\""
+      "name": "Battery Capacity",
+      "value": "9.36 Wh (3.6 V, 2600 mAh)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
+      "name": "Weight",
+      "value": "Approx. 320 g"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Tilt: -90° to 60°, Pan: -5° to 5°\""
+      "name": "Dimensions",
+      "value": "104.2×150×45.2 mm (L×W×H)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
+      "name": "Supported Mobile Device Port Type",
+      "value": "Lightning, USB-C, Micro-USB"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
+      "name": "Video Transmission Operating Frequency",
+      "value": "2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"±0.0037°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Omnidirectional binocular vision system, supplemented with forward-facing LiDAR and an infrared sensor at the bottom of the aircraft\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Remote Controller: 1080p/30fps, 1080p/60fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <30 dBm (SRRC), <14 dBm (CE)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Transmission Distance\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 20 km, CE: 10 km, SRRC: 10 km, MIC: 10 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lowest Latency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Aircraft + Remote Controller: Approx. 120 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antenna\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6 antennas, 2T4R\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11 a/b/g/n/ac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth 5.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency (GHz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"< 10 dBm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Capacity (mAh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4276\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.247\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Nominal Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion 4S\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy (Wh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"62.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 80 minutes (with DJI 65W Portable Charger), Approx. 60 minutes (with DJI 100W USB-C Power Adapter and Battery Charging Hub)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charger Rated Power\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI 65W Portable Charger: 65 W, DJI 100W USB-C Power Adapter: 100 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Car Charger Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"12.7-16 V, 6.5 A, rated voltage 14 V (DC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Car Charger Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5V, 5A 9V, 5A 12V, 5 A; 15V, 4.3 A; 20V, 3.25A; 5-20V, 3.25A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-A\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5V, 2A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Power (W)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"65\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More - Battery Charging Hub\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5-20 V, max 5 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Output (power accumulation)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Battery Port: 12-17.2 V, 3.5 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Output (charging)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Battery Port: 12-17.2 V, max 5 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Output (USB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-C: 5V, 3A; 9V, 5A; 12V, 5A; 15V, 5A; 20V, 4.1A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Three batteries charged in sequence\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Compatibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Air 3S Intelligent Flight Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More - DJI RC-N3 RC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Without Charging Any Mobile Device: 3.5 hours, When Charging a Mobile Device: 1.5 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Supported Mobile Device Size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"180×86×10 mm (L×W×H)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"It is recommended to use a 5V/2A charger.\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9.36 Wh (3.6 V, 2600 mAh)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 320 g\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"104.2×150×45.2 mm (L×W×H)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Supported Mobile Device Port Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Lightning, USB-C, Micro-USB\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4000-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <14 dBm (CE), <30 dBm (SRRC)\""
+      "name": "Video Transmission Transmitter Power (EIRP)",
+      "value": "2.4 GHz: <33 dBm (FCC), <20 dBm (CE/SRRC/MIC); 5.1 GHz: <23 dBm (CE); 5.8 GHz: <33 dBm (FCC), <14 dBm (CE), <30 dBm (SRRC)"
     }
   ]
 },
@@ -21905,700 +12063,386 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Indoor & Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Indoor & Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flight Time (mins)",
+      "value": "31"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Camera Still Resolution (MP)",
+      "value": "12"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"31\""
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Image Stabilisation",
+      "value": "3-Axis Mechanical Gimbal (Tilt, Roll, and Pan)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Lens"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Focal Length",
+      "value": "1 m to ∞"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Aperture",
+      "value": "f/2.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Memory Card",
+      "value": "microSD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Battery (mAh)",
+      "value": "2250"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "245"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Stabilisation\","
+      "name": "Depth (mm)",
+      "value": "289"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3-Axis Mechanical Gimbal (Tilt, Roll, and Pan)\""
+      "name": "Height (mm)",
+      "value": "56"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
+      "name": "Weight (kg)",
+      "value": "0.246"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Focal Length\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 m to ∞\""
+      "name": "EAN Code",
+      "value": "6941565980397"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"f/2.8\""
+      "name": "Max Flight Distance",
+      "value": "15.7 km"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Ascent Speed",
+      "value": "5 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Max Descent Speed",
+      "value": "3.5 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"microSD\""
+      "name": "Max Horizontal Speed (at sea level, no wind)",
+      "value": "16 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Max Takeoff Altitude",
+      "value": "4000 m"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Max Flight Time",
+      "value": "31 Mins"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2250\""
+      "name": "Max Wind Speed Resistance",
+      "value": "10.7 m/s (Level 5)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Max Pitch Angle",
+      "value": "40°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating Temperature",
+      "value": "0° to 40° C (32° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + GLONASS + Galileo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Class",
+      "value": "C0 (EU)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"245\""
+      "name": "Shutter Speed",
+      "value": "Electronic Shutter: 4-1/8000 s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Max Image Size",
+      "value": "4000 × 3000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"289\""
+      "name": "Photo Format",
+      "value": "JPEG/DNG (RAW)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Video Format",
+      "value": "MP4 (MPEG-4 AVC/H.264)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"56\""
+      "name": "Max Video Bitrate",
+      "value": "100Mbps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Supported File System",
+      "value": "FAT32 (= 32 GB), exFAT (> 32 GB)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.246\""
+      "name": "Digital Zoom",
+      "value": "4K: 2x, 2.7K: 3x, FHD: 4x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Color Mode",
+      "value": "Normal"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "QuickShots Modes",
+      "value": "Dronie, Helix, Rocket, Circle, and Boomerang"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565980397\""
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Environment",
+      "value": "Downward: Surfaces with Discernible Patterns, Diffuse Reflectivity >20% (e.g., Walls, Trees, People), and Adequate Lighting (lux >15)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Distance\","
+      "name": "Angular Vibration Range",
+      "value": "±0.01°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.7 km\""
+      "name": "Downward",
+      "value": "Precise Hovering Range: 0.5-10 m"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Ascent Speed\","
+      "name": "Video Transmission System",
+      "value": "DJI O2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5 m/s\""
+      "name": "Live View Quality",
+      "value": "Remote Controller: 720p/30fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Descent Speed\","
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3.5 m/s\""
+      "name": "Lowest Latency",
+      "value": "Approx. 200 ms"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Horizontal Speed (at sea level, no wind)\","
+      "name": "Battery Weight (g)",
+      "value": "82.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16 m/s\""
+      "name": "Nominal Voltage",
+      "value": "7.7 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Takeoff Altitude\","
+      "name": "Max Charging Voltage",
+      "value": "8.8 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4000 m\""
+      "name": "Battery Type",
+      "value": "Li-ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Time\","
+      "name": "Energy",
+      "value": "17.32 Wh"
     },
     {
-      "name": "\"value\"",
-      "value": "\"31 Mins\""
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Battery Charging Hub Input",
+      "value": "5 V 3 A, 9 V 3 A, 12 V 3 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10.7 m/s (Level 5)\""
+      "name": "Battery Charging Hub Output",
+      "value": "USB-A: Max Voltage: 5 V; Max Current: 2 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Pitch Angle\","
+      "name": "Charging Type",
+      "value": "Three batteries charged in sequence"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40°\""
+      "name": "Recommended microSD Cards 16 GB",
+      "value": "SanDisk Extreme"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Recommended microSD Cards 32 GB",
+      "value": "Samsung PRO Endurance"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0° to 40° C (32° to 104° F)\""
+      "name": "Samsung EVO Plus"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "SanDisk Industrial"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + GLONASS + Galileo\""
+      "name": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "SanDisk Extreme Pro V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C0 (EU)\""
+      "name": "SanDisk Extreme Pro V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Shutter Speed\","
+      "name": "Lexar 633x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Electronic Shutter: 4-1/8000 s\""
+      "name": "Lexar 667x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "Recommended microSD Cards 64 GB",
+      "value": "Samsung PRO Endurance"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4000 × 3000\""
+      "name": "Samsung EVO Plus"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "SanDisk Extreme V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG/DNG (RAW)\""
+      "name": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Lexar 633x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (MPEG-4 AVC/H.264)\""
+      "name": "Lexar 667x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Lexar 1000x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100Mbps\""
+      "name": "Lexar High Endurance"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "Toshiba EXCERIA M303 V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FAT32 (= 32 GB), exFAT (> 32 GB)\""
+      "name": "Netac Pro V30 A1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Zoom\","
+      "name": "Recommended microSD Cards 128 GB",
+      "value": "Samsung EVO Plus"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K: 2x, 2.7K: 3x, FHD: 4x\""
+      "name": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Color Mode\","
+      "name": "SanDisk Extreme Plus V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Normal\""
+      "name": "SanDisk Extreme Plus V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"QuickShots Modes\","
+      "name": "Lexar 633x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dronie, Helix, Rocket, Circle, and Boomerang\""
+      "name": "Lexar 667x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
+      "name": "Lexar 1000x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
+      "name": "Lexar High Endurance"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Environment\","
+      "name": "Toshiba EXCERIA M303 V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Downward: Surfaces with Discernible Patterns, Diffuse Reflectivity >20% (e.g., Walls, Trees, People), and Adequate Lighting (lux >15)\""
+      "name": "Netac Pro V30 A1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
+      "name": "Recommended microSD Cards 256GB",
+      "value": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"±0.01°\""
+      "name": "Remote Controller Max Operating Time",
+      "value": "DJI RC-N1C - Without Charging Any Mobile Device: 4 hours, When Charging a Mobile Device: 2 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Downward\","
+      "name": "Max Supported Mobile Device Size (WxDxH) (mm)",
+      "value": "180 × 86 × 10"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Precise Hovering Range: 0.5-10 m\""
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "2.400-2.4835 GHz: <26 dBm (FCC), <20 dBm (CE/SRRC/MIC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI O2\""
+      "name": "5.725-5.850 GHz",
+      "value": "<26 dBm (FCC), <23 dBm (SRRC), <14 dBm (CE)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Remote Controller: 720p/30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lowest Latency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 200 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight (g)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"82.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Nominal Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.7 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.8 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.32 Wh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V 3 A, 9 V 3 A, 12 V 3 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-A: Max Voltage: 5 V; Max Current: 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Three batteries charged in sequence\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 16 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SanDisk Extreme\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 32 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Samsung PRO Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Samsung EVO Plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Industrial\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Pro V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Pro V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 633x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 667x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 64 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Samsung PRO Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Samsung EVO Plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 633x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 667x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 1000x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar High Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Toshiba EXCERIA M303 V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Netac Pro V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 128 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Samsung EVO Plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Plus V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Plus V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 633x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 667x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 1000x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar High Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Toshiba EXCERIA M303 V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Netac Pro V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 256GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Remote Controller Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI RC-N1C - Without Charging Any Mobile Device: 4 hours, When Charging a Mobile Device: 2 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Supported Mobile Device Size (WxDxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"180 × 86 × 10\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz: <26 dBm (FCC), <20 dBm (CE/SRRC/MIC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"5.725-5.850 GHz\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"<26 dBm (FCC), <23 dBm (SRRC), <14 dBm (CE)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions Folded (without propellers) (mm) (W×D×H)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"138 x 81 x 58\""
+      "name": "Dimensions Folded (without propellers) (mm) (W×D×H)",
+      "value": "138 x 81 x 58"
     }
   ]
 },
@@ -22616,792 +12460,407 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Shutter Speed (secs)",
+      "value": "Video: 1/8000-1/30 s, Photo: 1/8000-1/50 s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flying Height (m)",
+      "value": "5000"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Shutter Speed (secs)\","
+      "name": "Maximum Flight Time (mins)",
+      "value": "23"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Video: 1/8000-1/30 s, Photo: 1/8000-1/50 s\""
+      "name": "Camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Internal Storage (GB)",
+      "value": "46"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Video Resolution",
+      "value": "4K (4∶3): 3840×2880@30/50/60fps, 4K (16∶9): 3840×2160@30/50/60/100fps, 2.7K (4∶3): 2688×2016@30/50/60fps, 2.7K (16∶9): 2688×1512@30/50/120fps, 1080p (4∶3): 1440×1080@30/50/120fps, 1080p (16∶9): 1920×1080@30/50/120fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flying Height (m)\","
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5000\""
+      "name": "Image Stabilisation",
+      "value": "Mechanical Gimbal"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Lens"
     },
     {
-      "name": "\"value\"",
-      "value": "\"23\""
+      "name": "Aperture",
+      "value": "f/2.8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Memory Card",
+      "value": "MicroSD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Storage (GB)\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"46\""
+      "name": "Battery (mAh)",
+      "value": "2150"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K (4∶3): 3840×2880@30/50/60fps, 4K (16∶9): 3840×2160@30/50/60/100fps, 2.7K (4∶3): 2688×2016@30/50/60fps, 2.7K (16∶9): 2688×1512@30/50/120fps, 1080p (4∶3): 1440×1080@30/50/120fps, 1080p (16∶9): 1920×1080@30/50/120fps\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Width (mm)",
+      "value": "212"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "185"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Stabilisation\","
+      "name": "Height (mm)",
+      "value": "64"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Mechanical Gimbal\""
+      "name": "Weight (kg)",
+      "value": "0.377"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
+      "name": "EAN Code",
+      "value": "6941565980083"
     },
     {
-      "name": "\"value\"",
-      "value": "\"f/2.8\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Ascent Speed",
+      "value": "6 m/s (Normal mode), 9 m/s (Sport mode)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
+      "name": "Max Descent Speed",
+      "value": "6 m/s (Normal mode), 9 m/s (Sport mode)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Max Horizontal Speed (near sea level, no wind)",
+      "value": "8 m/s (Normal mode), 16 m/s (Sport mode), 27 m/s (Manual mode)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Max Takeoff Altitude (m)",
+      "value": "5000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MicroSD\""
+      "name": "Max Hovering Time (min)",
+      "value": "Approx. 21"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Max Flight Distance (Km)",
+      "value": "13"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Max Wind Speed Resistance",
+      "value": "10.7 m/s (Level 5)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2150\""
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + Galileo + BeiDou"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Hovering accuracy range",
+      "value": "Vertical:±0.1 m (with vision positioning), ±0.5 m (with GNSS positioning); Horizontal:±0.3 m (with vision positioning), ±1.5 m (with GNSS positioning)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Class",
+      "value": "C1 (EU)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Image Sensor",
+      "value": "1/1.3-inch image sensor, Effective Pixels: 12 MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"212\""
+      "name": "Lens",
+      "value": "‌FOV: 155°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Format Equivalent",
+      "value": "12 mm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"185\""
+      "name": "Focus",
+      "value": "0.6 m to ∞"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "ISO Range",
+      "value": "100-25600 (Auto), 100-25600 (Manual)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"64\""
+      "name": "Max Image Size",
+      "value": "4000×2256 (16∶9), 4000×3000 (4∶3)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Still Photography Mode",
+      "value": "Single shot"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.377\""
+      "name": "Photo Format",
+      "value": "JPEG"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Video Format",
+      "value": "MP4 (H.264/H.265)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Max Video Bitrate",
+      "value": "130 Mbps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565980083\""
+      "name": "Supported File System",
+      "value": "exFAT"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Color Mode",
+      "value": "Standard, D-Log M"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Ascent Speed\","
+      "name": "Camera FOV",
+      "value": "Supports normal mode, wide-angle mode, and ultra-wide-angle mode"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6 m/s (Normal mode), 9 m/s (Sport mode)\""
+      "name": "EIS",
+      "value": "Supports RockSteady 3.0+ and HorizonSteady Can be disabled"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Descent Speed\","
+      "name": "Stabilization",
+      "value": "Single-axis mechanical gimbal (tilt)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6 m/s (Normal mode), 9 m/s (Sport mode)\""
+      "name": "Mechanical Range",
+      "value": "Tilt: -95° to 90°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Horizontal Speed (near sea level, no wind)\","
+      "name": "Controllable Range",
+      "value": "Tilt: -85° to 80°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8 m/s (Normal mode), 16 m/s (Sport mode), 27 m/s (Manual mode)\""
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Takeoff Altitude (m)\","
+      "name": "Angular Vibration Range",
+      "value": "±0.01°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5000\""
+      "name": "Electronic Roll Axis",
+      "value": "Real-time screen correction is unavailable during recording, but can be applied to the footage recorded on the drone."
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Hovering Time (min)\","
+      "name": "Sensing Type",
+      "value": "Downward and backward visual positioning"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Approx. 21\""
+      "name": "Downward",
+      "value": "ToF Effective Measurement Height: 10 m, Precise Hovering Range: 0.3-10 m, Measurement Range: 0.3-20 m, FOV: Horizontal 78°, Vertical 78°"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Distance (Km)\","
+      "name": "Backward",
+      "value": "Measurement Range: 0.5-20 m, FOV: Horizontal 78°, Vertical 78°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"13\""
+      "name": "Operating Environment",
+      "value": "Diffuse reflective surfaces with discernible patterns, diffuse reflectivity > 20% (such as concrete pavement), Adequate lighting (lux > 15, normal indoor lighting conditions)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Video Transmission System",
+      "value": "O4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10.7 m/s (Level 5)\""
+      "name": "Live View Quality",
+      "value": "1080p@30/50/60/100fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
+      "name": "Communication Bandwidth",
+      "value": "Max 60 MHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "Max Transmission Distance (unobstructed, free of interference)",
+      "value": "FCC: 13 km, CE: 10 km, SRRC: 10 km, MIC: 10 km"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + Galileo + BeiDou\""
+      "name": "Max Download Speed",
+      "value": "Wi-Fi: 30 MB/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Hovering accuracy range\","
+      "name": "Max Video Bitrate",
+      "value": "60Mbps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Vertical:±0.1 m (with vision positioning), ±0.5 m (with GNSS positioning); Horizontal:±0.3 m (with vision positioning), ±1.5 m (with GNSS positioning)\""
+      "name": "Antennas",
+      "value": "4 antennas, 2T4R"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "Wi-Fi Protocol",
+      "value": "802.11a/b/g/n/ac"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C1 (EU)\""
+      "name": "Wi-Fi Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Sensor\","
+      "name": "Bluetooth Protocol",
+      "value": "Bluetooth 5.0"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1/1.3-inch image sensor, Effective Pixels: 12 MP\""
+      "name": "Bluetooth Operating Frequency",
+      "value": "2.400-2.4835 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\","
+      "name": "Bluetooth Transmitter Power (EIRP)",
+      "value": "<10 dBm"
     },
     {
-      "name": "\"value\"",
-      "value": "\"‌FOV: 155°\""
+      "name": "Battery Weight (Kg)",
+      "value": "0.145"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Format Equivalent\","
+      "name": "Standard Voltage",
+      "value": "14.76 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12 mm\""
+      "name": "Max Charging Voltage",
+      "value": "17 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Focus\","
+      "name": "Battery Type",
+      "value": "Li-ion"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.6 m to ∞\""
+      "name": "Energy",
+      "value": "31.7 Wh@0.5C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"ISO Range\","
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100-25600 (Auto), 100-25600 (Manual)\""
+      "name": "Charging Hub Input",
+      "value": "5-20 V, max 3 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "Charging Hub Output (power accumulation)",
+      "value": "Max 65 W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4000×2256 (16∶9), 4000×3000 (4∶3)\""
+      "name": "Charging Hub Output (charging)",
+      "value": "Max 17 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Still Photography Mode\","
+      "name": "Charging Hub Output (USB)",
+      "value": "5 V, 2 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Single shot\""
+      "name": "Charging Type",
+      "value": "Three batteries charged in sequence."
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "Charging Hub Compatibility",
+      "value": "DJI Avata 2 Intelligent Flight Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG\""
+      "name": "RC Max Operating Time",
+      "value": "Approx. 10 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "RC Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (H.264/H.265)\""
+      "name": "RC Charging Temperature",
+      "value": "0° to 50° C (32° to 122° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "RC Charging Time",
+      "value": "2 Hours"
     },
     {
-      "name": "\"value\"",
-      "value": "\"130 Mbps\""
+      "name": "RC Charging Type",
+      "value": "5 V, 2 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "RC Battery Capacity",
+      "value": "2600 mAh"
     },
     {
-      "name": "\"value\"",
-      "value": "\"exFAT\""
+      "name": "RC Weight (Kg)",
+      "value": "240"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Color Mode\","
+      "name": "RC Dimensions (WxDxH) (mm)",
+      "value": "165×119×62"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Standard, D-Log M\""
+      "name": "RC Operating Frequency",
+      "value": "2.400-2.4835 GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera FOV\","
+      "name": "RC Transmitter Power (EIRP)",
+      "value": "2.400 GHz: ＜26 dBm (FCC), ＜20 dBm (CE/SRRC/MIC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Supports normal mode, wide-angle mode, and ultra-wide-angle mode\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EIS\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supports RockSteady 3.0+ and HorizonSteady Can be disabled\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stabilization\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Single-axis mechanical gimbal (tilt)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Mechanical Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -95° to 90°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controllable Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tilt: -85° to 80°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"±0.01°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Electronic Roll Axis\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Real-time screen correction is unavailable during recording, but can be applied to the footage recorded on the drone.\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sensing Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Downward and backward visual positioning\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Downward\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ToF Effective Measurement Height: 10 m, Precise Hovering Range: 0.3-10 m, Measurement Range: 0.3-20 m, FOV: Horizontal 78°, Vertical 78°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Backward\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Measurement Range: 0.5-20 m, FOV: Horizontal 78°, Vertical 78°\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Environment\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Diffuse reflective surfaces with discernible patterns, diffuse reflectivity > 20% (such as concrete pavement), Adequate lighting (lux > 15, normal indoor lighting conditions)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"O4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1080p@30/50/60/100fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.170-5.250 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Communication Bandwidth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max 60 MHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Transmission Distance (unobstructed, free of interference)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"FCC: 13 km, CE: 10 km, SRRC: 10 km, MIC: 10 km\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Download Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Wi-Fi: 30 MB/s\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60Mbps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Antennas\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4 antennas, 2T4R\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11a/b/g/n/ac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Protocol\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth 5.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"<10 dBm\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.145\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Standard Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14.76 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31.7 Wh@0.5C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5-20 V, max 3 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Output (power accumulation)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max 65 W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Output (charging)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Max 17 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Output (USB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V, 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Three batteries charged in sequence.\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Hub Compatibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI Avata 2 Intelligent Flight Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 10 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0° to 50° C (32° to 122° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Charging Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V, 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Battery Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2600 mAh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Weight (Kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"240\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Dimensions (WxDxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"165×119×62\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"RC Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400 GHz: ＜26 dBm (FCC), ＜20 dBm (CE/SRRC/MIC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Guaranteed Software Updates Until\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2026/12/31\""
+      "name": "Guaranteed Software Updates Until",
+      "value": "2026/12/31"
     }
   ]
 },
@@ -23419,196 +12878,108 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Suitable For",
+      "value": "Outdoor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Outdoor\""
+      "name": "Control",
+      "value": "Remote"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Maximum Flight Time (mins)",
+      "value": "45"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote\""
+      "name": "Camera Still Resolution (MP)",
+      "value": "48"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"45\""
+      "name": "Wide Angle Lens",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Subject Tracking",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48\""
+      "name": "Slow Motion Recording",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Lens"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Aperture",
+      "value": "f/1.7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Wifi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wide Angle Lens\","
+      "name": "Live Streaming",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Battery (mAh)",
+      "value": "6200"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Subject Tracking\","
+      "name": "EAN Code",
+      "value": "06941565969040"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Slow Motion Recording\","
+      "name": "App Controller",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Camera Features",
+      "value": "Automatic Exposure Bracketing, 4K HD Video Recording"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"f/1.7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wifi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Live Streaming\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6200\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"06941565969040\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"App Controller\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Camera Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Automatic Exposure Bracketing, 4K HD Video Recording\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Control Range\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"20000 m\""
+      "name": "Maximum Control Range",
+      "value": "20000 m"
     }
   ]
 },
@@ -23626,700 +12997,386 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DJI"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Suitable For",
+      "value": "Indoor & Outdoor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Number of Rotors",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Suitable For\","
+      "name": "Control",
+      "value": "Remote control"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Indoor & Outdoor\""
+      "name": "Aircraft Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Rotors\","
+      "name": "Maximum Flight Time (mins)",
+      "value": "31"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Flight Stabilisation",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Remote control\""
+      "name": "Camera Still Resolution (MP)",
+      "value": "12"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aircraft Features\""
+      "name": "Integrated Camera",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Maximum Flight Time (mins)\","
+      "name": "Video Resolution",
+      "value": "4K"
     },
     {
-      "name": "\"value\"",
-      "value": "\"31\""
+      "name": "Gimbal",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Flight Stabilisation\","
+      "name": "Image Stabilisation",
+      "value": "3-Axis Mechanical Gimbal (Tilt, Roll, and Pan)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Lens"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Focal Length",
+      "value": "1 m to ∞"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera Still Resolution (MP)\","
+      "name": "Aperture",
+      "value": "f/2.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Camera\","
+      "name": "Memory Card",
+      "value": "microSD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Resolution\","
+      "name": "Battery (mAh)",
+      "value": "2250"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Rechargeable",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Gimbal\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "245"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Image Stabilisation\","
+      "name": "Depth (mm)",
+      "value": "289"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3-Axis Mechanical Gimbal (Tilt, Roll, and Pan)\""
+      "name": "Height (mm)",
+      "value": "56"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Lens\""
+      "name": "Weight (kg)",
+      "value": "0.246"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Focal Length\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1 m to ∞\""
+      "name": "EAN Code",
+      "value": "6941565980359"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Aperture\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"f/2.8\""
+      "name": "Max Flight Distance",
+      "value": "15.7 km"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Max Ascent Speed",
+      "value": "5 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card\","
+      "name": "Max Descent Speed",
+      "value": "3.5 m/s"
     },
     {
-      "name": "\"value\"",
-      "value": "\"microSD\""
+      "name": "Max Horizontal Speed (at sea level, no wind)",
+      "value": "16 m/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Max Takeoff Altitude",
+      "value": "4000 m"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery (mAh)\","
+      "name": "Max Flight Time",
+      "value": "31 Mins"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2250\""
+      "name": "Max Wind Speed Resistance",
+      "value": "10.7 m/s (Level 5)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rechargeable\","
+      "name": "Max Pitch Angle",
+      "value": "40°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Operating Temperature",
+      "value": "0° to 40° C (32° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Global Navigation Satellite System",
+      "value": "GPS + GLONASS + Galileo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Class",
+      "value": "C0 (EU)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"245\""
+      "name": "Shutter Speed",
+      "value": "Electronic Shutter: 4-1/8000 s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Max Image Size",
+      "value": "4000 × 3000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"289\""
+      "name": "Photo Format",
+      "value": "JPEG/DNG (RAW)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Video Format",
+      "value": "MP4 (MPEG-4 AVC/H.264)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"56\""
+      "name": "Max Video Bitrate",
+      "value": "100Mbps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Supported File System",
+      "value": "FAT32 (= 32 GB), exFAT (> 32 GB)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.246\""
+      "name": "Digital Zoom",
+      "value": "4K: 2x, 2.7K: 3x, FHD: 4x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Color Mode",
+      "value": "Normal"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "QuickShots Modes",
+      "value": "Dronie, Helix, Rocket, Circle, and Boomerang"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6941565980359\""
+      "name": "Max Control Speed (tilt)",
+      "value": "100°/s"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Operating Environment",
+      "value": "Downward: Surfaces with Discernible Patterns, Diffuse Reflectivity >20% (e.g., Walls, Trees, People), and Adequate Lighting (lux >15)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Distance\","
+      "name": "Angular Vibration Range",
+      "value": "±0.01°"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15.7 km\""
+      "name": "Downward",
+      "value": "Precise Hovering Range: 0.5-10 m"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Ascent Speed\","
+      "name": "Video Transmission System",
+      "value": "DJI O2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5 m/s\""
+      "name": "Live View Quality",
+      "value": "Remote Controller: 720p/30fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Descent Speed\","
+      "name": "Operating Frequency",
+      "value": "2.400-2.4835 GHz, 5.725-5.850 GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"3.5 m/s\""
+      "name": "Lowest Latency",
+      "value": "Approx. 200 ms"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Horizontal Speed (at sea level, no wind)\","
+      "name": "Battery Weight (g)",
+      "value": "82.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16 m/s\""
+      "name": "Nominal Voltage",
+      "value": "7.7 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Takeoff Altitude\","
+      "name": "Max Charging Voltage",
+      "value": "8.8 V"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4000 m\""
+      "name": "Battery Type",
+      "value": "Li-ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Flight Time\","
+      "name": "Energy",
+      "value": "17.32 Wh"
     },
     {
-      "name": "\"value\"",
-      "value": "\"31 Mins\""
+      "name": "Charging Temperature",
+      "value": "5° to 40° C (41° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Wind Speed Resistance\","
+      "name": "Battery Charging Hub Input",
+      "value": "5 V 3 A, 9 V 3 A, 12 V 3 A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10.7 m/s (Level 5)\""
+      "name": "Battery Charging Hub Output",
+      "value": "USB-A: Max Voltage: 5 V; Max Current: 2 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Pitch Angle\","
+      "name": "Charging Type",
+      "value": "Three batteries charged in sequence"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40°\""
+      "name": "Recommended microSD Cards 16 GB",
+      "value": "SanDisk Extreme"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
+      "name": "Recommended microSD Cards 32 GB",
+      "value": "Samsung PRO Endurance"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0° to 40° C (32° to 104° F)\""
+      "name": "Samsung EVO Plus"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Global Navigation Satellite System\","
+      "name": "SanDisk Industrial"
     },
     {
-      "name": "\"value\"",
-      "value": "\"GPS + GLONASS + Galileo\""
+      "name": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Class\","
+      "name": "SanDisk Extreme Pro V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C0 (EU)\""
+      "name": "SanDisk Extreme Pro V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Shutter Speed\","
+      "name": "Lexar 633x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Electronic Shutter: 4-1/8000 s\""
+      "name": "Lexar 667x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Image Size\","
+      "name": "Recommended microSD Cards 64 GB",
+      "value": "Samsung PRO Endurance"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4000 × 3000\""
+      "name": "Samsung EVO Plus"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Photo Format\","
+      "name": "SanDisk Extreme V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"JPEG/DNG (RAW)\""
+      "name": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Format\","
+      "name": "Lexar 633x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MP4 (MPEG-4 AVC/H.264)\""
+      "name": "Lexar 667x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Video Bitrate\","
+      "name": "Lexar 1000x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100Mbps\""
+      "name": "Lexar High Endurance"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Supported File System\","
+      "name": "Toshiba EXCERIA M303 V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"FAT32 (= 32 GB), exFAT (> 32 GB)\""
+      "name": "Netac Pro V30 A1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Zoom\","
+      "name": "Recommended microSD Cards 128 GB",
+      "value": "Samsung EVO Plus"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K: 2x, 2.7K: 3x, FHD: 4x\""
+      "name": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Color Mode\","
+      "name": "SanDisk Extreme Plus V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Normal\""
+      "name": "SanDisk Extreme Plus V30 A2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"QuickShots Modes\","
+      "name": "Lexar 633x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Dronie, Helix, Rocket, Circle, and Boomerang\""
+      "name": "Lexar 667x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Max Control Speed (tilt)\","
+      "name": "Lexar 1000x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"100°/s\""
+      "name": "Lexar High Endurance"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating Environment\","
+      "name": "Toshiba EXCERIA M303 V30 A1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Downward: Surfaces with Discernible Patterns, Diffuse Reflectivity >20% (e.g., Walls, Trees, People), and Adequate Lighting (lux >15)\""
+      "name": "Netac Pro V30 A1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Angular Vibration Range\","
+      "name": "Recommended microSD Cards 256GB",
+      "value": "SanDisk Extreme V30 A2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"±0.01°\""
+      "name": "Remote Controller Max Operating Time",
+      "value": "DJI RC-N1C - Without Charging Any Mobile Device: 4 hours, When Charging a Mobile Device: 2 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Downward\","
+      "name": "Max Supported Mobile Device Size (WxDxH) (mm)",
+      "value": "180 × 86 × 10"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Precise Hovering Range: 0.5-10 m\""
+      "name": "Operating Temperature",
+      "value": "-10° to 40° C (14° to 104° F)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Transmission System\","
+      "name": "Transmitter Power (EIRP)",
+      "value": "2.400-2.4835 GHz: <26 dBm (FCC), <20 dBm (CE/SRRC/MIC)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DJI O2\""
+      "name": "5.725-5.850 GHz",
+      "value": "<26 dBm (FCC), <23 dBm (SRRC), <14 dBm (CE)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Live View Quality\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Remote Controller: 720p/30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz, 5.725-5.850 GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lowest Latency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Approx. 200 ms\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Weight (g)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"82.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Nominal Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.7 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Charging Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.8 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Li-ion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.32 Wh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5° to 40° C (41° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Input\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 V 3 A, 9 V 3 A, 12 V 3 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Charging Hub Output\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB-A: Max Voltage: 5 V; Max Current: 2 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Three batteries charged in sequence\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 16 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SanDisk Extreme\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 32 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Samsung PRO Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Samsung EVO Plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Industrial\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Pro V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Pro V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 633x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 667x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 64 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Samsung PRO Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Samsung EVO Plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 633x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 667x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 1000x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar High Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Toshiba EXCERIA M303 V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Netac Pro V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 128 GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Samsung EVO Plus\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Plus V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SanDisk Extreme Plus V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 633x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 667x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar 1000x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lexar High Endurance\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Toshiba EXCERIA M303 V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Netac Pro V30 A1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended microSD Cards 256GB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SanDisk Extreme V30 A2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Remote Controller Max Operating Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"DJI RC-N1C - Without Charging Any Mobile Device: 4 hours, When Charging a Mobile Device: 2 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Supported Mobile Device Size (WxDxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"180 × 86 × 10\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"-10° to 40° C (14° to 104° F)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Transmitter Power (EIRP)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.400-2.4835 GHz: <26 dBm (FCC), <20 dBm (CE/SRRC/MIC)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"5.725-5.850 GHz\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"<26 dBm (FCC), <23 dBm (SRRC), <14 dBm (CE)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions Folded (without propellers) (mm) (W×D×H)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"138 x 81 x 58\""
+      "name": "Dimensions Folded (without propellers) (mm) (W×D×H)",
+      "value": "138 x 81 x 58"
     }
   ]
 },
@@ -24337,204 +13394,112 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Sage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Sage\""
+      "name": "Colour",
+      "value": "Black Truffle"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black Truffle\""
+      "name": "Machine Type",
+      "value": "Pump"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Water Tank Capacity (l)",
+      "value": "1.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Carafe Capacity",
+      "value": "0.48L"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Pump\""
+      "name": "Carafe Type",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Control Type",
+      "value": "Buttons"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Coffee Type",
+      "value": "Coffee, Milk froth"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.9\""
+      "name": "Power",
+      "value": "1600 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Capacity\","
+      "name": "Voltage (v)",
+      "value": "240"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.48L\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Type\","
+      "name": "Water Level Indicator",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Buttons\""
+      "name": "Features",
+      "value": "Micro foam milk texturing, 3 second heat up time, Low pressure pre-infusion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Cord Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Coffee, Milk froth\""
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Width (mm)",
+      "value": "310.0000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1600 W\""
+      "name": "Depth (mm)",
+      "value": "320.0000"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "Height (mm)",
+      "value": "310.0000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"240\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "EAN Code",
+      "value": "9312432031882"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Level Indicator\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Micro foam milk texturing, 3 second heat up time, Low pressure pre-infusion\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Corded\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"310.0000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"320.0000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"310.0000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9312432031882\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Warranty",
+      "value": "2 Years"
     }
   ]
 },
@@ -24552,248 +13517,133 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Sage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Sage\""
+      "name": "Colour",
+      "value": "Brushed Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Brushed Stainless Steel\""
+      "name": "Machine Type",
+      "value": "Bean to Cup"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Coffee Type",
+      "value": "Cappuccino, Coffee, Espresso, Latte, Long black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Water Tank Capacity (l)",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bean to Cup\""
+      "name": "Carafe Capacity",
+      "value": "0.45L"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Carafe Type",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Control Type",
+      "value": "Knob & Button"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cappuccino, Coffee, Espresso, Latte, Long black\""
+      "name": "Width (mm)",
+      "value": "325"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Depth (mm)",
+      "value": "310"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Height (mm)",
+      "value": "400"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Capacity\","
+      "name": "Weight (kg)",
+      "value": "10.6000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.45L\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Type\","
+      "name": "Power",
+      "value": "1850W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Voltage (v)",
+      "value": "240"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Knob & Button\""
+      "name": "Features",
+      "value": "Gradually increases water pressure, Automatically adjusts water temperatures, Single or double shots"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Cord Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Cord Length (mm)",
+      "value": "900"
     },
     {
-      "name": "\"value\"",
-      "value": "\"325\""
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"310\""
+      "name": "Auto Shut off",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Bar Pressure",
+      "value": "9"
     },
     {
-      "name": "\"value\"",
-      "value": "\"400\""
+      "name": "Removable Reservoir",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Integrated Grinder",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10.6000\""
+      "name": "Adjustable Cup Position",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Removable Drip Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1850W\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"240\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Gradually increases water pressure, Automatically adjusts water temperatures, Single or double shots\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"900\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Corded\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Functions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Auto Shut off\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bar Pressure\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Reservoir\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Integrated Grinder\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Adjustable Cup Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Drip Tray\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Warranty",
+      "value": "2 Years"
     }
   ]
 },
@@ -24811,340 +13661,180 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DeLonghi"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DeLonghi\""
+      "name": "Colour",
+      "value": "Titanium"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Metal, Plastic"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Titanium\""
+      "name": "Machine Type",
+      "value": "Bean to Cup"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Metal, Plastic\""
+      "name": "Coffee Type",
+      "value": "Cappuccino, Coffee, Hot Water, Brew, Americano"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Water Tank Capacity (l)",
+      "value": "1.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bean to Cup\""
+      "name": "Carafe Type",
+      "value": "Glass"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Control Type",
+      "value": "Touch"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cappuccino, Coffee, Hot Water, Brew, Americano\""
+      "name": "Power",
+      "value": "1450"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Voltage (v)",
+      "value": "220-240"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.8\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Type\","
+      "name": "Bar Pressure",
+      "value": "19"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Glass\""
+      "name": "Adjustable Cup Position",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Removable Drip Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Touch\""
+      "name": "Features",
+      "value": "Cold Brew Technology"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Cord Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1450\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "Width (mm)",
+      "value": "260"
     },
     {
-      "name": "\"value\"",
-      "value": "\"220-240\""
+      "name": "Depth (mm)",
+      "value": "450"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Height (mm)",
+      "value": "385"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bar Pressure\","
+      "name": "Weight (kg)",
+      "value": "11.3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"19\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Cup Position\","
+      "name": "EAN Code",
+      "value": "8004399026186"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Drip Tray\","
+      "name": "Beans Container Capacity (g)",
+      "value": "300"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Grounds Container Capacity (n)",
+      "value": "14"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
+      "name": "Energy Class",
+      "value": "A"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Frequency (Hz)",
+      "value": "50-60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\""
+      "name": "Finishing",
+      "value": "Painted Plastic with Metal Parts"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\","
+      "name": "Display",
+      "value": "3.5\" TFT Colour"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cold Brew Technology\""
+      "name": "Milk System",
+      "value": "LatteCrema Hot Technology, LatteCrema Cool Technology"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
+      "name": "Cup Holder",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Corded\","
+      "name": "Twin Shot",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Bean Adapt Technology",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Liftable Drip Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Cold Extraction Technology",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"260\""
+      "name": "Possibility to Use Water Filter",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Programmable Water Hardness",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"450\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"385\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"11.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8004399026186\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Beans Container Capacity (g)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"300\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Grounds Container Capacity (n)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"14\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50-60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Finishing\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Painted Plastic with Metal Parts\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3.5\\\" TFT Colour\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Milk System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LatteCrema Hot Technology, LatteCrema Cool Technology\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cup Holder\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Twin Shot\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bean Adapt Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Liftable Drip Tray\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cold Extraction Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Possibility to Use Water Filter\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Programmable Water Hardness\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Possibility to Use Pre-ground Coffee\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Possibility to Use Pre-ground Coffee",
+      "value": "Yes"
     }
   ]
 },
@@ -25162,260 +13852,140 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Sage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Sage\""
+      "name": "Colour",
+      "value": "Black Truffle"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black Truffle\""
+      "name": "Machine Type",
+      "value": "Bean to Cup"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Coffee Type",
+      "value": "Cappuccino, Coffee, Espresso, Latte, Long black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Water Tank Capacity (l)",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bean to Cup\""
+      "name": "Carafe Capacity",
+      "value": "0.45L"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Carafe Type",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Control Type",
+      "value": "Knob & Button"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cappuccino, Coffee, Espresso, Latte, Long black\""
+      "name": "Power",
+      "value": "1850W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Voltage (v)",
+      "value": "240"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Capacity\","
+      "name": "Auto Shut off",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.45L\""
+      "name": "Bar Pressure",
+      "value": "9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Type\","
+      "name": "Removable Reservoir",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Integrated Grinder",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Adjustable Cup Position",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Knob & Button\""
+      "name": "Removable Drip Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1850W\""
+      "name": "Features",
+      "value": "Gradually increases water pressure, Automatically adjusts water temperatures, Single or double shots"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "Cord Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"240\""
+      "name": "Cord Length (mm)",
+      "value": "900"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Shut off\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "325"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bar Pressure\","
+      "name": "Depth (mm)",
+      "value": "310"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9\""
+      "name": "Height (mm)",
+      "value": "400"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Reservoir\","
+      "name": "Weight (kg)",
+      "value": "10.6000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Grinder\","
+      "name": "EAN Code",
+      "value": "9312432032056"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Cup Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Drip Tray\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Gradually increases water pressure, Automatically adjusts water temperatures, Single or double shots\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"900\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Corded\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"325\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"310\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"400\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10.6000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9312432032056\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Warranty",
+      "value": "2 Years"
     }
   ]
 },
@@ -25433,188 +14003,102 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Coffee Type",
+      "value": "Cappuccino, Espresso, Milk froth"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cappuccino, Espresso, Milk froth\""
+      "name": "Brand",
+      "value": "DeLonghi"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DeLonghi\""
+      "name": "Material",
+      "value": "Plastic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Machine Type",
+      "value": "Pump"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Water Tank Capacity (l)",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Plastic\""
+      "name": "Control Type",
+      "value": "Knob & Button"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Pump\""
+      "name": "Features",
+      "value": "Stainless steal boiler heating system, Cappuccino milk system, Removable 1L water tank, Two tiered drip tray"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Cord Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1\""
+      "name": "Auto Shut off",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Bar Pressure",
+      "value": "15"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Knob & Button\""
+      "name": "Water Level Indicator",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\""
+      "name": "Removable Reservoir",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Features\","
+      "name": "Removable Drip Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless steal boiler heating system, Cappuccino milk system, Removable 1L water tank, Two tiered drip tray\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
+      "name": "Width (mm)",
+      "value": "205"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Corded\","
+      "name": "Depth (mm)",
+      "value": "343"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "285"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Weight (kg)",
+      "value": "4.3000"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Shut off\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bar Pressure\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"15\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Level Indicator\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Reservoir\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Drip Tray\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"205\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"343\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"285\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4.3000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Warranty",
+      "value": "2 Years"
     }
   ]
 },
@@ -25632,220 +14116,120 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Sage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Sage\""
+      "name": "Colour",
+      "value": "Brushed Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Brushed Stainless Steel\""
+      "name": "Machine Type",
+      "value": "Bean to Cup"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Water Tank Capacity (l)",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Carafe Capacity",
+      "value": "0.48L"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bean to Cup\""
+      "name": "Carafe Type",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Digital Display",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Control Type",
+      "value": "Touch"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Coffee Type",
+      "value": "Coffee, Espresso"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Power"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Capacity\","
+      "name": "Power",
+      "value": "1680W"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.48L\""
+      "name": "Voltage (v)",
+      "value": "240"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Type\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Integrated Grinder",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Digital Display\","
+      "name": "Adjustable Cup Position",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Touch\""
+      "name": "Features",
+      "value": "Automatic cleaning function, Gradually increases water pressure"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Cord Features"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Coffee, Espresso\""
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Width (mm)",
+      "value": "322"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1680W\""
+      "name": "Depth (mm)",
+      "value": "394"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "Height (mm)",
+      "value": "407"
     },
     {
-      "name": "\"value\"",
-      "value": "\"240\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "EAN Code",
+      "value": "9312432028943"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Grinder\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Adjustable Cup Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Automatic cleaning function, Gradually increases water pressure\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Corded\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"322\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"394\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"407\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9312432028943\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Warranty",
+      "value": "2 Years"
     }
   ]
 },
@@ -25863,204 +14247,112 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Ninja"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Ninja\""
+      "name": "Colour",
+      "value": "Black & Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Machine Type",
+      "value": "Bean to Cup"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black & Stainless Steel\""
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Coffee Type",
+      "value": "9 Espresso Styles, 4 Coffee Styles, 7 Drink Sizes & 5 Froth Presets"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Bean to Cup\""
+      "name": "Water Tank Capacity (l)",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Power",
+      "value": "1650"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Functions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"9 Espresso Styles, 4 Coffee Styles, 7 Drink Sizes & 5 Froth Presets\""
+      "name": "Integrated Grinder",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Adjustable Cup Position",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Cord Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Corded",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1650\""
+      "name": "Cord Length (mm)",
+      "value": "1100"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Integrated Grinder\","
+      "name": "Width (mm)",
+      "value": "337"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "355"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Cup Position\","
+      "name": "Height (mm)",
+      "value": "377"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "17.25"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "622356289818"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Corded\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Cord Length (mm)\","
+      "name": "Hot Water Temp",
+      "value": "60°C, 80°C, 95°C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1100\""
+      "name": "Bean Hopper (kg)",
+      "value": "0.250"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"337\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"355\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"377\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"17.25\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"622356289818\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hot Water Temp\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60°C, 80°C, 95°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bean Hopper (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.250\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Froth Function\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Manual & Automatic\""
+      "name": "Froth Function",
+      "value": "Manual & Automatic"
     }
   ]
 },
@@ -26078,172 +14370,94 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DeLonghi"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DeLonghi\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Machine Type",
+      "value": "Pod"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Water Tank Capacity (l)",
+      "value": "0.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Pod\""
+      "name": "Coffee Type",
+      "value": "Hot & Cold Espresso"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Power",
+      "value": "1340-1600 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Voltage (v)",
+      "value": "230"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.8\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Bar Pressure",
+      "value": "15"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hot & Cold Espresso\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Width (mm)",
+      "value": "140"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Depth (mm)",
+      "value": "270"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1340-1600 W\""
+      "name": "Height (mm)",
+      "value": "280"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "Weight (kg)",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"230\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bar Pressure\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"15\""
+      "name": "Frequency",
+      "value": "50/60 Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Energy Saving Function",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Multi-beverage",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"140\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"270\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"280\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50/60 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Saving Function\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Multi-beverage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Manual\""
+      "name": "Technology",
+      "value": "Manual"
     }
   ]
 },
@@ -26261,212 +14475,114 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DeLonghi"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DeLonghi\""
+      "name": "Colour",
+      "value": "Grey"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Plastic with Metal Details"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Grey\""
+      "name": "Machine Type",
+      "value": "Pod"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Plastic with Metal Details\""
+      "name": "Coffee Type",
+      "value": "Espresso, Double Espresso, Alto, Mug/Coffee, Gran Lungo, Pour Over Coffee Style"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Water Tank Capacity (l)",
+      "value": "1.1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Pod\""
+      "name": "Control Type",
+      "value": "Buttons"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Power",
+      "value": "1260 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Voltage (v)",
+      "value": "220 - 240"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Espresso, Double Espresso, Alto, Mug/Coffee, Gran Lungo, Pour Over Coffee Style\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Auto Shut off",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.1\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Width (mm)",
+      "value": "142"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Buttons\""
+      "name": "Depth (mm)",
+      "value": "429"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Height (mm)",
+      "value": "319"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Weight (kg)",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1260 W\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "EAN Code",
+      "value": "8004399034327"
     },
     {
-      "name": "\"value\"",
-      "value": "\"220 - 240\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Frequency",
+      "value": "50-60 Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Shut off\","
+      "name": "Pump Pressure",
+      "value": "Centrifusion Technology"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Used Capsule Container",
+      "value": "6 up to 10"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Flow Stop",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Descaling Alert",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"142\""
+      "name": "Eco-Mode",
+      "value": "Power Off After 2 Min"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"429\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"319\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8004399034327\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50-60 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Pump Pressure\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Centrifusion Technology\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Used Capsule Container\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6 up to 10\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Flow Stop\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Descaling Alert\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Eco-Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Power Off After 2 Min\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Heat-Up Time\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"30 sec\""
+      "name": "Heat-Up Time",
+      "value": "30 sec"
     }
   ]
 },
@@ -26484,244 +14600,130 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "DeLonghi"
     },
     {
-      "name": "\"value\"",
-      "value": "\"DeLonghi\""
+      "name": "Colour",
+      "value": "Silver"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Material",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Silver\""
+      "name": "Machine Type",
+      "value": "Pump"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Material\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Coffee Type",
+      "value": "Cappuccino, Latte, Milk froth"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Machine Type\","
+      "name": "Water Tank Capacity (l)",
+      "value": "1.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Pump\""
+      "name": "Control Type",
+      "value": "Buttons x 3 Single Espresso, Double Espresso & Steam"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
+      "name": "Carafe Capacity",
+      "value": "350 ml"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Carafe Type",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Coffee Type\","
+      "name": "Power"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Cappuccino, Latte, Milk froth\""
+      "name": "Power",
+      "value": "1350 W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Tank Capacity (l)\","
+      "name": "Voltage (v)",
+      "value": "220 - 240"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1.6\""
+      "name": "Functions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Control Type\","
+      "name": "Removable Reservoir",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Buttons x 3 Single Espresso, Double Espresso & Steam\""
+      "name": "Milk Frother",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Capacity\","
+      "name": "Auto Shut off",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"350 ml\""
+      "name": "Bar Pressure",
+      "value": "15"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Carafe Type\","
+      "name": "Water Level Indicator",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Removable Drip Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\""
+      "name": "Cord Features"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Power\","
+      "name": "Cord Length (mm)",
+      "value": "1000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1350 W\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Voltage (v)\","
+      "name": "Width (mm)",
+      "value": "149"
     },
     {
-      "name": "\"value\"",
-      "value": "\"220 - 240\""
+      "name": "Depth (mm)",
+      "value": "330"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Functions\""
+      "name": "Height (mm)",
+      "value": "305"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Removable Reservoir\","
+      "name": "Weight (kg)",
+      "value": "4"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information",
+      "value": "8004399020139"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Milk Frother\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "8004399020139"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Auto Shut off\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bar Pressure\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"15\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Water Level Indicator\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Removable Drip Tray\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Features\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cord Length (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"149\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"330\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"305\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8004399020139\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8004399020139\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Variable Cup Size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Up to 130mm for Mugs\""
+      "name": "Variable Cup Size",
+      "value": "Up to 130mm for Mugs"
     }
   ]
 },
@@ -26739,436 +14741,232 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Xiaomi"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Xiaomi\""
+      "name": "Colour",
+      "value": "Midnight Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "Redmi 15C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Midnight Black\""
+      "name": "Sensor",
+      "value": "Virtual proximity sensor, Ambient light sensor, Accelerometer, Electronic compass"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Redmi 15C\""
+      "name": "3G/4G/5G",
+      "value": "4G"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "Water Resistent",
+      "value": "Water & Dust Proof (IP64 rating)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Virtual proximity sensor, Ambient light sensor, Accelerometer, Electronic compass\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Screen Size",
+      "value": "6.9\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Screen Resolution",
+      "value": "1600 x 720"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4G\""
+      "name": "Front Facing (MP)",
+      "value": "8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water & Dust Proof (IP64 rating)\""
+      "name": "Video Capture Quality",
+      "value": "1080p"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Processor Model",
+      "value": "MediaTek"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.9\\\"\""
+      "name": "Processor Speed (GHz)",
+      "value": "2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Chipset",
+      "value": "MediaTek Helio G81-Ultra"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1600 x 720\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Battery Life (hrs)",
+      "value": "Up to 22"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "RAM (GB)",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Internal Memory (GB)",
+      "value": "128"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50\""
+      "name": "Memory Card Slots",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Compatible Memory Cards",
+      "value": "SD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1080p\""
+      "name": "External Memory (GB)",
+      "value": "1TB"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "Operating System",
+      "value": "Android"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MediaTek\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Speed (GHz)\","
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.0\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"MediaTek Helio G81-Ultra\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Headphone Jack",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (hrs)\","
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Up to 22\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "Width (mm)",
+      "value": "79.47"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Depth (mm)",
+      "value": "7.99"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Height (mm)",
+      "value": "171.56"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Weight (kg)",
+      "value": "0.205"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Memory Card Slots\","
+      "name": "EAN Code",
+      "value": "6932554444860"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Compatible Memory Cards\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"SD\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"External Memory (GB)\","
+      "name": "CPU",
+      "value": "Cortex-A75+Cortex-A55Max CPU frequency: 2.0GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1TB\""
+      "name": "GPU",
+      "value": "Mali-G52 MC2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "Processor",
+      "value": "Octa-core"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Storage & RAM Type",
+      "value": "eMMC 5.1 + LPDDR4X"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android\""
+      "name": "Refresh Rate",
+      "value": "Up to 120Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Brightness",
+      "value": "660 nits (typ), 810 nits HBM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
+      "name": "Battery",
+      "value": "6000mAh (typ)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Charging",
+      "value": "33W Fast Charging, USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Security",
+      "value": "Side Fingerprint Sensor, AI Face Unlock"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Navigation & Positioning",
+      "value": "GPS, Glonass, Galileo, Beidou"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Audio",
+      "value": "3.5mm Headphone Jack"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Audio playback",
+      "value": "aac, m4a, mp4, 3gp, ts, amr, awb, mid, midi, smf, rttf, xmf, rtx, ota, imy, mp3, ogg, oga, wav, flac, mkv(opus)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "Video playback",
+      "value": "ts, mp4, 3gp, mkv, webm, MPEG2, H.263, MPEG4, H.264, H.265, VP8, VP9, VC1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Headphone Jack\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"79.47\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.99\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"171.56\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.205\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6932554444860\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CPU\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Cortex-A75+Cortex-A55Max CPU frequency: 2.0GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"GPU\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Mali-G52 MC2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Processor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Octa-core\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Storage & RAM Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"eMMC 5.1 + LPDDR4X\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Refresh Rate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Up to 120Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Brightness\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"660 nits (typ), 810 nits HBM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6000mAh (typ)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"33W Fast Charging, USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Side Fingerprint Sensor, AI Face Unlock\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Navigation & Positioning\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GPS, Glonass, Galileo, Beidou\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3.5mm Headphone Jack\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio playback\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"aac, m4a, mp4, 3gp, ts, amr, awb, mid, midi, smf, rttf, xmf, rtx, ota, imy, mp3, ogg, oga, wav, flac, mkv(opus)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video playback\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ts, mp4, 3gp, mkv, webm, MPEG2, H.263, MPEG4, H.264, H.265, VP8, VP9, VC1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"User Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Xiaomi HyperOS 2\""
+      "name": "User Interface",
+      "value": "Xiaomi HyperOS 2"
     }
   ]
 },
@@ -27186,580 +14984,304 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Honor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Honor\""
+      "name": "Colour",
+      "value": "Desert Gold"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "400"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Desert Gold\""
+      "name": "Sensor",
+      "value": "Gravity Sensor, Fingerprint Sensor, Compass, Acceleration Sensor, Ambient Light Sensor, Proximity Sensor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"400\""
+      "name": "Sim Type",
+      "value": "Nano + Nano"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Gravity Sensor, Fingerprint Sensor, Compass, Acceleration Sensor, Ambient Light Sensor, Proximity Sensor\""
+      "name": "Water Resistent",
+      "value": "Water & Dust Proof (IP65 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "TFT LCD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.77\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nano + Nano\""
+      "name": "Screen Resolution",
+      "value": "1610 x 720"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "50 + 2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water & Dust Proof (IP65 rating)\""
+      "name": "Video Capture Quality",
+      "value": "1080p"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor Model",
+      "value": "Qualcomm Snapdragon"
     },
     {
-      "name": "\"value\"",
-      "value": "\"TFT LCD\""
+      "name": "Processor Speed (GHz)",
+      "value": "2.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Chipset",
+      "value": "Qualcomm Snapdragon 6s Gen 3"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.77\\\"\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Battery Type",
+      "value": "Lithium-ion Polymer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1610 x 720\""
+      "name": "Storage"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "RAM (GB)",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Internal Memory (GB)",
+      "value": "128"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Operating System",
+      "value": "Android"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50 + 2\""
+      "name": "Operating System Version",
+      "value": "Android 15"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1080p\""
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Qualcomm Snapdragon\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Speed (GHz)\","
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.3\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "Width (mm)",
+      "value": "76.8"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Qualcomm Snapdragon 6s Gen 3\""
+      "name": "Depth (mm)",
+      "value": "8.24"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Height (mm)",
+      "value": "166.89"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Weight (kg)",
+      "value": "0.206"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium-ion Polymer\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "EAN Code",
+      "value": "6936520876341"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "Eye Comfort Technology",
+      "value": "Eye Comfort/Dynamic Dimming"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "Color",
+      "value": "16.7 million colors, 85%NTSC"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Brightness",
+      "value": "850nit(HBM)/700nit(Typical)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android\""
+      "name": "CPU Type",
+      "value": "Octa-core"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System Version\","
+      "name": "CPU Dominant Frequency",
+      "value": "2xA78@2.3GHz, 6xA55@2.0GHz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android 15\""
+      "name": "GPU",
+      "value": "Qualcomm Adreno GPU A619"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "User Interface",
+      "value": "Magic OS 9.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
+      "name": "Zoom Mode",
+      "value": "8X Digital Zoom"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Image Resolution",
+      "value": "8160x6120"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Rear Flashlight",
+      "value": "Rear single LED flash"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rear Camera - Capture Mode",
+      "value": "Portrait(including beauty mode and bokeh), Time-lapse, Night, Video, Slow-Mo, High-Res, Panorama, PRO, Photo"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Rear Camera",
+      "value": "50MP Main Camera(f/1.8)+2MP Depth Camera(f/2.4)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Front Camera",
+      "value": "5 MP Camera (f/2.2 aperture)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "Front Camera - Video Shooting",
+      "value": "1080P 30fps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Front Camera - Image Resolution",
+      "value": "2592X1944"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
+      "name": "Focus Mode",
+      "value": "Portrait(including beauty mode and bokeh), Photo, Video"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Face Recognition",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Front Camera - Video Resolution",
+      "value": "1920x1080"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Capacity",
+      "value": "6350mAh (rated value), 6500 mAh (typical value)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"76.8\""
+      "name": "Wired Charging",
+      "value": "Supported 35W"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Standard Charger",
+      "value": "35W HONOR SuperCharge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8.24\""
+      "name": "Network Standard",
+      "value": "GSM/WCDMA/4G(LTE FDD)/4G(LTE TDD)/5G(NR)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "WLAN",
+      "value": "802.11 a/b/g/n/ac, supports 2.4GHz and 5GHz WLAN, supports WLAN hotspot and WLAN direct connection."
     },
     {
-      "name": "\"value\"",
-      "value": "\"166.89\""
+      "name": "Bluetooth",
+      "value": "Supported BLE, SBC, AAC, LDAC, aptX, aptX HD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "PC Data Sync",
+      "value": "Computer need install HonorSuite"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.206\""
+      "name": "OTG",
+      "value": "The maximum output current is 1.5A/5V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "USB",
+      "value": "Type-C, USB 2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Earjack",
+      "value": "Type C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6936520876341\""
+      "name": "Positioning",
+      "value": "Supports BeiDou(B1I+B1C), GPS (L1), GLONASS (G1), Galileo(E1), A-GNSSsupports cellular network positioning and WLAN network positioning"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Video",
+      "value": "*.3gp, *.mp4, *.webm, *.mkv"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
+      "name": "Audio",
+      "value": "*.mp3, *.amr, *.awb, *.3gp, *.mp4, *.m4a, *.aac, *.wav, *.ogg, *.flac, *.mkv"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Sound Effect",
+      "value": "HONOR Sound 7.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Eye Comfort Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Eye Comfort/Dynamic Dimming\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16.7 million colors, 85%NTSC\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Brightness\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"850nit(HBM)/700nit(Typical)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CPU Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Octa-core\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CPU Dominant Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2xA78@2.3GHz, 6xA55@2.0GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"GPU\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Qualcomm Adreno GPU A619\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"User Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Magic OS 9.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Zoom Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8X Digital Zoom\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Image Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8160x6120\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Flashlight\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Rear single LED flash\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - Capture Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Portrait(including beauty mode and bokeh), Time-lapse, Night, Video, Slow-Mo, High-Res, Panorama, PRO, Photo\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50MP Main Camera(f/1.8)+2MP Depth Camera(f/2.4)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5 MP Camera (f/2.2 aperture)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - Video Shooting\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1080P 30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - Image Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2592X1944\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Focus Mode\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Portrait(including beauty mode and bokeh), Photo, Video\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Face Recognition\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - Video Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1920x1080\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Capacity\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6350mAh (rated value), 6500 mAh (typical value)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wired Charging\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supported 35W\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Standard Charger\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"35W HONOR SuperCharge\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Network Standard\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GSM/WCDMA/4G(LTE FDD)/4G(LTE TDD)/5G(NR)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"WLAN\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11 a/b/g/n/ac, supports 2.4GHz and 5GHz WLAN, supports WLAN hotspot and WLAN direct connection.\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supported BLE, SBC, AAC, LDAC, aptX, aptX HD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"PC Data Sync\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Computer need install HonorSuite\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"OTG\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"The maximum output current is 1.5A/5V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Type-C, USB 2.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Earjack\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Type C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Positioning\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Supports BeiDou(B1I+B1C), GPS (L1), GLONASS (G1), Galileo(E1), A-GNSSsupports cellular network positioning and WLAN network positioning\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"*.3gp, *.mp4, *.webm, *.mkv\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"*.mp3, *.amr, *.awb, *.3gp, *.mp4, *.m4a, *.aac, *.wav, *.ogg, *.flac, *.mkv\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Sound Effect\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"HONOR Sound 7.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stereo\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Stereo",
+      "value": "Yes"
     }
   ]
 },
@@ -27777,404 +15299,216 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "iPhone 17"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Sensor",
+      "value": "Face ID, Barometer, High Dynamic Range Gyro, High-g Accelerometer, Proximity Sensor, Dual Ambient Light Sensors"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iPhone 17\""
+      "name": "Sim Type",
+      "value": "eSIM + eSIM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Face ID, Barometer, High Dynamic Range Gyro, High-g Accelerometer, Proximity Sensor, Dual Ambient Light Sensors\""
+      "name": "Water Resistent",
+      "value": "Water & Dust Proof (IP68 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "Super Retina"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.3\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"eSIM + eSIM\""
+      "name": "Screen Resolution",
+      "value": "2622 x 1206"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "18MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "48MP + 48MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water & Dust Proof (IP68 rating)\""
+      "name": "Video Capture Quality",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Chipset",
+      "value": "A19"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Super Retina\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Battery Life (hrs)",
+      "value": "Up to 30"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.3\\\"\""
+      "name": "Battery Type",
+      "value": "Lithium‑ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2622 x 1206\""
+      "name": "Internal Memory (GB)",
+      "value": "256"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System",
+      "value": "iOS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18MP\""
+      "name": "Operating System Version",
+      "value": "iOS 26"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48MP + 48MP\""
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A19\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Width (mm)",
+      "value": "71.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (hrs)\","
+      "name": "Depth (mm)",
+      "value": "7.95"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Up to 30\""
+      "name": "Height (mm)",
+      "value": "149.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Weight (kg)",
+      "value": "0.177"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium‑ion\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "EAN Code",
+      "value": "0195950643510"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Design",
+      "value": "Aluminium design, Ceramic Shield 2 front, Colour‑infused glass back (Black, Mist Blue, Sage, Lavender)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iOS\""
+      "name": "Splash, Water and Dust Resistant",
+      "value": "Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System Version\","
+      "name": "Chip Type",
+      "value": "A19 chip 6‑core CPU with 2 performance and 4 efficiency cores, 5‑core GPU with Neural Accelerators, 16‑core Neural Engine, Hardware-accelerated ray tracing"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iOS 26\""
+      "name": "Face ID",
+      "value": "Enabled by True­Depth technology in the Center Stage front camera"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Peace of Mind",
+      "value": "Emergency SOS via satellite, Crash Detection"
     },
     {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
+      "name": "Location",
+      "value": "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC), Digital compass, Wi‑Fi, Mobile data, iBeacon micro-location"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Action Button Features",
+      "value": "Silent mode, Focus, Camera, Visual Intelligence, Torch, Voice Memo, Recognise Music, Magnifier, Controls, Shortcut or Accessi­bility"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Camera Controls",
+      "value": "Exposure, Depth, Zoom, Cameras, Styles, Tone"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "USB-C Connector with Support for",
+      "value": "Char­ging, DisplayPort, USB 2 (up to 480Mb/s)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Apple Pay",
+      "value": "Pay with your iPhone using Face ID in shops, within apps and on the web, Complete purchases made with Apple Pay on your Mac"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rating for Hearing Aids",
+      "value": "Hearing Aid Compatible"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "System Requirements",
+      "value": "Apple Account (required for some features), Internet access"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"71.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.95\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"149.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.177\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0195950643510\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Design\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Aluminium design, Ceramic Shield 2 front, Colour‑infused glass back (Black, Mist Blue, Sage, Lavender)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Splash, Water and Dust Resistant\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Chip Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A19 chip 6‑core CPU with 2 performance and 4 efficiency cores, 5‑core GPU with Neural Accelerators, 16‑core Neural Engine, Hardware-accelerated ray tracing\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Face ID\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Enabled by True­Depth technology in the Center Stage front camera\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Peace of Mind\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Emergency SOS via satellite, Crash Detection\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Location\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC), Digital compass, Wi‑Fi, Mobile data, iBeacon micro-location\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Action Button Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Silent mode, Focus, Camera, Visual Intelligence, Torch, Voice Memo, Recognise Music, Magnifier, Controls, Shortcut or Accessi­bility\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Camera Controls\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Exposure, Depth, Zoom, Cameras, Styles, Tone\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-C Connector with Support for\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Char­ging, DisplayPort, USB 2 (up to 480Mb/s)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Apple Pay\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pay with your iPhone using Face ID in shops, within apps and on the web, Complete purchases made with Apple Pay on your Mac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rating for Hearing Aids\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Hearing Aid Compatible\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"System Requirements\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Apple Account (required for some features), Internet access\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Energy Rating",
+      "value": "A"
     }
   ]
 },
@@ -28192,296 +15526,161 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "iPhone 16"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Sensor",
+      "value": "Face ID, Barometer, High Dynamic Range Gyro, High-G Accelerometer, Proximity Sensor, Dual Ambient Light Sensors"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iPhone 16\""
+      "name": "Sim Type",
+      "value": "Nano and eSim"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Face ID, Barometer, High Dynamic Range Gyro, High-G Accelerometer, Proximity Sensor, Dual Ambient Light Sensors\""
+      "name": "Water Resistent",
+      "value": "Splash, Water and Dust Resistant (IP68 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "OLED Super Retina XDR"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.1\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nano and eSim\""
+      "name": "Screen Resolution",
+      "value": "2556 x 1179 Pixel Resolution at 460 PPI"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "12"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "48"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Splash, Water and Dust Resistant (IP68 rating)\""
+      "name": "Video Capture Quality",
+      "value": "4K HDR"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor Model",
+      "value": "A18"
     },
     {
-      "name": "\"value\"",
-      "value": "\"OLED Super Retina XDR\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Battery Life (hrs)",
+      "value": "22"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.1\\\"\""
+      "name": "Battery Type",
+      "value": "Lithium-Ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2556 x 1179 Pixel Resolution at 460 PPI\""
+      "name": "Internal Memory (GB)",
+      "value": "128"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System",
+      "value": "iOS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "Operating System Version",
+      "value": "iOS 18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48\""
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K HDR\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A18\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Energy Rating",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (hrs)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"22\""
+      "name": "Width (mm)",
+      "value": "71.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Depth (mm)",
+      "value": "7.80"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium-Ion\""
+      "name": "Height (mm)",
+      "value": "147.6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "Weight (kg)",
+      "value": "0.170"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"iOS\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Operating System Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"iOS 18\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"GPS\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"B\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"71.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.80\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"147.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.170\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
+      "name": "Warranty",
+      "value": "1 Year"
     }
   ]
 },
@@ -28499,520 +15698,275 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Graphite"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "Galaxy A56"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Graphite\""
+      "name": "Sensor",
+      "value": "Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Virtual Proximity Sensing"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Galaxy A56\""
+      "name": "Sim Type",
+      "value": "Nano + eSim"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Virtual Proximity Sensing\""
+      "name": "Water Resistent",
+      "value": "Water & Dust Proof (IP67 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "Super AMOLED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.7\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nano + eSim\""
+      "name": "Screen Resolution",
+      "value": "1080 x 2340"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "12MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "50MP + 12MP + 5MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water & Dust Proof (IP67 rating)\""
+      "name": "Video Capture Quality",
+      "value": "4K Ultra HD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor Model",
+      "value": "Octa-Core"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Super AMOLED\""
+      "name": "Processor Speed (GHz)",
+      "value": "2.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.7\\\"\""
+      "name": "Battery Life (hrs)",
+      "value": "29"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1080 x 2340\""
+      "name": "RAM (GB)",
+      "value": "8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Internal Memory (GB)",
+      "value": "256"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP\""
+      "name": "Operating System",
+      "value": "Android"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50MP + 12MP + 5MP\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K Ultra HD\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Octa-Core\""
+      "name": "Energy Rating",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Speed (GHz)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.9\""
+      "name": "Width (mm)",
+      "value": "77.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Depth (mm)",
+      "value": "7.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (hrs)\","
+      "name": "Height (mm)",
+      "value": "162.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"29\""
+      "name": "Weight (kg)",
+      "value": "0.198"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "EAN Code",
+      "value": "8806095982847"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "Color Depth (Main Display)",
+      "value": "16M"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Max Refresh Rate",
+      "value": "120 Hz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android\""
+      "name": "CPU Speed",
+      "value": "2.9GHz, 2.6GHz, 1.9GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Rear Camera - F Number (Multiple)",
+      "value": "F1.8 , F2.2 , F2.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Front Camera - F Number",
+      "value": "F2.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rear Camera Zoom",
+      "value": "Digital Zoom up to 10x"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Video Recording Resolution",
+      "value": "UHD 4K (3840 x 2160)@30fps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Slow Motion",
+      "value": "240fps @HD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "SIM Slot Type",
+      "value": "SIM 1 + SIM 2, SIM 1 + eSIM, Dual eSIM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Infra",
+      "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
+      "name": "SIM size",
+      "value": "Nano-SIM (4FF), Embedded-SIM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "USB Interface",
+      "value": "USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "USB Version",
+      "value": "USB 2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Earjack",
+      "value": "USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Bluetooth Version",
+      "value": "Bluetooth v5.3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE80, MIMO, 1024-QAM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"77.5\""
+      "name": "Wi-Fi Direct",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "PC Sync.",
+      "value": "Smart Switch (PC version)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7.4\""
+      "name": "Form Factor",
+      "value": "Touchscreen Bar"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Video Playing Format",
+      "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"162.2\""
+      "name": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Bluetooth Hearing Aid Support",
+      "value": "Android Audio Streaming for Hearing Aid(ASHA)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.198\""
+      "name": "SmartThings Support",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Size (Main_Display)",
+      "value": "170.1mm (6.7\" full rectangle) / 165.5mm (6.5\" rounded corners)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Security Update Period (Valid until)",
+      "value": "31 March 2032"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8806095982847\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Depth (Main Display)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16M\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Refresh Rate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CPU Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.9GHz, 2.6GHz, 1.9GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - F Number (Multiple)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F1.8 , F2.2 , F2.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - F Number\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F2.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera Zoom\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Digital Zoom up to 10x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Recording Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD 4K (3840 x 2160)@30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Slow Motion\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"240fps @HD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SIM Slot Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SIM 1 + SIM 2, SIM 1 + eSIM, Dual eSIM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Infra\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SIM size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Nano-SIM (4FF), Embedded-SIM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB 2.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Location Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GPS, Glonass, Beidou, Galileo, QZSS\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Earjack\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth v5.3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE80, MIMO, 1024-QAM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Direct\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"PC Sync.\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Smart Switch (PC version)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Form Factor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Touchscreen Bar\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playing Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Playing Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Hearing Aid Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Android Audio Streaming for Hearing Aid(ASHA)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SmartThings Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Size (Main_Display)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"170.1mm (6.7\\\" full rectangle) / 165.5mm (6.5\\\" rounded corners)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Update Period (Valid until)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31 March 2032\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Capacity (mAh, Typical)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5000\""
+      "name": "Battery Capacity (mAh, Typical)",
+      "value": "5000"
     }
   ]
 },
@@ -29030,520 +15984,275 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "Galaxy A36"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Sensor",
+      "value": "Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Virtual Proximity Sensing"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Galaxy A36\""
+      "name": "Sim Type",
+      "value": "Nano + eSim"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Virtual Proximity Sensing\""
+      "name": "Water Resistent",
+      "value": "Water & Dust Proof (IP67 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "Super AMOLED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.7\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nano + eSim\""
+      "name": "Screen Resolution",
+      "value": "1080 x 2340"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "12MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "50MP + 8MP + 5MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water & Dust Proof (IP67 rating)\""
+      "name": "Video Capture Quality",
+      "value": "4K Ultra HD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor Model",
+      "value": "Octa-Core"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Super AMOLED\""
+      "name": "Processor Speed (GHz)",
+      "value": "2.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.7\\\"\""
+      "name": "Battery Life (hrs)",
+      "value": "29"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1080 x 2340\""
+      "name": "RAM (GB)",
+      "value": "8"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Internal Memory (GB)",
+      "value": "256"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP\""
+      "name": "Operating System",
+      "value": "Android"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50MP + 8MP + 5MP\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K Ultra HD\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Octa-Core\""
+      "name": "Energy Rating",
+      "value": "C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Speed (GHz)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2.4\""
+      "name": "Width (mm)",
+      "value": "78.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Depth (mm)",
+      "value": "7.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (hrs)\","
+      "name": "Height (mm)",
+      "value": "162.9"
     },
     {
-      "name": "\"value\"",
-      "value": "\"29\""
+      "name": "Weight (kg)",
+      "value": "0.195"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "EAN Code",
+      "value": "8806095984070"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"256\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "CPU Speed",
+      "value": "2.4GHz, 1.8GHz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Max Refresh Rate",
+      "value": "120 Hz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android\""
+      "name": "Color Depth (Main Display)",
+      "value": "16M"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Rear Camera - F Number (Multiple)",
+      "value": "F1.8 , F2.2 , F2.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Rear Camera Zoom",
+      "value": "Digital Zoom up to 10x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Video Recording Resolution",
+      "value": "UHD 4K (3840 x 2160)@30fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Slow Motion",
+      "value": "240fps @HD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Front Camera - F Number",
+      "value": "F2.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "SIM size",
+      "value": "Nano-SIM (4FF), Embedded-SIM"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "SIM Slot Type",
+      "value": "SIM 1 + SIM 2 / SIM 1 + eSIM / Dual eSIM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
+      "name": "Infra",
+      "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "USB Interface",
+      "value": "USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "USB Version",
+      "value": "USB 2.0"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"C\""
+      "name": "Earjack",
+      "value": "USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE80, MIMO, 1024-QAM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Wi-Fi Direct",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"78.2\""
+      "name": "Bluetooth Version",
+      "value": "Bluetooth v5.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "PC Sync",
+      "value": "Smart Switch (PC version)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7.4\""
+      "name": "Form Factor",
+      "value": "Touchscreen Bar"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Battery Capacity (mAh, Typical)",
+      "value": "5000"
     },
     {
-      "name": "\"value\"",
-      "value": "\"162.9\""
+      "name": "Video Playing Format",
+      "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Video Playing Resolution",
+      "value": "UHD 4K (3840 x 2160)@30fps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.195\""
+      "name": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Bluetooth Hearing Aid Support",
+      "value": "Android Audio Streaming for Hearing Aid(ASHA)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "SmartThings Support",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8806095984070\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"CPU Speed\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2.4GHz, 1.8GHz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Refresh Rate\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Color Depth (Main Display)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16M\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - F Number (Multiple)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F1.8 , F2.2 , F2.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera Zoom\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Digital Zoom up to 10x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Recording Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD 4K (3840 x 2160)@30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Slow Motion\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"240fps @HD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - F Number\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F2.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SIM size\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Nano-SIM (4FF), Embedded-SIM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SIM Slot Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SIM 1 + SIM 2 / SIM 1 + eSIM / Dual eSIM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Infra\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB 2.0\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Location Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GPS, Glonass, Beidou, Galileo, QZSS\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Earjack\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE80, MIMO, 1024-QAM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Direct\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth v5.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"PC Sync\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Smart Switch (PC version)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Form Factor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Touchscreen Bar\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Capacity (mAh, Typical)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playing Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playing Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD 4K (3840 x 2160)@30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Playing Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Hearing Aid Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Android Audio Streaming for Hearing Aid(ASHA)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SmartThings Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Update Period (Valid until)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31 March 2031\""
+      "name": "Security Update Period (Valid until)",
+      "value": "31 March 2031"
     }
   ]
 },
@@ -29561,244 +16270,134 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "Galaxy A17"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Water Resistent",
+      "value": "IP45"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Galaxy A17\""
+      "name": "Display"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Display Type",
+      "value": "Super AMOLED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Screen Size",
+      "value": "6.7\""
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"IP45\""
+      "name": "Front Facing (MP)",
+      "value": "12MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Rear Facing (MP)",
+      "value": "5MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Super AMOLED\""
+      "name": "Processor Model",
+      "value": "Exynos"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Chipset",
+      "value": "Exynos 1330"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.7\\\"\""
+      "name": "Storage"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "RAM (GB)",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Internal Memory (GB)",
+      "value": "128"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Operating System",
+      "value": "Android"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5MP\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "Width (mm)",
+      "value": "77.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "Depth (mm)",
+      "value": "7.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Exynos\""
+      "name": "Height (mm)",
+      "value": "164.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "Weight (kg)",
+      "value": "0.216"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Exynos 1330\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "EAN Code",
+      "value": "8806097642671"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "Display Type",
+      "value": "6.7\" FHD+ Super AMOLED Infinity-U, (19.5:9), Upto 90 Hz"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "Rear Camera",
+      "value": "Ultra wide: 5MP; Wide: 50MP, Optical Image, Stabilisation; Macro: 2MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Durability",
+      "value": "Corning Gorilla Glass 7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android\""
+      "name": "Battery",
+      "value": "5000 mAh"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"77.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"164.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.216\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8806097642671\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6.7\\\" FHD+ Super AMOLED Infinity-U, (19.5:9), Upto 90 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Ultra wide: 5MP; Wide: 50MP, Optical Image, Stabilisation; Macro: 2MP\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Durability\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Corning Gorilla Glass 7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5000 mAh\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Charging\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"25W Fast Charging, Fast Wireless Charging 2.0\""
+      "name": "Charging",
+      "value": "25W Fast Charging, Fast Wireless Charging 2.0"
     }
   ]
 },
@@ -29816,560 +16415,293 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Samsung"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Samsung\""
+      "name": "Colour",
+      "value": "Navy"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "Galaxy S25"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Navy\""
+      "name": "Sensor",
+      "value": "Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor, Proximity Sensor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Galaxy S25\""
+      "name": "Sim Type",
+      "value": "Nano-SIM (4FF), Embedded-SIM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor, Proximity Sensor\""
+      "name": "Water Resistent",
+      "value": "Water Proof (IP68 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "AMOLED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.2\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nano-SIM (4FF), Embedded-SIM\""
+      "name": "Screen Resolution",
+      "value": "2340 x 1080"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "12MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "50MP + 10MP + 12MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water Proof (IP68 rating)\""
+      "name": "Video Capture Quality",
+      "value": "8K UHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor Model",
+      "value": "Snapdragon"
     },
     {
-      "name": "\"value\"",
-      "value": "\"AMOLED\""
+      "name": "Processor Speed (GHz)",
+      "value": "4.47 - 3.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Chipset",
+      "value": "Snapdragon 8 Elite"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.2\\\"\""
+      "name": "Storage"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "RAM (GB)",
+      "value": "12"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2340 x 1080\""
+      "name": "Internal Memory (GB)",
+      "value": "128"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System",
+      "value": "Android"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP\""
+      "name": "Connectivity"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"50MP + 10MP + 12MP\""
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8K UHD\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Snapdragon\""
+      "name": "Energy Rating",
+      "value": "B"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Speed (GHz)\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4.47 - 3.5\""
+      "name": "Width (mm)",
+      "value": "70.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "Depth (mm)",
+      "value": "7.2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Snapdragon 8 Elite\""
+      "name": "Height (mm)",
+      "value": "146.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "Weight (kg)",
+      "value": "0.162"
     },
     {
-      "name": "\"name\"",
-      "value": "\"RAM (GB)\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12\""
+      "name": "EAN Code",
+      "value": "8806095852393"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "CPU Type",
+      "value": "Octa-Core"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "Technology (Main Display)",
+      "value": "Dynamic AMOLED 2X"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Colour Depth (Main Display)",
+      "value": "16M"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Android\""
+      "name": "Max Refresh Rate (Main Display) (Hz)",
+      "value": "120"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Rear Camera - F Number (Multiple)",
+      "value": "F1.8, F2.4, F2.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
+      "name": "Rear Camera - Auto Focus",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rear Camera - OIS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Rear Camera - Zoom",
+      "value": "Optical Zoom 3x, Optical quality Zoom 2x (Enabled by Adaptive Pixel sensor) , Digital Zoom up to 30x"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Front Camera - F Number",
+      "value": "F2.2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Front Camera - Auto Focus",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rear Camera - Flash",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "Video Recording Resolution",
+      "value": "UHD 8K (7680 x 4320) @30fps"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Slow Motion",
+      "value": "240fps @FHD, 120fps @FHD, 120fps @UHD"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
+      "name": "Available Storage (GB)",
+      "value": "92.5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "SIM Slot Type",
+      "value": "SIM 1 + SIM 2 / SIM 1 + eSIM / Dual eSIM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "USB Version",
+      "value": "USB 3.2 Gen 1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Location Technology",
+      "value": "GPS, Glonass, Beidou, Galileo, QZSS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"B\""
+      "name": "Earjack",
+      "value": "USB Type-C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Wi-Fi",
+      "value": "802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, EHT320, MIMO, 4096-QAM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Wi-Fi Direct",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"70.5\""
+      "name": "Bluetooth Version",
+      "value": "Bluetooth v5.4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "PC Sync.",
+      "value": "Smart Switch (PC version)"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7.2\""
+      "name": "Form Factor",
+      "value": "Touchscreen Bar"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Video Playback Time (Hours)",
+      "value": "Up to 29"
     },
     {
-      "name": "\"value\"",
-      "value": "\"146.9\""
+      "name": "Battery Capacity (mAh, Typical)",
+      "value": "4000"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Stereo Support",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.162\""
+      "name": "Video Playing Format",
+      "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Video Playing Resolution",
+      "value": "UHD 8K (7680 x 4320)@60fps"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Audio Playing Format",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8806095852393\""
+      "name": "Samsung DeX Support",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
+      "name": "Bluetooth Hearing Aid Support",
+      "value": "Android Audio Streaming for Hearing Aid(ASHA)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"CPU Type\","
+      "name": "SmartThings Support",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Octa-Core\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Technology (Main Display)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Dynamic AMOLED 2X\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Colour Depth (Main Display)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16M\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Max Refresh Rate (Main Display) (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"120\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - F Number (Multiple)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F1.8, F2.4, F2.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - Auto Focus\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - OIS\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - Zoom\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Optical Zoom 3x, Optical quality Zoom 2x (Enabled by Adaptive Pixel sensor) , Digital Zoom up to 30x\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - F Number\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"F2.2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Front Camera - Auto Focus\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rear Camera - Flash\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Recording Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD 8K (7680 x 4320) @30fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Slow Motion\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"240fps @FHD, 120fps @FHD, 120fps @UHD\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Available Storage (GB)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"92.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SIM Slot Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SIM 1 + SIM 2 / SIM 1 + eSIM / Dual eSIM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB 3.2 Gen 1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Location Technology\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"GPS, Glonass, Beidou, Galileo, QZSS\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Earjack\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB Type-C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, EHT320, MIMO, 4096-QAM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi Direct\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Version\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Bluetooth v5.4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"PC Sync.\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Smart Switch (PC version)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Form Factor\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Touchscreen Bar\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playback Time (Hours)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Up to 29\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Battery Capacity (mAh, Typical)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4000\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Stereo Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playing Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Video Playing Resolution\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"UHD 8K (7680 x 4320)@60fps\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Audio Playing Format\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Samsung DeX Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth Hearing Aid Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Android Audio Streaming for Hearing Aid(ASHA)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"SmartThings Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Security Update Period (Valid until)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"31 January 2032\""
+      "name": "Security Update Period (Valid until)",
+      "value": "31 January 2032"
     }
   ]
 },
@@ -30387,364 +16719,196 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "iPhone 16e"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Sensor",
+      "value": "Face ID, Barometer, High Dynamic Range Gyro, High-g Accelerometer, Proximity Sensor, Dual Ambient Light Sensors"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iPhone 16e\""
+      "name": "Sim Type",
+      "value": "Nano + eSIM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Face ID, Barometer, High Dynamic Range Gyro, High-g Accelerometer, Proximity Sensor, Dual Ambient Light Sensors\""
+      "name": "Water Resistent",
+      "value": "Splash, Water and Dust Resistant Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "Super Retina XDR"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.1\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"Nano + eSIM\""
+      "name": "Screen Resolution",
+      "value": "2532 x 1170"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "12MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "48MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Splash, Water and Dust Resistant Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529\""
+      "name": "Video Capture Quality",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Processor Model",
+      "value": "A18"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Super Retina XDR\""
+      "name": "Chipset",
+      "value": "A18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Battery"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.1\\\"\""
+      "name": "Battery Type",
+      "value": "Lithium‑ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2532 x 1170\""
+      "name": "Internal Memory (GB)",
+      "value": "128"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System",
+      "value": "iOS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"12MP\""
+      "name": "Operating System Version",
+      "value": "iOS 18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48MP\""
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor Model\","
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A18\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "Energy Rating",
+      "value": "B"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A18\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Width (mm)",
+      "value": "71.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Depth (mm)",
+      "value": "7.80"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium‑ion\""
+      "name": "Height (mm)",
+      "value": "146.7"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "Weight (kg)",
+      "value": "0.167"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"128\""
+      "name": "EAN Code",
+      "value": "0195950051209"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Dual eSIM Support",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iOS\""
+      "name": "Rating for Hearing Aids",
+      "value": "Hearing Aid Compatible"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System Version\","
+      "name": "Char­ging",
+      "value": "USB‑C Connector"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iOS 18\""
+      "name": "USB Transfer",
+      "value": "USB 2 (up to 480Mb/s)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Peace of Mind",
+      "value": "Emergency SOS via Satellite, Crash Detection"
     },
     {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
+      "name": "Face ID",
+      "value": "Enabled by True­Depth Camera for Facial Recognition"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Action button features",
+      "value": "Silent Mode, Focus, Camera, Visual Intelligence, Torch, Voice Memo, Recognise Music, Translate, Magnifier, Controls, Shortcut or Accessibility"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"GPS\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"B\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"71.5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7.80\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"146.7\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.167\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0195950051209\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dual eSIM Support\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rating for Hearing Aids\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Hearing Aid Compatible\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Char­ging\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB‑C Connector\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB Transfer\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"USB 2 (up to 480Mb/s)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Peace of Mind\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Emergency SOS via Satellite, Crash Detection\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Face ID\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Enabled by True­Depth Camera for Facial Recognition\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Action button features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Silent Mode, Focus, Camera, Visual Intelligence, Torch, Voice Memo, Recognise Music, Translate, Magnifier, Controls, Shortcut or Accessibility\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Accessibility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Built-In Accessibility Features Supporting Vision, Mobility, Hearing, Speech and Cognitive Needs Help You Get the Most Out of Your iPhone In the Ways That Work Best for You.\""
+      "name": "Accessibility",
+      "value": "Built-In Accessibility Features Supporting Vision, Mobility, Hearing, Speech and Cognitive Needs Help You Get the Most Out of Your iPhone In the Ways That Work Best for You."
     }
   ]
 },
@@ -30762,444 +16926,236 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Apple"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Apple\""
+      "name": "Colour",
+      "value": "Silver"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Series",
+      "value": "iPhone 17 Pro"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Silver\""
+      "name": "Sensor",
+      "value": "Face ID, LiDAR Scanner, Barometer, High Dynamic Range Gyro, High-g Accelerometer, Proximity Sensor, Dual Ambient Light Sensors"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Series\","
+      "name": "Dual Sim",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iPhone 17 Pro\""
+      "name": "Sim Type",
+      "value": "nano-SIM + eSIM or eSIM + eSIM"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sensor\","
+      "name": "3G/4G/5G",
+      "value": "5G"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Face ID, LiDAR Scanner, Barometer, High Dynamic Range Gyro, High-g Accelerometer, Proximity Sensor, Dual Ambient Light Sensors\""
+      "name": "Water Resistent",
+      "value": "Water & Dust Proof (IP68 rating)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dual Sim\","
+      "name": "Display"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Display Type",
+      "value": "Super Retina"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Sim Type\","
+      "name": "Screen Size",
+      "value": "6.3\""
     },
     {
-      "name": "\"value\"",
-      "value": "\"nano-SIM + eSIM or eSIM + eSIM\""
+      "name": "Screen Resolution",
+      "value": "2622 x 1206"
     },
     {
-      "name": "\"name\"",
-      "value": "\"3G/4G/5G\","
+      "name": "Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5G\""
+      "name": "Front Facing (MP)",
+      "value": "18MP"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Water Resistent\","
+      "name": "Rear Facing (MP)",
+      "value": "48MP + 48MP + 48MP"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Water & Dust Proof (IP68 rating)\""
+      "name": "Video Capture Quality",
+      "value": "4K"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display\""
+      "name": "Processor"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
+      "name": "Chipset",
+      "value": "A19 Pro"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Super Retina\""
+      "name": "Battery"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Size\","
+      "name": "Battery Life (hrs)",
+      "value": "Up to 31"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6.3\\\"\""
+      "name": "Battery Type",
+      "value": "Lithium‑ion"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Screen Resolution\","
+      "name": "Storage"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2622 x 1206\""
+      "name": "Internal Memory (GB)",
+      "value": "1TB"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Camera\""
+      "name": "Operating System"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Front Facing (MP)\","
+      "name": "Operating System",
+      "value": "iOS"
     },
     {
-      "name": "\"value\"",
-      "value": "\"18MP\""
+      "name": "Operating System Version",
+      "value": "iOS 26"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Rear Facing (MP)\","
+      "name": "Connectivity"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48MP + 48MP + 48MP\""
+      "name": "NFC Enabled",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Video Capture Quality\","
+      "name": "Wi-Fi",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4K\""
+      "name": "Bluetooth",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Processor\""
+      "name": "GPS",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Chipset\","
+      "name": "USB Interface",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"A19 Pro\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery\""
+      "name": "Width (mm)",
+      "value": "71.9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Life (hrs)\","
+      "name": "Depth (mm)",
+      "value": "8.75"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Up to 31\""
+      "name": "Height (mm)",
+      "value": "150"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Battery Type\","
+      "name": "Weight (kg)",
+      "value": "0.204"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Lithium‑ion\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Storage\""
+      "name": "EAN Code",
+      "value": "0195950628371"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Internal Memory (GB)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1TB\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System\","
+      "name": "Design",
+      "value": "Aluminium unibody, Ceramic Shield 2 front, Ceramic Shield back"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iOS\""
+      "name": "Display Type",
+      "value": "Super Retina XDR display, 6.3‑inch (diagonal) all‑screen OLED display, 2622x1206-pixel resolution at 460 ppi"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Operating System Version\","
+      "name": "Splash, Water and Dust Resistant",
+      "value": "Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
     },
     {
-      "name": "\"value\"",
-      "value": "\"iOS 26\""
+      "name": "Chip Type",
+      "value": "A19 Pro chip, 6‑core CPU with 2 performance and 4 efficiency cores, 6‑core GPU with Neural Accelerators, 16‑core Neural Engine, Hardware‑accelerated ray tracing"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Connectivity\""
+      "name": "Power and Battery",
+      "value": "Video playback Up to 31 hours, Video playback (streamed) Up to 28 hours"
     },
     {
-      "name": "\"name\"",
-      "value": "\"NFC Enabled\","
+      "name": "Face ID",
+      "value": "Enabled by True­Depth Technology in the Center Stage Front Camera"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Peace of Mind",
+      "value": "Emergency SOS via satellite, Crash Detection"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wi-Fi\","
+      "name": "Location",
+      "value": "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC), Digital compass, Wi‑Fi, Mobile Data, iBeacon micro-location"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Action button features",
+      "value": "Silent mode, Focus, Camera, Visual Intelligence, Torch, Voice Memo, Recognise Music, Magnifier, Controls, Shortcut or Accessi­bility"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Bluetooth\","
+      "name": "Camera controls",
+      "value": "Exposure, Depth, Zoom, Cameras, Styles, Tone"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "USB-C connector with support for",
+      "value": "Char­ging, DisplayPort, USB 3 (up to 10Gb/s)"
     },
     {
-      "name": "\"name\"",
-      "value": "\"GPS\","
+      "name": "MagSafe and Wireless Charging",
+      "value": "MagSafe wireless charging up to 25W, Qi2 wireless charging up to 25W, Magnet array, Alignment magnet, Accessory Identification NFC, Magnetometer"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Apple Pay",
+      "value": "Pay with your iPhone using Face ID in shops, within apps and on the web, Complete purchases made with Apple Pay on your Mac"
     },
     {
-      "name": "\"name\"",
-      "value": "\"USB Interface\","
+      "name": "Accessi­bility",
+      "value": "Built-in accessibility features supporting vision, mobility, hearing, speech and cognitive needs help you get the most out of your iPhone — in the ways that work best for you"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Rating for Hearing Aids",
+      "value": "Hearing Aid Compatible"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "System Requirements",
+      "value": "Apple Account (required for some features), Internet access"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Syncing to a Mac or PC requires",
+      "value": "macOS Catalina 10.15 or later using the Finder, macOS High Sierra 10.13 to macOS Mojave 10.14.6 using iTunes 12.8 or later, Windows 10 or later using iTunes 12.12.10 or later"
     },
     {
-      "name": "\"value\"",
-      "value": "\"71.9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"8.75\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"150\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.204\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0195950628371\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Design\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Aluminium unibody, Ceramic Shield 2 front, Ceramic Shield back\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Display Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Super Retina XDR display, 6.3‑inch (diagonal) all‑screen OLED display, 2622x1206-pixel resolution at 460 ppi\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Splash, Water and Dust Resistant\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Rated IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Chip Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A19 Pro chip, 6‑core CPU with 2 performance and 4 efficiency cores, 6‑core GPU with Neural Accelerators, 16‑core Neural Engine, Hardware‑accelerated ray tracing\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power and Battery\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Video playback Up to 31 hours, Video playback (streamed) Up to 28 hours\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Face ID\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Enabled by True­Depth Technology in the Center Stage Front Camera\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Peace of Mind\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Emergency SOS via satellite, Crash Detection\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Location\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC), Digital compass, Wi‑Fi, Mobile Data, iBeacon micro-location\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Action button features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Silent mode, Focus, Camera, Visual Intelligence, Torch, Voice Memo, Recognise Music, Magnifier, Controls, Shortcut or Accessi­bility\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Camera controls\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Exposure, Depth, Zoom, Cameras, Styles, Tone\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"USB-C connector with support for\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Char­ging, DisplayPort, USB 3 (up to 10Gb/s)\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"MagSafe and Wireless Charging\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"MagSafe wireless charging up to 25W, Qi2 wireless charging up to 25W, Magnet array, Alignment magnet, Accessory Identification NFC, Magnetometer\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Apple Pay\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pay with your iPhone using Face ID in shops, within apps and on the web, Complete purchases made with Apple Pay on your Mac\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Accessi­bility\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Built-in accessibility features supporting vision, mobility, hearing, speech and cognitive needs help you get the most out of your iPhone — in the ways that work best for you\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rating for Hearing Aids\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Hearing Aid Compatible\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"System Requirements\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Apple Account (required for some features), Internet access\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Syncing to a Mac or PC requires\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"macOS Catalina 10.15 or later using the Finder, macOS High Sierra 10.13 to macOS Mojave 10.14.6 using iTunes 12.8 or later, Windows 10 or later using iTunes 12.12.10 or later\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"A\""
+      "name": "Energy Rating",
+      "value": "A"
     }
   ]
 },
@@ -31217,192 +17173,105 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Thor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Thor\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Reversible Door",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Fridge Capacity Net (l)",
+      "value": "241"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Reversible Door\","
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"value\"",
-      "value": "\"241\""
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "103"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Noise Level (dBa)",
+      "value": "39"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Required Room Temperature",
+      "value": "16°C - 38°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "540"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Depth (mm)",
+      "value": "550"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Height (mm)",
+      "value": "1440"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Weight (kg)",
+      "value": "38"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"103\""
+      "name": "EAN Code",
+      "value": "5391503419174"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"39\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16°C - 38°C\""
+      "name": "Interior Light",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Simple Controls",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"540\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"550\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1440\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"38\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5391503419174\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Interior Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Simple Controls\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Subtropical, Tropical\""
+      "name": "Climate Class",
+      "value": "Subtropical, Tropical"
     }
   ]
 },
@@ -31420,312 +17289,165 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Hoover"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Hoover\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Undercounter"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fridge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge Capacity Net (l)",
+      "value": "127"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Undercounter\""
+      "name": "Number of Shelves",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"127\""
+      "name": "Adjustable Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "112"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level (dBa)",
+      "value": "39"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Required Room Temperature",
+      "value": "16°C - 38°C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Shelves\","
+      "name": "Width (mm)",
+      "value": "550"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "580"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Height (mm)",
+      "value": "850"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Weight (kg)",
+      "value": "26"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "EAN Code",
+      "value": "8059019080017"
     },
     {
-      "name": "\"value\"",
-      "value": "\"112\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"39\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature\","
+      "name": "Cooling System",
+      "value": "Static"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16°C - 38°C\""
+      "name": "Defrost Process Fridge Section",
+      "value": "Manual"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Gasket",
+      "value": "Pull"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Light",
+      "value": "Standard"
     },
     {
-      "name": "\"value\"",
-      "value": "\"550\""
+      "name": "Current",
+      "value": "<10 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Frequency",
+      "value": "50 Hz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"580\""
+      "name": "Voltage",
+      "value": "220-240 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Control Position",
+      "value": "Internal control panel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"850\""
+      "name": "Controls",
+      "value": "Mechanic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Temperature Adjustable",
+      "value": "Refrigerator"
     },
     {
-      "name": "\"value\"",
-      "value": "\"26\""
+      "name": "Door Shelves Material",
+      "value": "Crystal clear plastic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Shelves Finish",
+      "value": "Silver frame"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Handles",
+      "value": "Comfortable external handle"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8059019080017\""
+      "name": "Door Hinge",
+      "value": "Right-mounted"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Total Number of Door Shelves",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
+      "name": "Climate Class",
+      "value": "N, ST"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cooling System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Static\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Defrost Process Fridge Section\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Manual\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Gasket\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pull\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Standard\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Current\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"<10 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Internal control panel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controls\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Mechanic\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperature Adjustable\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Refrigerator\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Shelves Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Crystal clear plastic\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Shelves Finish\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Silver frame\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Handles\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Comfortable external handle\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Hinge\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Right-mounted\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Total Number of Door Shelves\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"N, ST\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Acoustical Noise Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
+      "name": "Acoustical Noise Class",
+      "value": "C"
     }
   ]
 },
@@ -31743,148 +17465,82 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "HCK"
     },
     {
-      "name": "\"value\"",
-      "value": "\"HCK\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fridge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge Capacity Net (l)",
+      "value": "48"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of Shelves",
+      "value": "1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Energy Rating",
+      "value": "D"
     },
     {
-      "name": "\"value\"",
-      "value": "\"48\""
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "61"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Noise Level (dBa)",
+      "value": "39"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1\""
+      "name": "Required Room Temperature",
+      "value": "16°C - 32°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Width (mm)",
+      "value": "430"
     },
     {
-      "name": "\"value\"",
-      "value": "\"D\""
+      "name": "Depth (mm)",
+      "value": "475"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Height (mm)",
+      "value": "510"
     },
     {
-      "name": "\"value\"",
-      "value": "\"61\""
+      "name": "Weight (kg)",
+      "value": "18"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"39\""
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16°C - 32°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"430\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"475\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"510\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"18\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
+      "name": "Noise Emission Class",
+      "value": "C"
     }
   ]
 },
@@ -31902,280 +17558,149 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Thor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Thor\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Undercounter"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Reversible Door",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Undercounter\""
+      "name": "Fridge Capacity Net (l)",
+      "value": "94"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Reversible Door\","
+      "name": "Number of Shelves",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Dairy Compartment",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"94\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "137"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Noise Level (dBa)",
+      "value": "39"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Width (mm)",
+      "value": "549"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "557"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dairy Compartment\","
+      "name": "Height (mm)",
+      "value": "845"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "EAN Code",
+      "value": "5391503417828"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Warranty",
+      "value": "2 Years Parts & Labour"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"137\""
+      "name": "Power Failure Safe Storage (hrs)",
+      "value": "9"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Manual Ice Box Defrost",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"39\""
+      "name": "Frozen Food Capacity (Litre)",
+      "value": "13"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Number of Dairy Compartments",
+      "value": "3"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Number of Salad Crispers",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"549\""
+      "name": "Freezer Compartment Star Rating",
+      "value": "4*"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Internal Light",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"557\""
+      "name": "Extra Deep Door Storage",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Noise Emission Class",
+      "value": "C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"845\""
+      "name": "Settling Period After Transport (Hrs)",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Minimum Operating Temperature (celsius)",
+      "value": "16"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Maximum Operating Temperature (celsius)",
+      "value": "38"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5391503417828\""
+      "name": "Recommended Space Behind the Unit (cm)",
+      "value": "10"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years Parts & Labour\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Failure Safe Storage (hrs)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"9\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Manual Ice Box Defrost\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frozen Food Capacity (Litre)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"13\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Dairy Compartments\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"3\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Salad Crispers\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Freezer Compartment Star Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4*\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Internal Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Extra Deep Door Storage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Settling Period After Transport (Hrs)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Minimum Operating Temperature (celsius)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"16\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Operating Temperature (celsius)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"38\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended Space Behind the Unit (cm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Cable Length (m)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1.7\""
+      "name": "Power Cable Length (m)",
+      "value": "1.7"
     }
   ]
 },
@@ -32193,304 +17718,161 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Thor"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Thor\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Undercounter"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Reversible Door",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Undercounter\""
+      "name": "Fridge Capacity Net (l)",
+      "value": "68"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Reversible Door\","
+      "name": "Number of Shelves",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Adjustable Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"68\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Energy Rating",
+      "value": "F"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2\""
+      "name": "Energy Consumption (kWh/24h)",
+      "value": "0.471"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "172"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level (dBa)",
+      "value": "41"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "475"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Shelves\","
+      "name": "Depth (mm)",
+      "value": "445"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "845"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Weight (kg)",
+      "value": "20.5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"F\""
+      "name": "EAN Code",
+      "value": "5391503418177"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption (kWh/24h)\","
+      "name": "Main"
     },
     {
-      "name": "\"value\"",
-      "value": "\"0.471\""
+      "name": "Warranty",
+      "value": "2 Years Parts & Labour"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "More"
     },
     {
-      "name": "\"value\"",
-      "value": "\"172\""
+      "name": "Light",
+      "value": "LED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Auto Defrost",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"41\""
+      "name": "Freezer Compartment Volume (L)",
+      "value": "12"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Freezer Star Rating",
+      "value": "4*"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Freezing Capacity (kg/24h)",
+      "value": "2"
     },
     {
-      "name": "\"value\"",
-      "value": "\"475\""
+      "name": "Temperature Rise Value (h)",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Climate Class",
+      "value": "ST, N"
     },
     {
-      "name": "\"value\"",
-      "value": "\"445\""
+      "name": "Rated Voltage (V)",
+      "value": "220 - 240"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Rated Frequency (Hz)",
+      "value": "50"
     },
     {
-      "name": "\"value\"",
-      "value": "\"845\""
+      "name": "Lamp Rated Power (W)",
+      "value": "2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Rated Current (A)",
+      "value": "0.6"
     },
     {
-      "name": "\"value\"",
-      "value": "\"20.5\""
+      "name": "Energy Consumption E16 (kWh/24h)",
+      "value": "0.220"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Energy Consumption E32 (kWh/24h)",
+      "value": "0.722"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Space Required in Use (WxDxH) (mm)",
+      "value": "675 x 545 x 945"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5391503418177\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years Parts & Labour\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LED\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Auto Defrost\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Freezer  Compartment Volume (L)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"12\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Freezer Star Rating\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4*\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Freezing Capacity (kg/24h)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperature Rise Value (h)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"ST, N\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Voltage (V)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220 - 240\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Frequency (Hz)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Lamp Rated Power (W)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Rated Current (A)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.6\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption E16 (kWh/24h)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.220\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Consumption E32 (kWh/24h)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.722\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Space Required in Use (WxDxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"675 x 545 x 945\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Overall Space Required in Use (WxDxH) (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"860 x 930 x 945\""
+      "name": "Overall Space Required in Use (WxDxH) (mm)",
+      "value": "860 x 930 x 945"
     }
   ]
 },
@@ -32508,288 +17890,153 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Whirlpool"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Whirlpool\""
+      "name": "Colour",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Reversible Door",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Fridge Capacity Net (l)",
+      "value": "368"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Reversible Door\","
+      "name": "Number of Shelves",
+      "value": "7"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"value\"",
-      "value": "\"368\""
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "119"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Noise Level (dBa)",
+      "value": "37"
     },
     {
-      "name": "\"value\"",
-      "value": "\"7\""
+      "name": "Required Room Temperature ºC)",
+      "value": "10 - 43"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "595"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Depth (mm)",
+      "value": "630"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Height (mm)",
+      "value": "1875"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "EAN Code",
+      "value": "8003437054006"
     },
     {
-      "name": "\"value\"",
-      "value": "\"119\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"37\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature ºC)\","
+      "name": "Refrigeration Type",
+      "value": "Tall Larder Fridge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 - 43\""
+      "name": "Hinge System",
+      "value": "Right Reversible"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Interior Light Switch",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Interior Light Type",
+      "value": "LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"595\""
+      "name": "Maximum Connection (kW)",
+      "value": "0.1"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Number of Fridge Drawers",
+      "value": "1"
     },
     {
-      "name": "\"value\"",
-      "value": "\"630\""
+      "name": "Special Features",
+      "value": "6th Sense"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Special Programmes or Functions",
+      "value": "Fast Cooling"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1875\""
+      "name": "Style",
+      "value": "Modern"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Energy Efficiency Index(EEI)",
+      "value": "100"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Climate Class",
+      "value": "Extended Temperate, Temperate, Subtropical, Tropical"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8003437054006\""
+      "name": "Fresh Food",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Recommended Temperature Setting for Optimised Food Storage (ºC)",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
+      "name": "Energy Efficiency Class (Light)",
+      "value": "C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
+      "name": "Defrosting Type",
+      "value": "Manual Defrost"
     },
     {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Refrigeration Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Tall Larder Fridge\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Hinge System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Right Reversible\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Interior Light Switch\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Interior Light Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LED\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Maximum Connection (kW)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Fridge Drawers\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Special Features\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"6th Sense\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Special Programmes or Functions\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Fast Cooling\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Style\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Modern\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index(EEI)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"100\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Extended Temperate, Temperate, Subtropical, Tropical\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fresh Food\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended Temperature Setting for Optimised Food Storage (ºC)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Class (Light)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Defrosting Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Manual Defrost\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Airborne Acoustical Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
+      "name": "Airborne Acoustical Noise Emission Class",
+      "value": "C"
     }
   ]
 },
@@ -32807,196 +18054,106 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Belling"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Belling\""
+      "name": "Colour",
+      "value": "Black"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Table Top"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Black\""
+      "name": "Fridge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge Capacity Net (l)",
+      "value": "44"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Table Top\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"value\"",
-      "value": "\"44\""
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "78"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Noise Level (dBa)",
+      "value": "40"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Required Room Temperature (ºC)",
+      "value": "10 - 38"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Width (mm)",
+      "value": "470"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Depth (mm)",
+      "value": "440"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Height (mm)",
+      "value": "495"
     },
     {
-      "name": "\"value\"",
-      "value": "\"78\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Warranty",
+      "value": "1 year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature (ºC)\","
+      "name": "Fit Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"10 - 38\""
+      "name": "Energy Efficiency Index (EEI)",
+      "value": "125"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Airborne Acoustical Noise Emission Class",
+      "value": "C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Fresh Food",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"470\""
+      "name": "Recommended Temperature Setting for Optimised Food Storage (ºC)",
+      "value": "5"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Defrosting Type (Fridge/Freezer)",
+      "value": "Manual defrost"
     },
     {
-      "name": "\"value\"",
-      "value": "\"440\""
+      "name": "Climate class",
+      "value": "extended temperate, temperate, subtropical"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"495\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fit Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Energy Efficiency Index (EEI)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"125\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Airborne Acoustical Noise Emission Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fresh Food\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Yes\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Recommended Temperature Setting for Optimised Food Storage (ºC)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Defrosting Type (Fridge/Freezer)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Manual defrost\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"extended temperate, temperate, subtropical\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Power Source\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Main\""
+      "name": "Power Source",
+      "value": "Main"
     }
   ]
 },
@@ -33014,336 +18171,177 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Haier"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Haier\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Built-in"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Fridge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge Capacity Net (l)",
+      "value": "316"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Built-in\""
+      "name": "Number of Shelves",
+      "value": "4"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Wine Rack",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"316\""
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Egg Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"4\""
+      "name": "Adjustable Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Wine Rack\","
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "114"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Noise Level (dBa)",
+      "value": "39"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Required Room Temperature",
+      "value": "16°C - 38°C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Egg Tray\","
+      "name": "Width (mm)",
+      "value": "540"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "545"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Shelves\","
+      "name": "Height (mm)",
+      "value": "1769"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "58"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Meta Information"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "EAN Code",
+      "value": "8059019079127"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Warranty",
+      "value": "2 Years"
     },
     {
-      "name": "\"value\"",
-      "value": "\"114\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Cooling System",
+      "value": "Static vented"
     },
     {
-      "name": "\"value\"",
-      "value": "\"39\""
+      "name": "Defrost Process Fridge Section",
+      "value": "Automatic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature\","
+      "name": "Gasket",
+      "value": "Pull"
     },
     {
-      "name": "\"value\"",
-      "value": "\"16°C - 38°C\""
+      "name": "Light",
+      "value": "LED"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
+      "name": "Current",
+      "value": "0.8 A"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
+      "name": "Frequency",
+      "value": "50 Hz"
     },
     {
-      "name": "\"value\"",
-      "value": "\"540\""
+      "name": "Voltage",
+      "value": "220-240 V"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
+      "name": "Control Position",
+      "value": "External control panel"
     },
     {
-      "name": "\"value\"",
-      "value": "\"545\""
+      "name": "Controls",
+      "value": "Electronic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
+      "name": "Temperature Adjustable",
+      "value": "Refrigerator"
     },
     {
-      "name": "\"value\"",
-      "value": "\"1769\""
+      "name": "Door Shelves Material",
+      "value": "Crystal clear plastic"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
+      "name": "Shelves Finish",
+      "value": "Metal Frame"
     },
     {
-      "name": "\"value\"",
-      "value": "\"58\""
+      "name": "Cover Door Installation System",
+      "value": "Slided-mounted"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
+      "name": "Door Hinge",
+      "value": "Right-mounted"
     },
     {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
+      "name": "Total Number of Door Shelves",
+      "value": "5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"8059019079127\""
+      "name": "Number of Adjustable Shelves in Fridge",
+      "value": "4+2"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Main\""
+      "name": "Climate Class",
+      "value": "Temperate, Subtropical"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 Years\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cooling System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Static vented\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Defrost Process Fridge Section\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Automatic\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Gasket\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Pull\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Light\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"LED\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Current\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"0.8 A\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Frequency\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"50 Hz\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Voltage\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"220-240 V\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"External control panel\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Controls\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Electronic\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperature Adjustable\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Refrigerator\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Shelves Material\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Crystal clear plastic\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Shelves Finish\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Metal Frame\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Cover Door Installation System\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Slided-mounted\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Door Hinge\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Right-mounted\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Total Number of Door Shelves\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"5\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Number of Adjustable Shelves in Fridge\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4+2\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Temperate, Subtropical\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Acoustical Noise Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
+      "name": "Acoustical Noise Class",
+      "value": "C"
     }
   ]
 },
@@ -33361,184 +18359,101 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Electrolux"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Electrolux\""
+      "name": "Colour",
+      "value": "Stainless Steel"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Stainless Steel\""
+      "name": "Fridge"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Fridge Capacity Net (l)",
+      "value": "395"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Number of Shelves",
+      "value": "6"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"395\""
+      "name": "Egg Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Adjustable Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"6\""
+      "name": "Environmental"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "122"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Noise Level (dBa)",
+      "value": "40"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Required Room Temperature",
+      "value": "10°C - 43°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Egg Tray\","
+      "name": "Dimensions"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Width (mm)",
+      "value": "595"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Shelves\","
+      "name": "Depth (mm)",
+      "value": "650"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Height (mm)",
+      "value": "1860"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Noise Class",
+      "value": "C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"122\""
+      "name": "Climate Class",
+      "value": "Extended Temperate,"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"40\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10°C - 43°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"595\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"650\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1860\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Noise Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Extended Temperate,\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Temperate, Subtropical, Tropical\""
+      "name": "Temperate, Subtropical, Tropical"
     }
   ]
 },
@@ -33556,248 +18471,133 @@ export const products: Product[] = [
   "inStock": true,
   "specifications": [
     {
-      "name": "\"name\"",
-      "value": "\"General\""
+      "name": "General"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Brand\","
+      "name": "Brand",
+      "value": "Electrolux"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Electrolux\""
+      "name": "Colour",
+      "value": "White"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Colour\","
+      "name": "Type",
+      "value": "Freestanding"
     },
     {
-      "name": "\"value\"",
-      "value": "\"White\""
+      "name": "Frost Free",
+      "value": "Smart Frost"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Type\","
+      "name": "Reversible Door",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Freestanding\""
+      "name": "Open Door Alert",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Frost Free\","
+      "name": "Fridge"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Smart Frost\""
+      "name": "Fridge Capacity Net (l)",
+      "value": "395"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Reversible Door\","
+      "name": "Number of Shelves",
+      "value": "5"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Glass Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Open Door Alert\","
+      "name": "Salad Box",
+      "value": "Yes"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Egg Tray",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge\""
+      "name": "Adjustable Shelves",
+      "value": "Yes"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Fridge Capacity Net (l)\","
+      "name": "Environmental"
     },
     {
-      "name": "\"value\"",
-      "value": "\"395\""
+      "name": "Energy Rating",
+      "value": "E"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Number of Shelves\","
+      "name": "Annual Energy Consumption (kWh/a)",
+      "value": "122"
     },
     {
-      "name": "\"value\"",
-      "value": "\"5\""
+      "name": "Noise Level (dBa)",
+      "value": "40"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Glass Shelves\","
+      "name": "Required Room Temperature",
+      "value": "10°C - 43°C"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Dimensions"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Salad Box\","
+      "name": "Width (mm)",
+      "value": "595"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Depth (mm)",
+      "value": "650"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Egg Tray\","
+      "name": "Height (mm)",
+      "value": "1860"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "Weight (kg)",
+      "value": "60"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Adjustable Shelves\","
+      "name": "Meta Information"
     },
     {
-      "name": "\"value\"",
-      "value": "\"Yes\""
+      "name": "EAN Code",
+      "value": "7333394035208"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Environmental\""
+      "name": "Main"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Energy Rating\","
+      "name": "Warranty",
+      "value": "1 Year"
     },
     {
-      "name": "\"value\"",
-      "value": "\"E\""
+      "name": "More"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Annual Energy Consumption (kWh/a)\","
+      "name": "Climate Class",
+      "value": "SN, N, ST, T"
     },
     {
-      "name": "\"value\"",
-      "value": "\"122\""
+      "name": "Fridge - Recommended Temp",
+      "value": "4°C"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Noise Level (dBa)\","
+      "name": "Fridge Light Type",
+      "value": "1 Top LED"
     },
     {
-      "name": "\"value\"",
-      "value": "\"40\""
+      "name": "Egg Trays",
+      "value": "2 For 8 Eggs"
     },
     {
-      "name": "\"name\"",
-      "value": "\"Required Room Temperature\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"10°C - 43°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Dimensions\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Width (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"595\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Depth (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"650\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Height (mm)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1860\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Weight (kg)\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"60\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Meta Information\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"EAN Code\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"7333394035208\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Main\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Warranty\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Year\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"More\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Climate Class\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"SN, N, ST, T\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fridge - Recommended Temp\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"4°C\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Fridge Light Type\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"1 Top LED\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Egg Trays\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"2 For 8 Eggs\""
-    },
-    {
-      "name": "\"name\"",
-      "value": "\"Control Position\","
-    },
-    {
-      "name": "\"value\"",
-      "value": "\"Top\""
+      "name": "Control Position",
+      "value": "Top"
     }
   ]
 }

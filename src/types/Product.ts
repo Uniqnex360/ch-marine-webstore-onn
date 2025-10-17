@@ -12,6 +12,6 @@ export interface Product {
   inStock: boolean;
   specifications?: Array<{
     name: string;
-    value: string;
+    value?: string;
   }>;
 }
